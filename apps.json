@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "firm": "Indiana Pacers",
+  "role": "Basketball Analytics Intern",
+  "applied": "2026-07-08",
+  "stage": "applied",
+  "note": "Resume + essays submitted. LinkedIn outreach + email sent to Hersh Gupta."
+ },
+ {
+  "id": 2,
+  "firm": "Capital One",
+  "role": "Business Analyst ADP · Feb 2027",
+  "applied": "2026-07-13",
+  "stage": "applied",
+  "note": "Rolling review. 19 days quiet — follow-up is reasonable now."
+ },
+ {
+  "id": 3,
+  "firm": "Bain & Company",
+  "role": "Associate Consultant",
+  "applied": "2026-07-18",
+  "stage": "applied",
+  "note": "Submitted before July 19 deadline. Bain reviews after each deadline date."
+ },
+ {
+  "id": 4,
+  "firm": "McKinsey & Company",
+  "role": "Business Analyst",
+  "applied": "2026-07-20",
+  "stage": "applied",
+  "note": "Rolling review. Deadline Aug 11 — decisions may come after."
+ },
+ {
+  "id": 5,
+  "firm": "OKC Thunder",
+  "role": "Basketball Analytics Analyst",
+  "applied": "",
+  "stage": "outreach",
+  "note": "Interview project done 2025. Reconnection email sent to James. Role expected any day now — check portal daily."
+ },
+ {
+  "id": 6,
+  "firm": "Wells Fargo CIB — Corporate Banking",
+  "role": "Corporate Banking Analyst Program",
+  "applied": "2026-08-01",
+  "stage": "applied",
+  "note": "Applied with mom's internal referral. Charlotte-based CIB track."
+ },
+ {
+  "id": 7,
+  "firm": "Wells Fargo CIB — Markets Analyst",
+  "role": "Markets Analyst Program",
+  "applied": "2026-07-29",
+  "stage": "interview",
+  "note": "MOVED FORWARD in the process — currently your most live opportunity. Prep hard for this one: markets/trading-adjacent, so brush up on rates, FX, and market-structure basics alongside behavioral prep."
+ }
+]
