@@ -24,7 +24,7 @@
       "type": "workday",
       "tenant": "dukeenergy",
       "wd": "wd1",
-      "siteId": "search",
+      "siteId": "Search",
       "keywords": ["financial analyst", "business analyst", "data analyst"],
       "grad_terms": ["entry", "associate", "I", "new grad"],
       "enabled": true
@@ -59,8 +59,8 @@
     {
       "id": "sportradar",
       "label": "Sportradar",
-      "type": "greenhouse",
-      "token": "sportradar",
+      "type": "smartrecruiters",
+      "company": "sportradar",
       "keywords": ["analyst", "analytics", "data", "business intelligence"],
       "grad_terms": ["associate", "entry", "junior", "graduate"],
       "enabled": true
