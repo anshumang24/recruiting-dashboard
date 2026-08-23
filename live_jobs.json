@@ -1,0 +1,857 @@
+{
+ "generated": "2026-08-23T22:27:04.301528+00:00",
+ "companies": [
+  {
+   "id": "capitalone",
+   "label": "Capital One",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-23T22:26:59.774472+00:00",
+   "total": 29,
+   "count": 6,
+   "jobs": [
+    {
+     "title": "Senior Business Analyst - Card Loss Forecasting and Allowance",
+     "location": "McLean, VA",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Analyst---Card-Loss-Forecasting-and-Allowance_R249695-1",
+     "posted": "Posted 2 Days Ago",
+     "id": "/job/McLean-VA/Senior-Business-Analyst---Card-Loss-Forecasting-and-Allowance_R249695-1",
+     "grad": false
+    },
+    {
+     "title": "Sr. Business Analyst, Network Business Enablement Strategy and Transformation Team",
+     "location": "3 Locations",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Sr-Business-Analyst--Network-Business-Enablement-Strategy-and-Transformation-Team_R247954-1",
+     "posted": "Posted 2 Days Ago",
+     "id": "/job/Chicago-IL/Sr-Business-Analyst--Network-Business-Enablement-Strategy-and-Transformation-Team_R247954-1",
+     "grad": false
+    },
+    {
+     "title": "Sr. Business Analyst - US Card",
+     "location": "4 Locations",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1",
+     "posted": "Posted 3 Days Ago",
+     "id": "/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1",
+     "grad": false
+    },
+    {
+     "title": "Senior Business Analyst, Product Strategy",
+     "location": "6 Locations",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249315-1",
+     "posted": "Posted 4 Days Ago",
+     "id": "/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249315-1",
+     "grad": false
+    },
+    {
+     "title": "Senior Business Analyst, Product Strategy",
+     "location": "6 Locations",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249318-2",
+     "posted": "Posted 4 Days Ago",
+     "id": "/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249318-2",
+     "grad": false
+    },
+    {
+     "title": "Senior Data Analyst - Analytics & Transformation",
+     "location": "3 Locations",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R249555-1",
+     "posted": "Posted 4 Days Ago",
+     "id": "/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R249555-1",
+     "grad": false
+    }
+   ]
+  },
+  {
+   "id": "dukeenergy",
+   "label": "Duke Energy",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-23T22:27:03.753918+00:00",
+   "total": 1,
+   "count": 0,
+   "jobs": []
+  },
+  {
+   "id": "spacex",
+   "label": "SpaceX",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-23T22:27:04.017268+00:00",
+   "total": 2176,
+   "count": 82,
+   "jobs": [
+    {
+     "title": "Benefits Analyst (Leave Administration)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8468662002?gh_jid=8468662002",
+     "posted": "2026-07-24T17:17:56-04:00",
+     "id": "8468662002",
+     "grad": false
+    },
+    {
+     "title": "Business Analyst (Customer Success)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002",
+     "posted": "2026-07-24T17:18:19-04:00",
+     "id": "8641231002",
+     "grad": false
+    },
+    {
+     "title": "Business Analyst (Customer Success)",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002",
+     "posted": "2026-07-24T17:58:03-04:00",
+     "id": "8641250002",
+     "grad": false
+    },
+    {
+     "title": "Business Analyst (Starlink Growth)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8681172002?gh_jid=8681172002",
+     "posted": "2026-08-20T19:56:20-04:00",
+     "id": "8681172002",
+     "grad": true
+    },
+    {
+     "title": "Business Analyst (Starlink Growth Demand Planning)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8650057002?gh_jid=8650057002",
+     "posted": "2026-08-20T20:21:35-04:00",
+     "id": "8650057002",
+     "grad": true
+    },
+    {
+     "title": "Business Analyst (Starlink Market Analysis)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002",
+     "posted": "2026-08-10T16:03:34-04:00",
+     "id": "8657082002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Analyst (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8519655002?gh_jid=8519655002",
+     "posted": "2026-07-24T17:18:00-04:00",
+     "id": "8519655002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Analyst (Starlink)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8511086002?gh_jid=8511086002",
+     "posted": "2026-07-24T17:17:59-04:00",
+     "id": "8511086002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Analyst (Starlink Aviation)",
+     "location": "Woodinville, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8547926002?gh_jid=8547926002",
+     "posted": "2026-08-07T10:51:44-04:00",
+     "id": "8547926002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Analyst, Supply Chain (Starlink Aviation)",
+     "location": "Woodinville, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8646629002?gh_jid=8646629002",
+     "posted": "2026-07-24T17:18:21-04:00",
+     "id": "8646629002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Lead, Commercial Launch",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8636654002?gh_jid=8636654002",
+     "posted": "2026-08-13T18:01:38-04:00",
+     "id": "8636654002",
+     "grad": false
+    },
+    {
+     "title": "Business Operations Manager (Starlink)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8702555002?gh_jid=8702555002",
+     "posted": "2026-08-12T18:06:23-04:00",
+     "id": "8702555002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Manager (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8702405002?gh_jid=8702405002",
+     "posted": "2026-08-12T18:06:35-04:00",
+     "id": "8702405002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Manager (Starlink Aviation)",
+     "location": "Woodinville, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8702740002?gh_jid=8702740002",
+     "posted": "2026-08-12T18:06:12-04:00",
+     "id": "8702740002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Manager (Starlink Platform Integrity)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656685002?gh_jid=8656685002",
+     "posted": "2026-08-19T20:22:14-04:00",
+     "id": "8656685002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Manager (Starlink Platform Integrity)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656705002?gh_jid=8656705002",
+     "posted": "2026-08-19T20:22:26-04:00",
+     "id": "8656705002",
+     "grad": true
+    },
+    {
+     "title": "Business Operations Manager (Starlink Platform Integrity)",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656711002?gh_jid=8656711002",
+     "posted": "2026-08-19T20:22:41-04:00",
+     "id": "8656711002",
+     "grad": true
+    },
+    {
+     "title": "Chemical Lab Analyst (Starlink PCB)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8671116002?gh_jid=8671116002",
+     "posted": "2026-08-04T08:55:36-04:00",
+     "id": "8671116002",
+     "grad": true
+    },
+    {
+     "title": "Classified Cyber Assurance Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8594579002?gh_jid=8594579002",
+     "posted": "2026-07-24T17:18:12-04:00",
+     "id": "8594579002",
+     "grad": false
+    },
+    {
+     "title": "COMSEC Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8594523002?gh_jid=8594523002",
+     "posted": "2026-07-24T17:18:12-04:00",
+     "id": "8594523002",
+     "grad": false
+    },
+    {
+     "title": "Finance Manager",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8517609002?gh_jid=8517609002",
+     "posted": "2026-07-24T17:18:00-04:00",
+     "id": "8517609002",
+     "grad": false
+    },
+    {
+     "title": "Financial Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8660037002?gh_jid=8660037002",
+     "posted": "2026-07-31T17:03:50-04:00",
+     "id": "8660037002",
+     "grad": false
+    },
+    {
+     "title": "Financial Systems Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8571649002?gh_jid=8571649002",
+     "posted": "2026-08-18T16:41:21-04:00",
+     "id": "8571649002",
+     "grad": false
+    },
+    {
+     "title": "Industrial Security Analyst (CSSO/CPSO)",
+     "location": "Vandenberg, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8717341002?gh_jid=8717341002",
+     "posted": "2026-08-17T17:44:06-04:00",
+     "id": "8717341002",
+     "grad": false
+    },
+    {
+     "title": "Information Security Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8517412002?gh_jid=8517412002",
+     "posted": "2026-07-24T17:18:00-04:00",
+     "id": "8517412002",
+     "grad": false
+    },
+    {
+     "title": "Information Security Analyst",
+     "location": "Starbase, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8530684002?gh_jid=8530684002",
+     "posted": "2026-07-24T17:18:00-04:00",
+     "id": "8530684002",
+     "grad": false
+    },
+    {
+     "title": "Internal Mobility Analyst (Recruiting) - Memphis",
+     "location": "Memphis, TN",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8706964002?gh_jid=8706964002",
+     "posted": "2026-08-13T13:56:54-04:00",
+     "id": "8706964002",
+     "grad": true
+    },
+    {
+     "title": "Inventory Control Analyst, Maintenance (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8643531002?gh_jid=8643531002",
+     "posted": "2026-08-11T14:39:32-04:00",
+     "id": "8643531002",
+     "grad": true
+    },
+    {
+     "title": "Lead Software Engineer, Application Software (Finance)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8692493002?gh_jid=8692493002",
+     "posted": "2026-08-07T21:47:06-04:00",
+     "id": "8692493002",
+     "grad": false
+    },
+    {
+     "title": "Legal Analyst, Product (Starlink)",
+     "location": "Washington, DC",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8683685002?gh_jid=8683685002",
+     "posted": "2026-08-10T10:09:11-04:00",
+     "id": "8683685002",
+     "grad": true
+    },
+    {
+     "title": "Material Flow Analyst (Starship)",
+     "location": "Starbase, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8726411002?gh_jid=8726411002",
+     "posted": "2026-08-18T14:00:32-04:00",
+     "id": "8726411002",
+     "grad": false
+    },
+    {
+     "title": "Operations Analyst, Reliability (Starship)",
+     "location": "Starbase, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8463192002?gh_jid=8463192002",
+     "posted": "2026-07-24T17:17:55-04:00",
+     "id": "8463192002",
+     "grad": false
+    },
+    {
+     "title": "Property Tax Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8639546002?gh_jid=8639546002",
+     "posted": "2026-07-24T17:18:19-04:00",
+     "id": "8639546002",
+     "grad": false
+    },
+    {
+     "title": "Propulsion Analyst, Chamber and Nozzle (Raptor)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8486119002?gh_jid=8486119002",
+     "posted": "2026-07-24T17:17:57-04:00",
+     "id": "8486119002",
+     "grad": false
+    },
+    {
+     "title": "Propulsion Analyst, Turbomachinery (Raptor)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8731594002?gh_jid=8731594002",
+     "posted": "2026-08-19T19:50:20-04:00",
+     "id": "8731594002",
+     "grad": false
+    },
+    {
+     "title": "Propulsion Fluids Analyst (Raptor Systems Engineering)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8605143002?gh_jid=8605143002",
+     "posted": "2026-07-24T17:18:14-04:00",
+     "id": "8605143002",
+     "grad": false
+    },
+    {
+     "title": "Propulsion Thermal Analyst (Raptor Combustion Devices)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8624447002?gh_jid=8624447002",
+     "posted": "2026-07-24T17:18:16-04:00",
+     "id": "8624447002",
+     "grad": false
+    },
+    {
+     "title": "Regulatory Analyst, Product (Starlink)",
+     "location": "Washington, DC",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8706164002?gh_jid=8706164002",
+     "posted": "2026-08-13T10:40:21-04:00",
+     "id": "8706164002",
+     "grad": true
+    },
+    {
+     "title": "Security Analyst (Blue Team)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8650240002?gh_jid=8650240002",
+     "posted": "2026-07-24T21:29:21-04:00",
+     "id": "8650240002",
+     "grad": false
+    },
+    {
+     "title": "Security Analyst (Detection and Incident Response)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8525400002?gh_jid=8525400002",
+     "posted": "2026-07-24T17:18:01-04:00",
+     "id": "8525400002",
+     "grad": false
+    },
+    {
+     "title": "Security Analyst (SOC)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8650239002?gh_jid=8650239002",
+     "posted": "2026-07-24T21:29:22-04:00",
+     "id": "8650239002",
+     "grad": false
+    },
+    {
+     "title": "Security Analyst (Threat Detection)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8650241002?gh_jid=8650241002",
+     "posted": "2026-07-24T21:29:23-04:00",
+     "id": "8650241002",
+     "grad": false
+    },
+    {
+     "title": "Spring 2027 Business Operations Internship/Co-op",
+     "location": "Flexible - Any SpaceX Site",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002",
+     "posted": "2026-08-03T19:26:07-04:00",
+     "id": "8621770002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Benefits Analyst (Workers' Compensation)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8568201002?gh_jid=8568201002",
+     "posted": "2026-07-24T17:18:08-04:00",
+     "id": "8568201002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Business Analyst (Customer Success)",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8641308002?gh_jid=8641308002",
+     "posted": "2026-07-28T18:02:03-04:00",
+     "id": "8641308002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Business Analyst (Customer Success)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8641254002?gh_jid=8641254002",
+     "posted": "2026-07-24T17:18:20-04:00",
+     "id": "8641254002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Business Analyst (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8651232002?gh_jid=8651232002",
+     "posted": "2026-07-27T14:16:55-04:00",
+     "id": "8651232002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Business Analyst (Starlink Enterprise)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8579649002?gh_jid=8579649002",
+     "posted": "2026-07-24T17:18:10-04:00",
+     "id": "8579649002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Business Analyst (Starlink Platform Integrity)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656689002?gh_jid=8656689002",
+     "posted": "2026-07-29T13:35:29-04:00",
+     "id": "8656689002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Business Analyst (Starlink Platform Integrity)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656681002?gh_jid=8656681002",
+     "posted": "2026-07-29T13:16:54-04:00",
+     "id": "8656681002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Business Analyst (Starlink Platform Integrity)",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656688002?gh_jid=8656688002",
+     "posted": "2026-07-29T13:35:30-04:00",
+     "id": "8656688002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Business Analyst, Workforce Planning (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8639095002?gh_jid=8639095002",
+     "posted": "2026-07-24T17:18:19-04:00",
+     "id": "8639095002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Business Analyst, Workforce Planning (Starlink)",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8639120002?gh_jid=8639120002",
+     "posted": "2026-07-24T17:18:19-04:00",
+     "id": "8639120002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Classified Cyber Assurance Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8594632002?gh_jid=8594632002",
+     "posted": "2026-07-24T17:18:12-04:00",
+     "id": "8594632002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Compensation Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8672198002?gh_jid=8672198002",
+     "posted": "2026-08-03T10:53:55-04:00",
+     "id": "8672198002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Cyber Assurance Analyst, Finance",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8688114002?gh_jid=8688114002",
+     "posted": "2026-08-08T02:40:27-04:00",
+     "id": "8688114002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Cyber Assurance Analyst, Finance",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8692443002?gh_jid=8692443002",
+     "posted": "2026-08-08T02:40:40-04:00",
+     "id": "8692443002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Cyber Assurance Analyst, Starlink",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8603677002?gh_jid=8603677002",
+     "posted": "2026-08-07T18:57:10-04:00",
+     "id": "8603677002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Cyber Assurance Analyst, Starlink",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8601804002?gh_jid=8601804002",
+     "posted": "2026-08-07T18:56:41-04:00",
+     "id": "8601804002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Financial Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8525768002?gh_jid=8525768002",
+     "posted": "2026-07-24T17:17:59-04:00",
+     "id": "8525768002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Financial Analyst, Investor Relations",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8612940002?gh_jid=8612940002",
+     "posted": "2026-07-24T17:18:15-04:00",
+     "id": "8612940002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Financial Systems Analyst (D365)",
+     "location": "Palo Alto, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8721913002?gh_jid=8721913002",
+     "posted": "2026-08-17T15:12:31-04:00",
+     "id": "8721913002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Full Stack Engineer, Finance",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8692498002?gh_jid=8692498002",
+     "posted": "2026-08-07T21:08:25-04:00",
+     "id": "8692498002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Legal Analyst, Product (Starlink)",
+     "location": "Washington, DC",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8683444002?gh_jid=8683444002",
+     "posted": "2026-08-06T18:09:35-04:00",
+     "id": "8683444002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Manager, Finance",
+     "location": "Austin, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8726371002?gh_jid=8726371002",
+     "posted": "2026-08-18T18:03:40-04:00",
+     "id": "8726371002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Platform Integrity Analyst (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8622906002?gh_jid=8622906002",
+     "posted": "2026-07-24T17:18:16-04:00",
+     "id": "8622906002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Platform Integrity Analyst (Starlink)",
+     "location": "Redmond, WA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656693002?gh_jid=8656693002",
+     "posted": "2026-07-29T13:35:29-04:00",
+     "id": "8656693002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Platform Integrity Analyst (Starlink)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8656694002?gh_jid=8656694002",
+     "posted": "2026-07-29T13:35:29-04:00",
+     "id": "8656694002",
+     "grad": true
+    },
+    {
+     "title": "Sr. Property Tax Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8608858002?gh_jid=8608858002",
+     "posted": "2026-07-24T17:18:14-04:00",
+     "id": "8608858002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Propulsion Analyst, Chamber and Nozzle (Raptor)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8703248002?gh_jid=8703248002",
+     "posted": "2026-08-13T12:54:16-04:00",
+     "id": "8703248002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Propulsion Fluids Analyst (Raptor Systems Engineering)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8605151002?gh_jid=8605151002",
+     "posted": "2026-07-24T17:18:14-04:00",
+     "id": "8605151002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Propulsion Thermal Analyst (Raptor Combustion Devices)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8517106002?gh_jid=8517106002",
+     "posted": "2026-07-24T17:18:00-04:00",
+     "id": "8517106002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Real Estate Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8568912002?gh_jid=8568912002",
+     "posted": "2026-07-24T17:18:08-04:00",
+     "id": "8568912002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Tax Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8515826002?gh_jid=8515826002",
+     "posted": "2026-07-24T17:18:00-04:00",
+     "id": "8515826002",
+     "grad": false
+    },
+    {
+     "title": "Sr. Treasury Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8643595002?gh_jid=8643595002",
+     "posted": "2026-07-24T17:18:20-04:00",
+     "id": "8643595002",
+     "grad": false
+    },
+    {
+     "title": "Structural Analyst (Raptor Combustion Devices)",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8679371002?gh_jid=8679371002",
+     "posted": "2026-08-04T21:08:31-04:00",
+     "id": "8679371002",
+     "grad": false
+    },
+    {
+     "title": "Summer 2027 Business Operations Internship/Co-op",
+     "location": "Flexible - Any SpaceX Site",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002",
+     "posted": "2026-08-03T19:35:46-04:00",
+     "id": "8621771002",
+     "grad": true
+    },
+    {
+     "title": "Supply Chain Systems Analyst (Launch)",
+     "location": "Cape Canaveral, FL",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8642186002?gh_jid=8642186002",
+     "posted": "2026-07-24T17:18:20-04:00",
+     "id": "8642186002",
+     "grad": false
+    },
+    {
+     "title": "Systems Analyst, Supply Chain (Starlink)",
+     "location": "Bastrop, TX",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8571923002?gh_jid=8571923002",
+     "posted": "2026-07-24T17:18:08-04:00",
+     "id": "8571923002",
+     "grad": true
+    },
+    {
+     "title": "Tax Analyst, International",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8542170002?gh_jid=8542170002",
+     "posted": "2026-07-24T17:18:02-04:00",
+     "id": "8542170002",
+     "grad": true
+    },
+    {
+     "title": "Technical Satellite Policy Analyst",
+     "location": "Washington, DC",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8438476002?gh_jid=8438476002",
+     "posted": "2026-08-18T16:43:16-04:00",
+     "id": "8438476002",
+     "grad": false
+    },
+    {
+     "title": "Treasury Analyst",
+     "location": "Hawthorne, CA",
+     "url": "https://boards.greenhouse.io/spacex/jobs/8716662002?gh_jid=8716662002",
+     "posted": "2026-08-17T13:39:40-04:00",
+     "id": "8716662002",
+     "grad": false
+    }
+   ]
+  },
+  {
+   "id": "fanatics",
+   "label": "Fanatics",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-23T22:27:04.121492+00:00",
+   "total": 17,
+   "count": 4,
+   "jobs": [
+    {
+     "title": "HRIS Integrations Support Analyst",
+     "location": "New York, NY, United States",
+     "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4205479009",
+     "posted": "2026-08-20T12:54:07-04:00",
+     "id": "4205479009",
+     "grad": false
+    },
+    {
+     "title": "Sr. Analyst, Global Payroll (EU/FR)",
+     "location": "London, England, United Kingdom; Manchester, England, United Kingdom; Paris, France",
+     "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4222755009",
+     "posted": "2026-08-21T16:57:39-04:00",
+     "id": "4222755009",
+     "grad": false
+    },
+    {
+     "title": "Sr. Analyst, Payroll Tax",
+     "location": "New York, NY, United States",
+     "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4374985009",
+     "posted": "2026-08-21T09:35:44-04:00",
+     "id": "4374985009",
+     "grad": false
+    },
+    {
+     "title": "Sr. Analyst, Time and Attendance (UKG Dimensions)",
+     "location": "New York, NY, United States",
+     "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4207949009",
+     "posted": "2026-08-20T12:54:07-04:00",
+     "id": "4207949009",
+     "grad": false
+    }
+   ]
+  },
+  {
+   "id": "hudl",
+   "label": "Hudl",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-23T22:27:04.214086+00:00",
+   "total": 29,
+   "count": 3,
+   "jobs": [
+    {
+     "title": "Senior Software Engineer - Core Video & Data",
+     "location": "London, United Kingdom",
+     "url": "https://job-boards.greenhouse.io/hudl/jobs/7939962",
+     "posted": "2026-08-14T16:49:30-04:00",
+     "id": "7939962",
+     "grad": false
+    },
+    {
+     "title": "Support Specialist, Data (Multilingual)",
+     "location": "London, United Kingdom",
+     "url": "https://job-boards.greenhouse.io/hudl/jobs/8104902",
+     "posted": "2026-08-17T05:54:36-04:00",
+     "id": "8104902",
+     "grad": false
+    },
+    {
+     "title": "Support Specialist, Data (Multilingual)",
+     "location": "Barcelona, Spain",
+     "url": "https://job-boards.greenhouse.io/hudl/jobs/8132009",
+     "posted": "2026-08-17T05:54:51-04:00",
+     "id": "8132009",
+     "grad": false
+    }
+   ]
+  },
+  {
+   "id": "sportradar",
+   "label": "Sportradar",
+   "ok": false,
+   "error": "HTTP 404",
+   "checked": "2026-08-23T22:27:04.300932+00:00"
+  }
+ ],
+ "new_since_last_run": [],
+ "errors": [
+  "Sportradar: HTTP 404"
+ ],
+ "manual_only": [
+  {
+   "label": "OKC Thunder",
+   "why": "Paycom portal renders via JavaScript \u2014 no public API. Check manually.",
+   "url": "https://www.nba.com/thunder/employment"
+  },
+  {
+   "label": "Analysis Group",
+   "why": "iCIMS portal, no clean public API. Check manually.",
+   "url": "https://analystcareers-analysisgroup.icims.com/jobs/search"
+  },
+  {
+   "label": "Goldman Sachs",
+   "why": "higher.gs.com is custom-built and bot-protected.",
+   "url": "https://higher.gs.com/roles"
+  },
+  {
+   "label": "Wells Fargo",
+   "why": "Phenom People platform \u2014 inconsistent API access.",
+   "url": "https://www.wellsfargojobs.com/en/early-careers/"
+  },
+  {
+   "label": "Truist",
+   "why": "Phenom People platform.",
+   "url": "https://careers.truist.com/us/en/university-recruiting"
+  }
+ ]
+}
