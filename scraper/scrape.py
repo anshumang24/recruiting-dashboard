@@ -98,8 +98,42 @@ def fetch_ashby(t):
     } for j in d.get("jobs", [])]
 
 
+def fetch_smartrecruiters(t):
+    """SmartRecruiters' public posting API. Paginated at 100/page; we pull up to 3 pages."""
+    company = t["company"]
+    out, offset = [], 0
+    for _ in range(3):
+        url = f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100&offset={offset}"
+        d = http(url)
+        items = d.get("content", [])
+        if not items:
+            break
+        for j in items:
+            loc = j.get("location") or {}
+            loc_str = ", ".join(x for x in [loc.get("city"), loc.get("region"), loc.get("country")] if x)
+            if loc.get("remote"):
+                loc_str = (loc_str + " (Remote)").strip()
+            jid = j.get("id", "")
+            url_out = f"https://jobs.smartrecruiters.com/{company}/{jid}" if jid else ""
+            for a in j.get("actions", []) or []:
+                if a.get("rel") == "postingUrl" and a.get("uri"):
+                    url_out = a["uri"]
+                    break
+            out.append({
+                "title": (j.get("name") or "").strip(),
+                "location": loc_str,
+                "url": url_out,
+                "posted": (j.get("releasedDate") or "")[:10],
+                "id": jid,
+            })
+        offset += 100
+        if offset >= d.get("totalFound", 0):
+            break
+    return out
+
+
 PROVIDERS = {"workday": fetch_workday, "greenhouse": fetch_greenhouse,
-             "lever": fetch_lever, "ashby": fetch_ashby}
+             "lever": fetch_lever, "ashby": fetch_ashby, "smartrecruiters": fetch_smartrecruiters}
 
 
 # ---------- RELEVANCE ----------
