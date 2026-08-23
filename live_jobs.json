@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-23T22:27:04.301528+00:00",
+ "generated": "2026-08-23T22:35:04.143750+00:00",
  "companies": [
   {
    "id": "capitalone",
    "label": "Capital One",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:26:59.774472+00:00",
+   "checked": "2026-08-23T22:34:59.712934+00:00",
    "total": 29,
    "count": 6,
    "jobs": [
@@ -65,7 +65,7 @@
    "label": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:27:03.753918+00:00",
+   "checked": "2026-08-23T22:35:03.249527+00:00",
    "total": 1,
    "count": 0,
    "jobs": []
@@ -75,7 +75,7 @@
    "label": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:27:04.017268+00:00",
+   "checked": "2026-08-23T22:35:03.510729+00:00",
    "total": 2176,
    "count": 82,
    "jobs": [
@@ -742,7 +742,7 @@
    "label": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:27:04.121492+00:00",
+   "checked": "2026-08-23T22:35:03.583297+00:00",
    "total": 17,
    "count": 4,
    "jobs": [
@@ -785,7 +785,7 @@
    "label": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:27:04.214086+00:00",
+   "checked": "2026-08-23T22:35:03.674616+00:00",
    "total": 29,
    "count": 3,
    "jobs": [
@@ -818,15 +818,201 @@
   {
    "id": "sportradar",
    "label": "Sportradar",
-   "ok": false,
-   "error": "HTTP 404",
-   "checked": "2026-08-23T22:27:04.300932+00:00"
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-23T22:35:04.143732+00:00",
+   "total": 72,
+   "count": 23,
+   "jobs": [
+    {
+     "title": "Senior Software Engineer, Data",
+     "location": "Vienna, at",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144764939",
+     "posted": "2026-08-21",
+     "id": "744000144764939",
+     "grad": false
+    },
+    {
+     "title": "Engineering Manager - AV Analytics and Customer Behavior",
+     "location": "Trondheim, no",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144763749",
+     "posted": "2026-08-21",
+     "id": "744000144763749",
+     "grad": false
+    },
+    {
+     "title": "Market Intelligence Analyst",
+     "location": "Vienna, at",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144749410",
+     "posted": "2026-08-21",
+     "id": "744000144749410",
+     "grad": false
+    },
+    {
+     "title": "Senior Data Scientist - MTS (m/f/d)",
+     "location": "Ljubljana, si",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144554969",
+     "posted": "2026-08-20",
+     "id": "744000144554969",
+     "grad": false
+    },
+    {
+     "title": "Financial Control & Automation Analyst",
+     "location": "Ljubljana, si",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144352409",
+     "posted": "2026-08-19",
+     "id": "744000144352409",
+     "grad": false
+    },
+    {
+     "title": "Intelligence Analyst (APAC / Africa)",
+     "location": "Singapore, sg",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144309964",
+     "posted": "2026-08-19",
+     "id": "744000144309964",
+     "grad": false
+    },
+    {
+     "title": "Data Analyst, Prediction Markets",
+     "location": "Athens, gr",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144309024",
+     "posted": "2026-08-19",
+     "id": "744000144309024",
+     "grad": false
+    },
+    {
+     "title": "Intelligence Analyst, Blockchain & Crypto",
+     "location": "Athens, gr",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000144306394",
+     "posted": "2026-08-19",
+     "id": "744000144306394",
+     "grad": false
+    },
+    {
+     "title": "Data Analyst",
+     "location": "London, gb",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000143328370",
+     "posted": "2026-08-13",
+     "id": "744000143328370",
+     "grad": false
+    },
+    {
+     "title": "Werkstudent Sports Data Operator (m/f/d)",
+     "location": "Leipzig, de",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000142713049",
+     "posted": "2026-08-10",
+     "id": "744000142713049",
+     "grad": false
+    },
+    {
+     "title": "Sports Data Operator (m/f/d)",
+     "location": "Leipzig, de",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000142577079",
+     "posted": "2026-08-10",
+     "id": "744000142577079",
+     "grad": false
+    },
+    {
+     "title": "Trading Analyst",
+     "location": "London, gb",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000141452980",
+     "posted": "2026-08-04",
+     "id": "744000141452980",
+     "grad": false
+    },
+    {
+     "title": "Business QA Analyst [m/f/d]",
+     "location": "Vienna, at",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000141189540",
+     "posted": "2026-08-03",
+     "id": "744000141189540",
+     "grad": false
+    },
+    {
+     "title": "Privacy Analyst",
+     "location": "Athens, gr",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000139133269",
+     "posted": "2026-07-22",
+     "id": "744000139133269",
+     "grad": false
+    },
+    {
+     "title": "Financial Control & Automation Analyst",
+     "location": "Leipzig, SN, de",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000139036224",
+     "posted": "2026-07-22",
+     "id": "744000139036224",
+     "grad": false
+    },
+    {
+     "title": "Analyst, Revenue Planning and Performance Analytics",
+     "location": "Ljubljana, si",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000138659879",
+     "posted": "2026-07-20",
+     "id": "744000138659879",
+     "grad": false
+    },
+    {
+     "title": "Senior Software Engineer - Data (Python, AWS)",
+     "location": "Vienna, at",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000136459712",
+     "posted": "2026-07-08",
+     "id": "744000136459712",
+     "grad": false
+    },
+    {
+     "title": "Staff Database Engineer",
+     "location": "Sevilla, es",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000136412609",
+     "posted": "2026-07-08",
+     "id": "744000136412609",
+     "grad": false
+    },
+    {
+     "title": "Staff Database Engineer [m/f/d]",
+     "location": "Ljubljana, Ljubljana, si",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000136396579",
+     "posted": "2026-07-08",
+     "id": "744000136396579",
+     "grad": false
+    },
+    {
+     "title": "Senior Manager, Revenue Planning and Performance Analytics (m/f/d)",
+     "location": "Ljubljana, si",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000136162979",
+     "posted": "2026-07-07",
+     "id": "744000136162979",
+     "grad": false
+    },
+    {
+     "title": "Integrity Analyst, Anti-Match-Fixing",
+     "location": "S\u00e3o Paulo, br",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000133077916",
+     "posted": "2026-06-19",
+     "id": "744000133077916",
+     "grad": false
+    },
+    {
+     "title": "Cricket Data Analyst",
+     "location": "Muntinlupa, ph",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000111228953",
+     "posted": "2026-02-25",
+     "id": "744000111228953",
+     "grad": false
+    },
+    {
+     "title": "Sports Analyst",
+     "location": "Montevideo, uy",
+     "url": "https://jobs.smartrecruiters.com/sportradar/744000092283235",
+     "posted": "2025-11-07",
+     "id": "744000092283235",
+     "grad": false
+    }
+   ]
   }
  ],
  "new_since_last_run": [],
- "errors": [
-  "Sportradar: HTTP 404"
- ],
+ "errors": [],
  "manual_only": [
   {
    "label": "OKC Thunder",
