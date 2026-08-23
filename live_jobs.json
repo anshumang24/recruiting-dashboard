@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-23T22:35:04.143750+00:00",
+ "generated": "2026-08-23T22:41:19.034954+00:00",
  "companies": [
   {
    "id": "capitalone",
    "label": "Capital One",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:34:59.712934+00:00",
+   "checked": "2026-08-23T22:41:14.675114+00:00",
    "total": 29,
    "count": 6,
    "jobs": [
@@ -65,7 +65,7 @@
    "label": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:35:03.249527+00:00",
+   "checked": "2026-08-23T22:41:18.154272+00:00",
    "total": 1,
    "count": 0,
    "jobs": []
@@ -75,7 +75,7 @@
    "label": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:35:03.510729+00:00",
+   "checked": "2026-08-23T22:41:18.308615+00:00",
    "total": 2176,
    "count": 82,
    "jobs": [
@@ -742,7 +742,7 @@
    "label": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:35:03.583297+00:00",
+   "checked": "2026-08-23T22:41:18.383732+00:00",
    "total": 17,
    "count": 4,
    "jobs": [
@@ -785,7 +785,7 @@
    "label": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:35:03.674616+00:00",
+   "checked": "2026-08-23T22:41:18.462345+00:00",
    "total": 29,
    "count": 3,
    "jobs": [
@@ -820,7 +820,7 @@
    "label": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-23T22:35:04.143732+00:00",
+   "checked": "2026-08-23T22:41:19.034935+00:00",
    "total": 72,
    "count": 23,
    "jobs": [
