@@ -1,96 +1,148 @@
 {
-  "_comment": "Scraper targets. Each entry defines how to check one company's careers portal.",
-  "_types": {
-    "workday": "Needs tenant + wd number + siteId. Find from a job URL: https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{siteId}/job/...",
-    "greenhouse": "Needs board token. Find from URL: boards.greenhouse.io/{token} or job-boards.greenhouse.io/{token}",
-    "lever": "Needs company slug. Find from URL: jobs.lever.co/{slug}",
-    "ashby": "Needs org slug. Find from URL: jobs.ashbyhq.com/{slug}"
+ "_comment": "Scraper targets. Each entry defines how to check one company's careers portal.",
+ "_types": {
+  "workday": "Needs tenant + wd number + siteId. Find from a job URL: https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{siteId}/job/...",
+  "greenhouse": "Needs board token. Find from URL: boards.greenhouse.io/{token} or job-boards.greenhouse.io/{token}",
+  "lever": "Needs company slug. Find from URL: jobs.lever.co/{slug}",
+  "ashby": "Needs org slug. Find from URL: jobs.ashbyhq.com/{slug}"
+ },
+ "targets": [
+  {
+   "id": "capitalone",
+   "label": "Capital One",
+   "type": "workday",
+   "tenant": "capitalone",
+   "wd": "wd12",
+   "siteId": "Capital_One",
+   "keywords": [
+    "analyst",
+    "business",
+    "data"
+   ],
+   "grad_terms": [
+    "2027",
+    "new grad",
+    "associate"
+   ],
+   "enabled": true
   },
-  "targets": [
-    {
-      "id": "capitalone",
-      "label": "Capital One",
-      "type": "workday",
-      "tenant": "capitalone",
-      "wd": "wd12",
-      "siteId": "Capital_One",
-      "keywords": ["business analyst", "analyst development", "data analyst"],
-      "grad_terms": ["2027", "new grad", "associate"],
-      "enabled": true
-    },
-    {
-      "id": "dukeenergy",
-      "label": "Duke Energy",
-      "type": "workday",
-      "tenant": "dukeenergy",
-      "wd": "wd1",
-      "siteId": "Search",
-      "keywords": ["financial analyst", "business analyst", "data analyst"],
-      "grad_terms": ["entry", "associate", "I", "new grad"],
-      "enabled": true
-    },
-    {
-      "id": "spacex",
-      "label": "SpaceX",
-      "type": "greenhouse",
-      "token": "spacex",
-      "keywords": ["business operations", "finance", "analyst"],
-      "grad_terms": ["intern", "co-op", "associate", "starlink"],
-      "enabled": true
-    },
-    {
-      "id": "fanatics",
-      "label": "Fanatics",
-      "type": "greenhouse",
-      "token": "fanaticsinc",
-      "keywords": ["analyst", "analytics", "data"],
-      "grad_terms": ["associate", "early career", "entry"],
-      "enabled": true
-    },
-    {
-      "id": "hudl",
-      "label": "Hudl",
-      "type": "greenhouse",
-      "token": "hudl",
-      "keywords": ["analyst", "analytics", "data"],
-      "grad_terms": ["associate", "entry", "junior"],
-      "enabled": true
-    },
-    {
-      "id": "sportradar",
-      "label": "Sportradar",
-      "type": "smartrecruiters",
-      "company": "sportradar",
-      "keywords": ["analyst", "analytics", "data", "business intelligence"],
-      "grad_terms": ["associate", "entry", "junior", "graduate"],
-      "enabled": true
-    }
-  ],
-  "_manual_only": [
-    {
-      "label": "OKC Thunder",
-      "why": "Paycom portal renders via JavaScript — no public API. Check manually.",
-      "url": "https://www.nba.com/thunder/employment"
-    },
-    {
-      "label": "Analysis Group",
-      "why": "iCIMS portal, no clean public API. Check manually.",
-      "url": "https://analystcareers-analysisgroup.icims.com/jobs/search"
-    },
-    {
-      "label": "Goldman Sachs",
-      "why": "higher.gs.com is custom-built and bot-protected.",
-      "url": "https://higher.gs.com/roles"
-    },
-    {
-      "label": "Wells Fargo",
-      "why": "Phenom People platform — inconsistent API access.",
-      "url": "https://www.wellsfargojobs.com/en/early-careers/"
-    },
-    {
-      "label": "Truist",
-      "why": "Phenom People platform.",
-      "url": "https://careers.truist.com/us/en/university-recruiting"
-    }
-  ]
+  {
+   "id": "dukeenergy",
+   "label": "Duke Energy",
+   "type": "workday",
+   "tenant": "dukeenergy",
+   "wd": "wd1",
+   "siteId": "Search",
+   "keywords": [
+    "analyst",
+    "financial",
+    "business"
+   ],
+   "grad_terms": [
+    "entry",
+    "associate",
+    "I",
+    "new grad"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "spacex",
+   "label": "SpaceX",
+   "type": "greenhouse",
+   "token": "spacex",
+   "keywords": [
+    "analyst",
+    "business operations",
+    "finance"
+   ],
+   "grad_terms": [
+    "intern",
+    "co-op",
+    "new grad",
+    "entry level"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "fanatics",
+   "label": "Fanatics",
+   "type": "greenhouse",
+   "token": "fanaticsinc",
+   "keywords": [
+    "analyst",
+    "analytics",
+    "data"
+   ],
+   "grad_terms": [
+    "associate",
+    "early career",
+    "entry"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "hudl",
+   "label": "Hudl",
+   "type": "greenhouse",
+   "token": "hudl",
+   "keywords": [
+    "analyst",
+    "analytics",
+    "data"
+   ],
+   "grad_terms": [
+    "associate",
+    "entry",
+    "junior"
+   ],
+   "enabled": true
+  },
+  {
+   "id": "sportradar",
+   "label": "Sportradar",
+   "type": "smartrecruiters",
+   "company": "sportradar",
+   "keywords": [
+    "analyst",
+    "analytics",
+    "data",
+    "business intelligence"
+   ],
+   "grad_terms": [
+    "associate",
+    "entry",
+    "junior",
+    "graduate"
+   ],
+   "enabled": true
+  }
+ ],
+ "_manual_only": [
+  {
+   "label": "OKC Thunder",
+   "why": "Paycom portal renders via JavaScript \u2014 no public API. Check manually.",
+   "url": "https://www.nba.com/thunder/employment"
+  },
+  {
+   "label": "Analysis Group",
+   "why": "iCIMS portal, no clean public API. Check manually.",
+   "url": "https://analystcareers-analysisgroup.icims.com/jobs/search"
+  },
+  {
+   "label": "Goldman Sachs",
+   "why": "higher.gs.com is custom-built and bot-protected.",
+   "url": "https://higher.gs.com/roles"
+  },
+  {
+   "label": "Wells Fargo",
+   "why": "Phenom People platform \u2014 inconsistent API access.",
+   "url": "https://www.wellsfargojobs.com/en/early-careers/"
+  },
+  {
+   "label": "Truist",
+   "why": "Phenom People platform.",
+   "url": "https://careers.truist.com/us/en/university-recruiting"
+  }
+ ]
 }
