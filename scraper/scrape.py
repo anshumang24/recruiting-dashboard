@@ -43,12 +43,18 @@ def fetch_workday(t):
     """Workday exposes a POST search endpoint that returns clean JSON."""
     url = f"https://{t['tenant']}.{t['wd']}.myworkdayjobs.com/wday/cxs/{t['tenant']}/{t['siteId']}/jobs"
     out, seen = [], set()
+    debug = os.environ.get("SCRAPER_DEBUG") == "1"
     for kw in t.get("keywords", [""]):
         try:
             d = http(url, "POST", {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": kw})
         except Exception as e:
             print(f"    ! workday '{kw}': {type(e).__name__}: {e}")
             continue
+        if debug:
+            total = d.get("total", "?")
+            n = len(d.get("jobPostings", []))
+            sample = d.get("jobPostings", [{}])[0].get("title", "") if d.get("jobPostings") else "(none)"
+            print(f"    [debug] kw='{kw}' url={url} total={total} returned={n} sample_title={sample!r}")
         for p in d.get("jobPostings", []):
             path = p.get("externalPath", "")
             if path in seen:
