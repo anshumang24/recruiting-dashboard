@@ -144,15 +144,38 @@ PROVIDERS = {"workday": fetch_workday, "greenhouse": fetch_greenhouse,
 
 # ---------- RELEVANCE ----------
 
+GENERIC_GRAD_SIGNALS = [
+    "new grad", "new graduate", "rotational", "rotation program", "development program",
+    "leadership development", "leadership program", "trainee", "early career",
+    "entry level", "entry-level", "graduate program", "campus", "university program",
+    "class of 2026", "class of 2027", "associate program",
+]
+
+# Titles containing these almost never mean "new grad," even if they also
+# happen to match a keyword or a loose grad term like "associate."
+SENIORITY_EXCLUDE = [
+    "senior", "sr.", "sr ", "staff", "principal", "director", "vp ", "v.p.",
+    "vice president", "head of", "manager", "lead ", " lead", "chief",
+    "executive", "svp", "evp", "president",
+]
+
 def relevant(job, t):
-    """Keep jobs matching a keyword; boost if they also look new-grad targeted."""
+    """Keep ONLY roles that look like genuine new-grad / rotational program openings."""
     hay = (job["title"] + " " + job["location"]).lower()
+
     kws = [k.lower() for k in t.get("keywords", [])]
     if kws and not any(k in hay for k in kws):
         return False, False
-    grads = [g.lower() for g in t.get("grad_terms", [])]
-    is_grad = any(g in hay for g in grads) if grads else False
-    return True, is_grad
+
+    if any(x in hay for x in SENIORITY_EXCLUDE):
+        return False, False
+
+    grads = [g.lower() for g in t.get("grad_terms", [])] + GENERIC_GRAD_SIGNALS
+    is_grad = any(g in hay for g in grads)
+    if not is_grad:
+        return False, False
+
+    return True, True
 
 
 # ---------- MAIN ----------
@@ -207,7 +230,7 @@ def run(test_only=False):
         prev_ids = {j["id"] for j in prev.get(t["id"], {}).get("jobs", [])}
         fresh = [j for j in kept if j["id"] not in prev_ids] if prev_ids else []
 
-        print(f"    {len(raw)} fetched, {len(kept)} relevant, {len(fresh)} new")
+        print(f"    {len(raw)} fetched, {len(kept)} new-grad/rotational matches, {len(fresh)} new")
         for j in fresh:
             new_findings.append({"company": t["label"], **j})
 
