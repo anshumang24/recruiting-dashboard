@@ -1,32 +1,23 @@
 {
- "generated": "2026-08-24T12:51:07.494271+00:00",
+ "generated": "2026-08-24T18:40:55.551296+00:00",
  "companies": [
   {
    "id": "capitalone",
    "label": "Capital One",
    "ok": true,
    "error": "",
-   "checked": "2026-08-24T12:51:02.518554+00:00",
-   "total": 43,
-   "count": 1,
-   "jobs": [
-    {
-     "title": "Investment Banking Analyst - KippsDeSanto - 2027",
-     "location": "McLean, VA",
-     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1",
-     "posted": "Posted 3 Days Ago",
-     "id": "/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1",
-     "grad": true
-    }
-   ]
+   "checked": "2026-08-24T18:40:34.133940+00:00",
+   "total": 47,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "dukeenergy",
    "label": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-24T12:51:06.426326+00:00",
-   "total": 27,
+   "checked": "2026-08-24T18:40:38.180375+00:00",
+   "total": 30,
    "count": 0,
    "jobs": []
   },
@@ -35,8 +26,8 @@
    "label": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-24T12:51:06.666551+00:00",
-   "total": 2176,
+   "checked": "2026-08-24T18:40:54.600000+00:00",
+   "total": 2184,
    "count": 4,
    "jobs": [
     {
@@ -78,8 +69,8 @@
    "label": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-24T12:51:06.745586+00:00",
-   "total": 17,
+   "checked": "2026-08-24T18:40:54.767549+00:00",
+   "total": 18,
    "count": 0,
    "jobs": []
   },
@@ -88,7 +79,7 @@
    "label": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-24T12:51:06.873478+00:00",
+   "checked": "2026-08-24T18:40:54.913421+00:00",
    "total": 29,
    "count": 0,
    "jobs": []
@@ -98,7 +89,7 @@
    "label": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-24T12:51:07.494253+00:00",
+   "checked": "2026-08-24T18:40:55.551278+00:00",
    "total": 71,
    "count": 0,
    "jobs": []
