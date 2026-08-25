@@ -1,15 +1,17 @@
 {
- "_comment": "Scraper targets. Each entry defines how to check one company's careers portal.",
- "_types": {
-  "workday": "Needs tenant + wd number + siteId. Find from a job URL: https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{siteId}/job/...",
-  "greenhouse": "Needs board token. Find from URL: boards.greenhouse.io/{token} or job-boards.greenhouse.io/{token}",
-  "lever": "Needs company slug. Find from URL: jobs.lever.co/{slug}",
-  "ashby": "Needs org slug. Find from URL: jobs.ashbyhq.com/{slug}"
+ "_comment": "Scraper targets. 'firm' must match the exact 'name' in firms.json so the dashboard can link live roles to the target list.",
+ "_how_to_find": {
+  "workday": "From a job URL https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{siteId}/job/... \u2014 siteId is CASE-SENSITIVE",
+  "greenhouse": "boards.greenhouse.io/{token} or job-boards.greenhouse.io/{token}",
+  "smartrecruiters": "careers.smartrecruiters.com/{company}",
+  "lever": "jobs.lever.co/{slug}",
+  "ashby": "jobs.ashbyhq.com/{slug}"
  },
  "targets": [
   {
    "id": "capitalone",
    "label": "Capital One",
+   "firm": "Capital One \u2014 Business Analyst ADP",
    "type": "workday",
    "tenant": "capitalone",
    "wd": "wd12",
@@ -17,18 +19,20 @@
    "keywords": [
     "analyst",
     "business",
-    "data"
+    "data",
+    "finance"
    ],
    "grad_terms": [
     "2027",
-    "new grad",
-    "associate"
+    "2026"
    ],
-   "enabled": true
+   "enabled": true,
+   "verified": "2026-08-23"
   },
   {
    "id": "dukeenergy",
    "label": "Duke Energy",
+   "firm": "Duke Energy",
    "type": "workday",
    "tenant": "dukeenergy",
    "wd": "wd1",
@@ -36,19 +40,19 @@
    "keywords": [
     "analyst",
     "financial",
-    "business"
+    "business",
+    "data"
    ],
    "grad_terms": [
-    "entry",
-    "associate",
-    "I",
-    "new grad"
+    "associate"
    ],
-   "enabled": true
+   "enabled": true,
+   "verified": "2026-08-23"
   },
   {
    "id": "spacex",
    "label": "SpaceX",
+   "firm": "SpaceX",
    "type": "greenhouse",
    "token": "spacex",
    "keywords": [
@@ -56,33 +60,30 @@
     "business operations",
     "finance"
    ],
-   "grad_terms": [
-    "new grad",
-    "graduate program",
-    "entry level"
-   ],
-   "enabled": true
+   "grad_terms": [],
+   "enabled": true,
+   "verified": "2026-08-23"
   },
   {
    "id": "fanatics",
    "label": "Fanatics",
+   "firm": "Fanatics",
    "type": "greenhouse",
    "token": "fanaticsinc",
    "keywords": [
     "analyst",
     "analytics",
-    "data"
+    "data",
+    "finance"
    ],
-   "grad_terms": [
-    "associate",
-    "early career",
-    "entry"
-   ],
-   "enabled": true
+   "grad_terms": [],
+   "enabled": true,
+   "verified": "2026-08-23"
   },
   {
    "id": "hudl",
    "label": "Hudl",
+   "firm": "Hudl",
    "type": "greenhouse",
    "token": "hudl",
    "keywords": [
@@ -90,16 +91,14 @@
     "analytics",
     "data"
    ],
-   "grad_terms": [
-    "associate",
-    "entry",
-    "junior"
-   ],
-   "enabled": true
+   "grad_terms": [],
+   "enabled": true,
+   "verified": "2026-08-23"
   },
   {
    "id": "sportradar",
    "label": "Sportradar",
+   "firm": "Sportradar",
    "type": "smartrecruiters",
    "company": "sportradar",
    "keywords": [
@@ -108,24 +107,108 @@
     "data",
     "business intelligence"
    ],
-   "grad_terms": [
-    "associate",
-    "entry",
-    "junior",
-    "graduate"
+   "grad_terms": [],
+   "enabled": true,
+   "verified": "2026-08-23"
+  },
+  {
+   "id": "mastercard",
+   "label": "Mastercard",
+   "firm": "Mastercard \u2014 Launch Program",
+   "type": "workday",
+   "tenant": "mastercard",
+   "wd": "wd1",
+   "siteId": "CorporateCareers",
+   "keywords": [
+    "analyst",
+    "launch",
+    "data",
+    "finance"
    ],
-   "enabled": true
+   "grad_terms": [
+    "launch"
+   ],
+   "enabled": true,
+   "verified": ""
+  },
+  {
+   "id": "nike",
+   "label": "Nike",
+   "firm": "Nike \u2014 Data Analyst 1",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "siteId": "nikecareers",
+   "keywords": [
+    "analyst",
+    "data",
+    "finance"
+   ],
+   "grad_terms": [],
+   "enabled": true,
+   "verified": ""
+  },
+  {
+   "id": "intuit",
+   "label": "Intuit",
+   "firm": "Intuit",
+   "type": "workday",
+   "tenant": "intuit",
+   "wd": "wd1",
+   "siteId": "IntuitExternalCareerSite",
+   "keywords": [
+    "analyst",
+    "data",
+    "business"
+   ],
+   "grad_terms": [],
+   "enabled": true,
+   "verified": ""
+  },
+  {
+   "id": "pepsico",
+   "label": "PepsiCo",
+   "firm": "PepsiCo",
+   "type": "workday",
+   "tenant": "pepsico",
+   "wd": "wd3",
+   "siteId": "PepsiCoCareers",
+   "keywords": [
+    "analyst",
+    "finance",
+    "data"
+   ],
+   "grad_terms": [],
+   "enabled": true,
+   "verified": ""
+  },
+  {
+   "id": "target",
+   "label": "Target",
+   "firm": "Target",
+   "type": "workday",
+   "tenant": "target",
+   "wd": "wd5",
+   "siteId": "targetcareers",
+   "keywords": [
+    "analyst",
+    "data",
+    "business"
+   ],
+   "grad_terms": [],
+   "enabled": true,
+   "verified": ""
   }
  ],
  "_manual_only": [
   {
    "label": "OKC Thunder",
-   "why": "Paycom portal renders via JavaScript \u2014 no public API. Check manually.",
+   "why": "Paycom portal is JavaScript-rendered \u2014 no public API.",
    "url": "https://www.nba.com/thunder/employment"
   },
   {
    "label": "Analysis Group",
-   "why": "iCIMS portal, no clean public API. Check manually.",
+   "why": "iCIMS portal, no clean public API.",
    "url": "https://analystcareers-analysisgroup.icims.com/jobs/search"
   },
   {
@@ -142,6 +225,21 @@
    "label": "Truist",
    "why": "Phenom People platform.",
    "url": "https://careers.truist.com/us/en/university-recruiting"
+  },
+  {
+   "label": "Cornerstone Research",
+   "why": "Custom portal; deadline is fixed and known (Sept 13).",
+   "url": "https://www.cornerstone.com/careers/analyst/how-to-apply/"
+  },
+  {
+   "label": "Vanguard",
+   "why": "Custom portal.",
+   "url": "https://www.vanguardjobs.com/"
+  },
+  {
+   "label": "Cisco",
+   "why": "Custom portal, rolling with early-close risk.",
+   "url": "https://jobs.cisco.com/jobs/SearchJobs/LIFT"
   }
  ]
 }
