@@ -1,13 +1,13 @@
 {
- "generated": "2026-08-25T12:48:18.147804+00:00",
+ "generated": "2026-08-25T18:18:53.201615+00:00",
  "companies": [
   {
    "id": "capitalone",
    "label": "Capital One",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T12:48:05.992910+00:00",
-   "total": 38,
+   "checked": "2026-08-25T18:18:23.559431+00:00",
+   "total": 41,
    "count": 0,
    "jobs": []
   },
@@ -16,7 +16,7 @@
    "label": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T12:48:17.303517+00:00",
+   "checked": "2026-08-25T18:18:27.427035+00:00",
    "total": 28,
    "count": 0,
    "jobs": []
@@ -24,9 +24,9 @@
   {
    "id": "spacex",
    "label": "SpaceX",
-   "ok": true,
-   "error": "",
-   "checked": "2026-08-25T12:48:17.493453+00:00",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "checked": "2026-08-25T18:18:52.522374+00:00",
    "total": 2170,
    "count": 4,
    "jobs": [
@@ -69,8 +69,8 @@
    "label": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T12:48:17.552224+00:00",
-   "total": 18,
+   "checked": "2026-08-25T18:18:52.591373+00:00",
+   "total": 19,
    "count": 0,
    "jobs": []
   },
@@ -79,7 +79,7 @@
    "label": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T12:48:17.616558+00:00",
+   "checked": "2026-08-25T18:18:52.663331+00:00",
    "total": 29,
    "count": 0,
    "jobs": []
@@ -89,14 +89,16 @@
    "label": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T12:48:18.147786+00:00",
+   "checked": "2026-08-25T18:18:53.201597+00:00",
    "total": 71,
    "count": 0,
    "jobs": []
   }
  ],
  "new_since_last_run": [],
- "errors": [],
+ "errors": [
+  "SpaceX: TimeoutError: The read operation timed out"
+ ],
  "manual_only": [
   {
    "label": "OKC Thunder",
