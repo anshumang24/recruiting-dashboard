@@ -218,3 +218,13 @@ footer{background:var(--surface);border-top:1px solid var(--border);text-align:c
 .live-manual{margin-top:11px;padding-top:10px;border-top:1px solid var(--border);font-size:11.5px;color:var(--text-2);line-height:1.6}
 .live-manual a{color:var(--accent)}
 .notif-hint{font-size:11.5px;color:var(--text-3);align-self:center;max-width:520px;line-height:1.45}
+
+/* live scraper results attached to firm rows */
+.lvtag{display:inline-block;font-family:'DM Mono',monospace;font-size:9px;padding:2px 7px;border-radius:8px;margin-top:5px}
+.lv-hit{background:var(--econ);color:#fff;border:1px solid var(--econ);font-weight:600}
+.lv-none{background:var(--surface-2);color:var(--text-3);border:1px solid var(--border)}
+.lv-err{background:var(--sports-bg);color:var(--sports);border:1px solid var(--sports-bd)}
+.lvlist{margin-top:4px;display:flex;flex-direction:column;gap:2px}
+.lvjob{font-size:11px;color:var(--econ);text-decoration:underline;line-height:1.4}
+.lvjob:hover{color:var(--text-1)}
+.lvmore{font-size:10px;color:var(--text-3);font-family:'DM Mono',monospace}
