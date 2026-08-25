@@ -147,8 +147,16 @@ PROVIDERS = {"workday": fetch_workday, "greenhouse": fetch_greenhouse,
 GENERIC_GRAD_SIGNALS = [
     "new grad", "new graduate", "rotational", "rotation program", "development program",
     "leadership development", "leadership program", "trainee", "early career",
-    "entry level", "entry-level", "graduate program", "campus", "university program",
-    "class of 2026", "class of 2027", "associate program",
+    "entry level", "entry-level", "graduate program", "class of 2026", "class of 2027",
+    "associate program", "associate development",
+]
+
+# Roles that are internships/co-ops rather than full-time employment. Most
+# require the candidate to still be enrolled AFTER the role ends, which a
+# December 2026 grad does not satisfy. Excluded outright, not scored.
+INTERNSHIP_EXCLUDE = [
+    "intern", "co-op", "coop", "internship", "summer 2026", "summer 2027",
+    "fall 2026 internship", "spring 2027 internship",
 ]
 
 # Titles containing these almost never mean "new grad," even if they also
@@ -160,11 +168,16 @@ SENIORITY_EXCLUDE = [
 ]
 
 def relevant(job, t):
-    """Keep ONLY roles that look like genuine new-grad / rotational program openings."""
+    """Keep ONLY roles that look like genuine full-time new-grad / rotational
+    program openings. Internships and co-ops are excluded outright — a
+    December 2026 grad doesn't qualify for most of them regardless of title."""
     hay = (job["title"] + " " + job["location"]).lower()
 
     kws = [k.lower() for k in t.get("keywords", [])]
     if kws and not any(k in hay for k in kws):
+        return False, False
+
+    if any(x in hay for x in INTERNSHIP_EXCLUDE):
         return False, False
 
     if any(x in hay for x in SENIORITY_EXCLUDE):
