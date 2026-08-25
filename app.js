@@ -247,6 +247,25 @@ function quickApply(name, role){
   save(); renderTrk(); renderDigest(); renderTable();
 }
 
+
+/* ---------- LIVE JOBS -> FIRM LINKING ---------- */
+function liveForFirm(firmName){
+  if (!LIVE) return null;
+  const c = (LIVE.companies||[]).find(x => (x.firm||x.label||'').toLowerCase() === firmName.toLowerCase());
+  if (!c) return null;
+  return { ok: c.ok, jobs: c.jobs || [], checked: c.checked, error: c.error };
+}
+function liveBadge(firmName){
+  const L = liveForFirm(firmName);
+  if (!L) return '';                       // company isn't scraper-covered
+  if (!L.ok) return `<div class="lvtag lv-err" title="${esc(L.error||'')}">⚠ portal check failed</div>`;
+  if (!L.jobs.length) return `<div class="lvtag lv-none">no new-grad roles live</div>`;
+  const list = L.jobs.slice(0,3).map(j =>
+    `<a class="lvjob" href="${j.url}" target="_blank" title="${esc(j.location||'')}">${esc(j.title)}</a>`).join('');
+  const more = L.jobs.length > 3 ? `<span class="lvmore">+${L.jobs.length-3} more</span>` : '';
+  return `<div class="lvtag lv-hit">${L.jobs.length} live new-grad role${L.jobs.length>1?'s':''}</div><div class="lvlist">${list}${more}</div>`;
+}
+
 /* ---------- TABLE ---------- */
 let filter='all', query='', sortBy='default';
 const ORD = {open:0, watch:1, applied:2, uncertain:3, notposted:4, closed:5};
@@ -292,7 +311,7 @@ function renderTable(){
       <td class="strip" style="background:${c}"></td>
       <td><div class="fnrow">${logo}<div><div class="fn">${f.star?'⭐ ':''}${f.name}</div><div class="fr">${f.role}</div></div></div>
         <span class="badge b-${f.track}">${TN[f.track]}</span>${f.prog?' <span class="badge b-prog">🎓 Program</span>':''}${f.nc&&f.track!=='nc'?' <span class="badge b-nc">NC</span>':''}
-        <div class="fnote">${f.note}</div>${vTag}</td>
+        <div class="fnote">${f.note}</div>${vTag}${liveBadge(f.name)}</td>
       <td><div class="sal">${f.sal}</div></td>
       <td><div class="city">${f.city}</div><div class="sub2">${f.office} · ${f.officeNote}</div></td>
       <td><span class="wb wb-${f.wlb}">${f.wlb==='good'?'✓ Good':f.wlb==='ok'?'~ Mixed':'✗ Hard'}</span><div class="sub2">${f.travel}</div></td>
