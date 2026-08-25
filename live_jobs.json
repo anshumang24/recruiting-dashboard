@@ -1,13 +1,13 @@
 {
- "generated": "2026-08-25T18:18:53.201615+00:00",
+ "generated": "2026-08-25T18:39:51.720494+00:00",
  "companies": [
   {
    "id": "capitalone",
    "label": "Capital One",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T18:18:23.559431+00:00",
-   "total": 41,
+   "checked": "2026-08-25T18:39:46.495130+00:00",
+   "total": 45,
    "count": 0,
    "jobs": []
   },
@@ -16,7 +16,7 @@
    "label": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T18:18:27.427035+00:00",
+   "checked": "2026-08-25T18:39:50.707145+00:00",
    "total": 28,
    "count": 0,
    "jobs": []
@@ -24,52 +24,19 @@
   {
    "id": "spacex",
    "label": "SpaceX",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
-   "checked": "2026-08-25T18:18:52.522374+00:00",
-   "total": 2170,
-   "count": 4,
-   "jobs": [
-    {
-     "title": "Internal Mobility Analyst (Recruiting) - Memphis",
-     "location": "Memphis, TN",
-     "url": "https://boards.greenhouse.io/spacex/jobs/8706964002?gh_jid=8706964002",
-     "posted": "2026-08-13T13:56:54-04:00",
-     "id": "8706964002",
-     "grad": true
-    },
-    {
-     "title": "Spring 2027 Business Operations Internship/Co-op",
-     "location": "Flexible - Any SpaceX Site",
-     "url": "https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002",
-     "posted": "2026-08-03T19:26:07-04:00",
-     "id": "8621770002",
-     "grad": true
-    },
-    {
-     "title": "Summer 2027 Business Operations Internship/Co-op",
-     "location": "Flexible - Any SpaceX Site",
-     "url": "https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002",
-     "posted": "2026-08-03T19:35:46-04:00",
-     "id": "8621771002",
-     "grad": true
-    },
-    {
-     "title": "Tax Analyst, International",
-     "location": "Hawthorne, CA",
-     "url": "https://boards.greenhouse.io/spacex/jobs/8542170002?gh_jid=8542170002",
-     "posted": "2026-07-24T17:18:02-04:00",
-     "id": "8542170002",
-     "grad": true
-    }
-   ]
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-25T18:39:50.983539+00:00",
+   "total": 2168,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "fanatics",
    "label": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T18:18:52.591373+00:00",
+   "checked": "2026-08-25T18:39:51.069579+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -79,7 +46,7 @@
    "label": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T18:18:52.663331+00:00",
+   "checked": "2026-08-25T18:39:51.151769+00:00",
    "total": 29,
    "count": 0,
    "jobs": []
@@ -89,16 +56,14 @@
    "label": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T18:18:53.201597+00:00",
+   "checked": "2026-08-25T18:39:51.720478+00:00",
    "total": 71,
    "count": 0,
    "jobs": []
   }
  ],
  "new_since_last_run": [],
- "errors": [
-  "SpaceX: TimeoutError: The read operation timed out"
- ],
+ "errors": [],
  "manual_only": [
   {
    "label": "OKC Thunder",
