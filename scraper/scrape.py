@@ -203,9 +203,30 @@ def relevant(job, t):
 
 # ---------- MAIN ----------
 
+def check_firm_links(targets):
+    """Every target's `firm` must match a real firms.json entry, or the
+    dashboard silently won't show its results. Warn loudly instead."""
+    firms_path = ROOT / "firms.json"
+    if not firms_path.exists():
+        return []
+    try:
+        names = {f["name"] for f in json.loads(firms_path.read_text(encoding="utf-8"))}
+    except Exception:
+        return []
+    broken = [t["label"] for t in targets if t.get("firm") and t["firm"] not in names]
+    return broken
+
+
 def run(verify_only=False):
     cfg = json.loads(TARGETS.read_text(encoding="utf-8"))
     targets = [t for t in cfg["targets"] if t.get("enabled", True)]
+
+    broken_links = check_firm_links(targets)
+    if broken_links:
+        print(f"⚠ LINK WARNING: {len(broken_links)} target(s) reference a firm name "
+              f"not found in firms.json — their results won't show as badges on the "
+              f"dashboard: {', '.join(broken_links)}")
+        print("  Fix: make the 'firm' field in targets.json match a 'name' in firms.json exactly.\n")
 
     prev = {}
     if OUTPUT.exists() and not verify_only:
