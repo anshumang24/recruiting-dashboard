@@ -41,23 +41,9 @@ function loadState(){
   APPS = JSON.parse(JSON.stringify(SEED_APPS)); CHECKS = {}; NEXTID = 100; return false;
 }
 
-/* ---------- COUNTDOWNS ---------- */
-const CD = [
-  {l:'Cisco LIFT',        t:'Rolling — may close early. Apply now.', d:'2026-09-01', hot:1},
-  {l:'Cornerstone',       t:'Deadline Sept 13, 11:59pm ET (confirmed)', d:'2026-09-13'},
-  {l:'Analysis Group',    t:'Expect posting any day — deadline ~Sept 14', d:'2026-09-14', hot:1},
-  {l:'Vanguard programs', t:'Opening late Aug — priority ends mid-Oct', d:'2026-10-15'},
-  {l:'Fall semester',     t:'Final semester at NC State', d:'2026-08-19'},
-  {l:'Graduation',        t:'December 2026', d:'2026-12-15'}
-];
-function renderCD(){
-  el('cds').innerHTML = CD.map(c => {
-    const n = days(c.d), cls = ((c.hot && n<=21) || n<=7) ? 'urgent' : n<=30 ? 'warn' : '';
-    return `<div class="cd ${cls}"><div class="cd-l">${c.l}</div><div class="cd-t">${c.t}</div>
-            <div class="cd-n">${n>0?n:'—'}</div><div class="cd-u">${n>0?'days':'passed'}</div></div>`;
-  }).join('');
-  el('hero-date').textContent = 'Recruiting command center · ' +
-    now().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+/* ---------- HERO DATE (was part of countdown rendering, kept standalone) ---------- */
+function renderDate(){
+  el('hero-date').textContent = now().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
 }
 
 /* ---------- DIGEST ---------- */
@@ -371,40 +357,7 @@ function exportICS(){
   a.href = u; a.download = 'recruiting-deadlines.ics'; a.click(); URL.revokeObjectURL(u);
 }
 
-/* ---------- CHECKLIST ---------- */
-const CL = [
- {t:'This week',bg:'var(--sports-bg)',fg:'var(--sports)',items:[
-  "<strong>Cisco LIFT — apply now.</strong> Rolling with early-close risk, Raleigh-based. Resume already tailored.",
-  "<strong>Check Analysis Group iCIMS portal.</strong> Expect the 2027 posting any day; deadline likely ~Sept 14.",
-  "<strong>Cornerstone — submit.</strong> Live since Aug 1, deadline Sept 13. Reviewed after deadline, so no rush penalty, but get it off your plate.",
-  "<strong>WF Markets Analyst — prep.</strong> You've moved forward. Rates, FX, market structure + behavioral.",
-  "<strong>Follow up: Capital One, Pacers.</strong> Both long quiet.",
-  "<strong>Check Vanguard early-career page.</strong> They're actively posting; graduate programs should follow."]},
- {t:'Verify before trusting',bg:'#FBF3EC',fg:'var(--accent)',items:[
-  "<strong>BofA QDA — call campus recruiting.</strong> Every posting found is intern-only. Ask directly whether external full-time applications are accepted.",
-  "<strong>Mastercard US — join talent community.</strong> Zero US openings confirmed Aug 10.",
-  "<strong>Goldman — check application page.</strong> Timelines vary by division. Max 4 applications per year, so choose deliberately.",
-  "<strong>Spot-check anything marked 'unverified'</strong> in the table before investing real effort."]},
- {t:'September',bg:'var(--econ-bg)',fg:'var(--econ)',items:[
-  "<strong>Sept 13 — Cornerstone deadline.</strong>",
-  "<strong>Analysis Group deadline (~Sept 14)</strong> once posting is live.",
-  "<strong>Vanguard priority window</strong> — apply by mid-Oct at the latest, earlier is materially better.",
-  "<strong>Wells Fargo, Truist follow-ups</strong> if no movement."]},
- {t:'Interview prep',bg:'var(--strat-bg)',fg:'var(--strat)',items:[
-  "<strong>Host OKC project on GitHub</strong> with a clean README you can link anywhere.",
-  "<strong>Write out 5 core stories:</strong> Lowe's tariff analysis, Tableau dashboard, FDIC research, OKC project, SMT cross-functional work.",
-  "<strong>10 cases out loud</strong> — market sizing, profitability, one sports-flavored.",
-  "<strong>Know your numbers cold:</strong> 100M+ rows, 20+ KPIs, R²≥0.95, 9 banks, 25 years.",
-  "<strong>Markets basics for WF:</strong> rates, FX, market structure."]}
-];
-function renderCL(){
-  el('cl').innerHTML = CL.map((c,ci) => {
-    const d = c.items.filter((_,i)=>CHECKS[ci+'-'+i]).length;
-    return `<div class="cl"><div class="cl-h" style="background:${c.bg};color:${c.fg}"><span>${c.t}</span><span class="pill">${d} / ${c.items.length}</span></div>
-      ${c.items.map((x,i)=>`<div class="cl-i ${CHECKS[ci+'-'+i]?'done':''}" onclick="tick(${ci},${i})"><div class="cb"></div><div class="ct">${x}</div></div>`).join('')}</div>`;
-  }).join('');
-}
-function tick(ci,i){ CHECKS[ci+'-'+i] = !CHECKS[ci+'-'+i]; save(); renderCL(); }
+
 
 /* ---------- BACKUP ---------- */
 function copyState(){
@@ -426,7 +379,7 @@ function resetState(){
 }
 
 /* ---------- INIT ---------- */
-function renderAll(){ renderCD(); renderDigest(); renderTrk(); renderTable(); renderCL(); renderLive(); }
+function renderAll(){ renderDate(); renderDigest(); renderTrk(); renderTable(); renderLive(); }
 
 async function init(){
   try {
@@ -463,7 +416,7 @@ async function init(){
   renderAll(); save();
   el(HAS_LS ? 'lsGood' : 'lsWarn').style.display = 'block';
   updateNotifUI(); runNotifChecks(false);
-  setInterval(() => { renderCD(); renderDigest(); }, 60000);
+  setInterval(() => { renderDate(); renderDigest(); }, 60000);
   setInterval(() => runNotifChecks(false), 30*60000);
 }
 document.addEventListener('DOMContentLoaded', init);
