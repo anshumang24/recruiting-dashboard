@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T21:35:30.261460+00:00",
+ "generated": "2026-08-26T01:22:15.086485+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:33:20.167022+00:00",
+   "checked": "2026-08-26T01:20:03.670902+00:00",
    "total": 392,
    "count": 3,
    "jobs": [
@@ -40,7 +40,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:33:25.725820+00:00",
+   "checked": "2026-08-26T01:20:09.892649+00:00",
    "total": 68,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:33:26.037584+00:00",
-   "total": 2175,
+   "checked": "2026-08-26T01:20:10.255093+00:00",
+   "total": 2176,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:33:26.151719+00:00",
+   "checked": "2026-08-26T01:20:10.345099+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:33:26.251883+00:00",
+   "checked": "2026-08-26T01:20:10.478660+00:00",
    "total": 29,
    "count": 0,
    "jobs": []
@@ -84,7 +84,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:33:26.754726+00:00",
+   "checked": "2026-08-26T01:20:11.056312+00:00",
    "total": 71,
    "count": 0,
    "jobs": []
@@ -95,8 +95,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:34:06.398044+00:00",
-   "total": 499,
+   "checked": "2026-08-26T01:20:53.179767+00:00",
+   "total": 501,
    "count": 10,
    "jobs": [
     {
@@ -177,7 +177,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:34:22.282818+00:00",
+   "checked": "2026-08-26T01:21:09.506994+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -188,7 +188,7 @@
    "firm": "Intuit",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:34:38.691952+00:00",
+   "checked": "2026-08-26T01:21:25.485113+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -199,7 +199,7 @@
    "firm": "PepsiCo",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:34:56.949710+00:00",
+   "checked": "2026-08-26T01:21:44.574717+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -210,8 +210,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-25T21:35:30.261438+00:00",
-   "total": 328,
+   "checked": "2026-08-26T01:22:15.086462+00:00",
+   "total": 329,
    "count": 1,
    "jobs": [
     {
