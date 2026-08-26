@@ -228,3 +228,11 @@ footer{background:var(--surface);border-top:1px solid var(--border);text-align:c
 .lvjob{font-size:11px;color:var(--econ);text-decoration:underline;line-height:1.4}
 .lvjob:hover{color:var(--text-1)}
 .lvmore{font-size:10px;color:var(--text-3);font-family:'DM Mono',monospace}
+
+/* application status feeding back into the target list */
+.hideclosed{display:flex;align-items:center;gap:6px;font-size:11.5px;color:var(--text-2);white-space:nowrap;cursor:pointer;user-select:none}
+.hideclosed input{cursor:pointer}
+.pipetag{display:inline-block;font-family:'DM Mono',monospace;font-size:9.5px;font-weight:600;padding:2px 8px;border-radius:9px;margin-top:5px}
+.pt-active{background:var(--strat-bg);color:var(--strat);border:1px solid var(--strat-bd)}
+.pt-offer{background:var(--econ);color:#fff;border:1px solid var(--econ)}
+.pt-closed{background:#F0EDE9;color:#8A8178;border:1px solid var(--border)}
