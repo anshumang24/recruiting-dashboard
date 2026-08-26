@@ -138,7 +138,7 @@
    "type": "workday",
    "tenant": "nike",
    "wd": "wd1",
-   "siteId": "nikecareers",
+   "siteId": "nke",
    "keywords": [
     "analyst",
     "data",
@@ -146,7 +146,7 @@
    ],
    "grad_terms": [],
    "enabled": true,
-   "verified": ""
+   "verified": "2026-08-26"
   },
   {
    "id": "intuit",
@@ -162,8 +162,9 @@
     "business"
    ],
    "grad_terms": [],
-   "enabled": true,
-   "verified": ""
+   "enabled": false,
+   "verified": "",
+   "_note": "DISABLED: careers.intuit.com job URLs (/job/-/-/27595/...) do not match standard Workday CXS pattern \u2014 likely a custom frontend or different ATS. Needs manual URL inspection before re-enabling, not another guess."
   },
   {
    "id": "pepsico",
@@ -179,8 +180,9 @@
     "data"
    ],
    "grad_terms": [],
-   "enabled": true,
-   "verified": ""
+   "enabled": false,
+   "verified": "",
+   "_note": "DISABLED: PepsiCo runs pepsicojobs.com and multiple regional Workday tenants (e.g. pbv.wd1 for a bottling subsidiary) \u2014 the real corporate tenant/siteId is unconfirmed. Needs manual URL inspection before re-enabling."
   },
   {
    "id": "target",
