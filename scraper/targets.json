@@ -202,6 +202,27 @@
    "enabled": true,
    "verified": "2026-08-26",
    "firm": "General Mills"
+  },
+  {
+   "id": "mastercard_campus",
+   "label": "Mastercard (Campus site)",
+   "type": "workday",
+   "tenant": "mastercard",
+   "wd": "wd1",
+   "siteId": "Campus",
+   "keywords": [
+    "analyst",
+    "launch",
+    "data",
+    "finance",
+    "consultant"
+   ],
+   "grad_terms": [
+    "launch"
+   ],
+   "enabled": true,
+   "verified": "2026-08-26",
+   "firm": "Mastercard \u2014 Launch Program"
   }
  ],
  "_manual_only": [
