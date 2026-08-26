@@ -267,13 +267,32 @@ function liveBadge(firmName){
 }
 
 /* ---------- TABLE ---------- */
-let filter='all', query='', sortBy='default';
+let filter='all', query='', sortBy='default', hideClosed=true;
 const ORD = {open:0, watch:1, applied:2, uncertain:3, notposted:4, closed:5};
 const oc = o => o>=45?['o-str','of-str','Strong']:o>=30?['o-gd','of-gd','Good']:o>=20?['o-rl','of-rl','Realistic']:['o-cp','of-cp','Long shot'];
 
+const STAGE_LABEL = {outreach:'Outreach sent',applied:'Applied',screening:'Screening',
+                      interview:'Interviewing',offer:'Offer!',rejected:'Not moving forward'};
+function appForFirm(firmName){
+  // most relevant application for this firm: prefer the most "advanced" stage
+  const order = ['offer','interview','screening','applied','outreach','rejected'];
+  const matches = APPS.filter(a => a.firm.toLowerCase() === firmName.toLowerCase());
+  if (!matches.length) return null;
+  matches.sort((a,b) => order.indexOf(a.stage) - order.indexOf(b.stage));
+  return matches[0];
+}
+function pipelineTag(firmName){
+  const a = appForFirm(firmName);
+  if (!a) return '';
+  const cls = a.stage==='rejected' ? 'pt-closed' : a.stage==='offer' ? 'pt-offer' : 'pt-active';
+  return `<div class="pipetag ${cls}">${STAGE_LABEL[a.stage]||a.stage}</div>`;
+}
+
 function renderTable(){
   const applied = new Set(APPS.map(a=>a.firm.toLowerCase()));
+  const closedFirms = new Set(APPS.filter(a=>a.stage==='rejected').map(a=>a.firm.toLowerCase()));
   let L = FIRMS.filter(f => {
+    if (hideClosed && closedFirms.has(f.name.toLowerCase())) return false;
     if (filter==='nc'   && !f.nc && f.track!=='nc') return false;
     if (filter==='prog' && !f.prog) return false;
     if (filter==='act') { const isA = applied.has(f.name.toLowerCase())||f.status==='applied';
@@ -290,7 +309,9 @@ function renderTable(){
     default:(a,b)=>(ORD[a.status]-ORD[b.status])||(b.star-a.star)||(b.odds-a.odds)
   };
   L.sort(S[sortBy]);
-  el('count').textContent = `Showing ${L.length} of ${FIRMS.length} targets`;
+  const hiddenN = FIRMS.length - FIRMS.filter(f=>!hideClosed || !closedFirms.has(f.name.toLowerCase())).length;
+  el('count').textContent = `Showing ${L.length} of ${FIRMS.length} targets` +
+    (hiddenN ? ` · ${hiddenN} closed hidden` : '');
 
   el('tb').innerHTML = L.map(f => {
     const c = TC[f.track]||'var(--vol)', [o1,o2,o3] = oc(f.odds);
@@ -305,13 +326,13 @@ function renderTable(){
       ? `<div class="vtag ${vAge>=14?'vold':''}" title="${esc(f.verifyNote)}">✓ verified ${fmt(f.verified)}${vAge>=14?` · ${vAge}d ago`:''}</div>`
       : `<div class="vtag vnone" title="No direct verification — treat status as an assumption">unverified</div>`;
     const act = done
-      ? '<span class="done-tag">✓ In pipeline</span>'
+      ? `<span class="done-tag">✓ In pipeline</span>`
       : `<a class="ab" style="background:${c}" href="${f.link}" target="_blank">Open ↗</a><button class="miniadd" onclick="quickApply('${f.name.replace(/'/g,"\\'")}','${(f.role||'').replace(/'/g,"\\'")}')">+ Applied</button>`;
     return `<tr${done?' class="rowdone"':''}>
       <td class="strip" style="background:${c}"></td>
       <td><div class="fnrow">${logo}<div><div class="fn">${f.star?'⭐ ':''}${f.name}</div><div class="fr">${f.role}</div></div></div>
         <span class="badge b-${f.track}">${TN[f.track]}</span>${f.prog?' <span class="badge b-prog">🎓 Program</span>':''}${f.nc&&f.track!=='nc'?' <span class="badge b-nc">NC</span>':''}
-        <div class="fnote">${f.note}</div>${vTag}${liveBadge(f.name)}</td>
+        <div class="fnote">${f.note}</div>${pipelineTag(f.name)}${vTag}${liveBadge(f.name)}</td>
       <td><div class="sal">${f.sal}</div></td>
       <td><div class="city">${f.city}</div><div class="sub2">${f.office} · ${f.officeNote}</div></td>
       <td><span class="wb wb-${f.wlb}">${f.wlb==='good'?'✓ Good':f.wlb==='ok'?'~ Mixed':'✗ Hard'}</span><div class="sub2">${f.travel}</div></td>
@@ -417,6 +438,7 @@ async function init(){
 
   el('q').addEventListener('input', e => { query = e.target.value.toLowerCase().trim(); renderTable(); });
   el('sort').addEventListener('change', e => { sortBy = e.target.value; renderTable(); });
+  el('hideClosed').addEventListener('change', e => { hideClosed = e.target.checked; renderTable(); });
   document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', function(){
     document.querySelectorAll('.tab').forEach(x => x.classList.remove('on'));
     this.classList.add('on'); filter = this.dataset.c; renderTable();
