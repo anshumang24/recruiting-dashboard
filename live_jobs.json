@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T12:54:44.452233+00:00",
+ "generated": "2026-08-26T19:51:33.623512+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:53:13.521377+00:00",
-   "total": 393,
+   "checked": "2026-08-26T19:49:57.002099+00:00",
+   "total": 391,
    "count": 3,
    "jobs": [
     {
@@ -40,8 +40,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:53:19.629015+00:00",
-   "total": 63,
+   "checked": "2026-08-26T19:50:03.346980+00:00",
+   "total": 66,
    "count": 0,
    "jobs": []
   },
@@ -51,8 +51,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:53:20.002052+00:00",
-   "total": 2181,
+   "checked": "2026-08-26T19:50:03.739714+00:00",
+   "total": 2188,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:53:20.134551+00:00",
+   "checked": "2026-08-26T19:50:03.899108+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:53:20.262390+00:00",
-   "total": 27,
+   "checked": "2026-08-26T19:50:04.049238+00:00",
+   "total": 26,
    "count": 0,
    "jobs": []
   },
@@ -84,8 +84,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:53:20.844039+00:00",
-   "total": 71,
+   "checked": "2026-08-26T19:50:04.686320+00:00",
+   "total": 70,
    "count": 0,
    "jobs": []
   },
@@ -95,7 +95,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:54:02.143939+00:00",
+   "checked": "2026-08-26T19:50:46.871938+00:00",
    "total": 504,
    "count": 10,
    "jobs": [
@@ -177,8 +177,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:54:12.369796+00:00",
-   "total": 187,
+   "checked": "2026-08-26T19:50:56.943242+00:00",
+   "total": 188,
    "count": 0,
    "jobs": []
   },
@@ -188,8 +188,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T12:54:44.452212+00:00",
-   "total": 326,
+   "checked": "2026-08-26T19:51:33.623492+00:00",
+   "total": 323,
    "count": 1,
    "jobs": [
     {
