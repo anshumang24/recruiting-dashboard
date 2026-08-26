@@ -182,6 +182,38 @@ SENIORITY_EXCLUDE = [
     "phd", "postdoc",
 ]
 
+# Countries/regions that show up often in global companies' postings. If one of
+# these appears and no US marker also appears, the role is outside the US —
+# not usable given US-only eligibility. Ambiguous locations (no marker either
+# way, e.g. a bare city name) default to KEEP rather than risk a false drop.
+NON_US_MARKERS = [
+    "brazil", "chile", "mexico", "canada", "argentina", "colombia", "peru",
+    "costa rica", "united kingdom", " uk", "ireland", "germany", "france",
+    "spain", "italy", "netherlands", "poland", "romania", "portugal",
+    "india", "singapore", "philippines", "vietnam", "china", "japan",
+    "australia", "new zealand", "south africa", "uae", "dubai", "israel",
+    "sweden", "switzerland", "belgium", "austria", "denmark", "norway",
+]
+US_MARKERS = [
+    " usa", "u.s.", "united states", " us,", ", us ",
+    " al ", " ak ", " az ", " ar ", " ca ", " co ", " ct ", " de ", " fl ",
+    " ga ", " hi ", " id ", " il ", " in ", " ia ", " ks ", " ky ", " la ",
+    " me ", " md ", " ma ", " mi ", " mn ", " ms ", " mo ", " mt ", " ne ",
+    " nv ", " nh ", " nj ", " nm ", " ny ", " nc ", " nd ", " oh ", " ok ",
+    " or ", " pa ", " ri ", " sc ", " sd ", " tn ", " tx ", " ut ", " vt ",
+    " va ", " wa ", " wv ", " wi ", " wy ", " dc ",
+]
+
+
+def is_us_location(hay):
+    """None if ambiguous (no signal either way) -> caller treats as keep."""
+    padded = f" {hay} "
+    if any(m in padded for m in US_MARKERS):
+        return True
+    if any(m in hay for m in NON_US_MARKERS):
+        return False
+    return None  # ambiguous — don't guess wrong direction
+
 
 def relevant(job, t):
     """True only for full-time, new-grad-eligible roles."""
@@ -198,7 +230,15 @@ def relevant(job, t):
         return False
 
     signals = GRAD_SIGNALS + [g.lower() for g in t.get("grad_terms", [])]
-    return any(s in hay for s in signals)
+    if not any(s in hay for s in signals):
+        return False
+
+    if not t.get("allow_international", False):
+        us = is_us_location(hay)
+        if us is False:
+            return False
+
+    return True
 
 
 # ---------- MAIN ----------
