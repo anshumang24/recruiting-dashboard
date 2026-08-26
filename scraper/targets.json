@@ -149,42 +149,6 @@
    "verified": "2026-08-26"
   },
   {
-   "id": "intuit",
-   "label": "Intuit",
-   "firm": "Intuit",
-   "type": "workday",
-   "tenant": "intuit",
-   "wd": "wd1",
-   "siteId": "IntuitExternalCareerSite",
-   "keywords": [
-    "analyst",
-    "data",
-    "business"
-   ],
-   "grad_terms": [],
-   "enabled": false,
-   "verified": "",
-   "_note": "DISABLED: careers.intuit.com job URLs (/job/-/-/27595/...) do not match standard Workday CXS pattern \u2014 likely a custom frontend or different ATS. Needs manual URL inspection before re-enabling, not another guess."
-  },
-  {
-   "id": "pepsico",
-   "label": "PepsiCo",
-   "firm": "PepsiCo",
-   "type": "workday",
-   "tenant": "pepsico",
-   "wd": "wd3",
-   "siteId": "PepsiCoCareers",
-   "keywords": [
-    "analyst",
-    "finance",
-    "data"
-   ],
-   "grad_terms": [],
-   "enabled": false,
-   "verified": "",
-   "_note": "DISABLED: PepsiCo runs pepsicojobs.com and multiple regional Workday tenants (e.g. pbv.wd1 for a bottling subsidiary) \u2014 the real corporate tenant/siteId is unconfirmed. Needs manual URL inspection before re-enabling."
-  },
-  {
    "id": "target",
    "label": "Target",
    "firm": "Target",
@@ -242,6 +206,16 @@
    "label": "Cisco",
    "why": "Custom portal, rolling with early-close risk.",
    "url": "https://jobs.cisco.com/jobs/SearchJobs/LIFT"
+  },
+  {
+   "label": "Intuit",
+   "why": "jobs.intuit.com uses a custom platform (category-ID URLs, not Workday/Greenhouse/Lever/Ashby/SmartRecruiters) \u2014 likely Phenom People. No public API.",
+   "url": "https://jobs.intuit.com/search-jobs"
+  },
+  {
+   "label": "PepsiCo",
+   "why": "pepsicojobs.com is a custom or Avature-based portal, doesn't match any supported platform. No public API found.",
+   "url": "https://www.pepsicojobs.com/financelegal/jobs"
   }
  ]
 }
