@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T19:58:15.850735+00:00",
+ "generated": "2026-08-26T20:14:12.544111+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:56:41.721098+00:00",
+   "checked": "2026-08-26T20:12:00.333546+00:00",
    "total": 391,
    "count": 3,
    "jobs": [
@@ -40,7 +40,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:56:47.566090+00:00",
+   "checked": "2026-08-26T20:12:06.709018+00:00",
    "total": 66,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:56:47.796548+00:00",
-   "total": 2188,
+   "checked": "2026-08-26T20:12:06.945790+00:00",
+   "total": 2189,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:56:47.875151+00:00",
+   "checked": "2026-08-26T20:12:07.045660+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:56:47.940854+00:00",
+   "checked": "2026-08-26T20:12:07.116039+00:00",
    "total": 26,
    "count": 0,
    "jobs": []
@@ -84,7 +84,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:56:48.445471+00:00",
+   "checked": "2026-08-26T20:12:07.705460+00:00",
    "total": 70,
    "count": 0,
    "jobs": []
@@ -95,81 +95,10 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:57:28.338961+00:00",
+   "checked": "2026-08-26T20:12:50.485248+00:00",
    "total": 503,
-   "count": 10,
-   "jobs": [
-    {
-     "title": "Launch Program, 2027 \u2013 S\u00e3o Paulo, Brazil",
-     "location": "Sao Paulo, Brazil",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Sao-Paulo-Brazil/Launch-Program--2027---So-Paulo--Brazil_R-286482-1",
-     "posted": "Posted 29 Days Ago",
-     "id": "/job/Sao-Paulo-Brazil/Launch-Program--2027---So-Paulo--Brazil_R-286482-1"
-    },
-    {
-     "title": "Launch Program, 2027 \u2013 Santiago, Chile",
-     "location": "Santiago, Chile",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Santiago-Chile/Launch-Program--2027---Santiago--Chile_R-284463-1",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Santiago-Chile/Launch-Program--2027---Santiago--Chile_R-284463-1"
-    },
-    {
-     "title": "Associate Consultant, Business Experimentation, Launch Program \u2013 2027, San Jose, Costa Rica",
-     "location": "San Jose, Costa Rica",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/San-Jose-Costa-Rica/Associate-Consultant--Business-Experimentation--Launch-Program---2027--San-Jose--Costa-Rica_R-288237-1",
-     "posted": "Posted 15 Days Ago",
-     "id": "/job/San-Jose-Costa-Rica/Associate-Consultant--Business-Experimentation--Launch-Program---2027--San-Jose--Costa-Rica_R-288237-1"
-    },
-    {
-     "title": "Associate Consultant, Performance Analytics, Launch Program 2027 - San Jose, Costa Rica",
-     "location": "San Jose, Costa Rica",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/San-Jose-Costa-Rica/Associate-Consultant--Performance-Analytics--Launch-Program-2027---San-Jose--Costa-Rica_R-288234-1",
-     "posted": "Posted 15 Days Ago",
-     "id": "/job/San-Jose-Costa-Rica/Associate-Consultant--Performance-Analytics--Launch-Program-2027---San-Jose--Costa-Rica_R-288234-1"
-    },
-    {
-     "title": "Associate Consultant, Marketing Services Launch Program \u2013 2027, San Jose, Costa Rica",
-     "location": "San Jose, Costa Rica",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/San-Jose-Costa-Rica/Associate-Consultant--Marketing-Services-Launch-Program---2027--San-Jose--Costa-Rica_R-288232-1",
-     "posted": "Posted 15 Days Ago",
-     "id": "/job/San-Jose-Costa-Rica/Associate-Consultant--Marketing-Services-Launch-Program---2027--San-Jose--Costa-Rica_R-288232-1"
-    },
-    {
-     "title": "Associate Consultant, Business Experimentation, Launch Program 2027 -  Mexico City, Mexico",
-     "location": "Mexico City, Mexico",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant--Business-Experimentation--Launch-Program-2027----Mexico-City--Mexico_R-286995-1",
-     "posted": "Posted 26 Days Ago",
-     "id": "/job/Mexico-City-Mexico/Associate-Consultant--Business-Experimentation--Launch-Program-2027----Mexico-City--Mexico_R-286995-1"
-    },
-    {
-     "title": "Associate Consultant, Marketing Services, Launch Program 2027 - Mexico City, Mexico",
-     "location": "Mexico City, Mexico",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant--Marketing-Services--Launch-Program-2027---Mexico-City--Mexico_R-286997-1",
-     "posted": "Posted 26 Days Ago",
-     "id": "/job/Mexico-City-Mexico/Associate-Consultant--Marketing-Services--Launch-Program-2027---Mexico-City--Mexico_R-286997-1"
-    },
-    {
-     "title": "Associate Consultant, Strategy & Transformation, Launch Program 2027 - Mexico City, Mexico",
-     "location": "Mexico City, Mexico",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Associate-Consultant--Strategy---Transformation--Launch-Program-2027---Mexico-City--Mexico_R-286994-1",
-     "posted": "Posted 26 Days Ago",
-     "id": "/job/Mexico-City-Mexico/Associate-Consultant--Strategy---Transformation--Launch-Program-2027---Mexico-City--Mexico_R-286994-1"
-    },
-    {
-     "title": "Associate Consultant, Launch Program 2027 \u2013 Santiago, Chile",
-     "location": "Santiago, Chile",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Santiago-Chile/Associate-Consultant--Launch-Program-2027---Santiago--Chile_R-282516-1",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Santiago-Chile/Associate-Consultant--Launch-Program-2027---Santiago--Chile_R-282516-1"
-    },
-    {
-     "title": "Associate Consultant, Launch Program 2027 \u2013 Buenos Aires, Argentina",
-     "location": "Buenos Aires, Argentina",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Buenos-Aires-Argentina/Associate-Consultant--Launch-Program-2027---Buenos-Aires--Argentina_R-282233-1",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Buenos-Aires-Argentina/Associate-Consultant--Launch-Program-2027---Buenos-Aires--Argentina_R-282233-1"
-    }
-   ]
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "nike",
@@ -177,7 +106,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:57:41.471699+00:00",
+   "checked": "2026-08-26T20:12:59.499591+00:00",
    "total": 188,
    "count": 0,
    "jobs": []
@@ -188,7 +117,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T19:58:15.850714+00:00",
+   "checked": "2026-08-26T20:13:32.400983+00:00",
    "total": 323,
    "count": 1,
    "jobs": [
@@ -200,6 +129,28 @@
      "id": "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572"
     }
    ]
+  },
+  {
+   "id": "lowes",
+   "label": "Lowe's",
+   "firm": "Lowe's",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-26T20:13:51.889803+00:00",
+   "total": 405,
+   "count": 0,
+   "jobs": []
+  },
+  {
+   "id": "generalmills",
+   "label": "General Mills",
+   "firm": "General Mills",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-26T20:14:12.544058+00:00",
+   "total": 211,
+   "count": 0,
+   "jobs": []
   }
  ],
  "new_since_last_run": [],
@@ -244,6 +195,16 @@
    "label": "Cisco",
    "why": "Custom portal, rolling with early-close risk.",
    "url": "https://jobs.cisco.com/jobs/SearchJobs/LIFT"
+  },
+  {
+   "label": "Intuit",
+   "why": "jobs.intuit.com uses a custom platform (category-ID URLs, not Workday/Greenhouse/Lever/Ashby/SmartRecruiters) \u2014 likely Phenom People. No public API.",
+   "url": "https://jobs.intuit.com/search-jobs"
+  },
+  {
+   "label": "PepsiCo",
+   "why": "pepsicojobs.com is a custom or Avature-based portal, doesn't match any supported platform. No public API found.",
+   "url": "https://www.pepsicojobs.com/financelegal/jobs"
   }
  ]
 }
