@@ -40,7 +40,15 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Portal check: $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            # Someone may have pushed (e.g. uploaded files via GitHub UI) while
+            # this run was in progress. Pull-rebase onto whatever's new, then
+            # retry the push a few times before giving up — this only touches
+            # live_jobs.json, so a rebase here is always safe to auto-resolve.
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed, retrying..."
+              sleep 5
+            done
           fi
 
       # Opening an issue emails you automatically (GitHub notifies repo owners
