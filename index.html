@@ -3,166 +3,111 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Anshuman Gupta — Recruiting Command Center</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<title>Anshuman Gupta — Recruiting</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <nav class="nav">
-  <div class="nav-brand">Anshuman <span>2026</span></div>
+  <div class="nav-brand">Anshuman</div>
   <a href="#now">This week</a>
   <a href="#tracker">Pipeline</a>
   <a href="#firms">Targets</a>
-  <a href="#checklist">Checklist</a>
   <a href="#data">Data</a>
 </nav>
 
-<section class="hero">
+<header class="hero">
   <div class="hero-in">
-    <div class="eyebrow" id="hero-date">Recruiting command center</div>
-    <h1>Anshuman<br><em>Gupta.</em></h1>
-    <p class="tag">BA Business Analytics + Economics · NC State Poole · Lowe's internship complete · December 2026 grad · January 2027 start target</p>
-    <div class="cds" id="cds"></div>
+    <h1>Anshuman Gupta</h1>
+    <p class="tag">Business Analytics + Economics · NC State · Dec 2026 grad · targeting Jan/Feb 2027 start</p>
+    <div class="hero-date" id="hero-date"></div>
   </div>
-</section>
+</header>
 
-<hr class="div">
+<main>
+  <section class="page" id="now">
+    <div class="loaderr" id="loadErr"></div>
+    <div id="lsGood" class="banner good">Auto-save on — your pipeline, notes, and progress save to this browser.</div>
+    <div id="lsWarn" class="banner warn">Auto-save unavailable here — this page needs to be hosted (GitHub Pages) for it to work. Use the backup code at the bottom for now.</div>
 
-<div class="page" id="now">
-  <div class="eyebrow">Auto-generated</div>
-  <h2 class="sec">This <em>week.</em></h2>
-  <p class="sub">Recomputed from your live target list and pipeline every time you open this page. Nothing here is hand-written.</p>
+    <div class="digest" id="digest"></div>
 
-  <div class="loaderr" id="loadErr"></div>
-  <div id="lsGood" class="banner good"><b>Auto-save is on.</b> Pipeline stages, notes, and checklist ticks save to this browser automatically.</div>
-  <div id="lsWarn" class="banner warn"><b>Auto-save unavailable.</b> This page must be hosted (GitHub Pages) for auto-save. Use the backup code at the bottom until then.</div>
-
-  <div class="digest" id="digest"></div>
-
-  <div style="display:flex;gap:9px;flex-wrap:wrap;margin:16px 0 6px">
-    <button class="btn" id="notifBtn" onclick="enableNotifs()">🔔 Enable desktop notifications</button>
-    <span class="notif-hint">Alerts for deadlines (14/7/3/1 days out), new postings found by the scraper, and applications quiet 21+ days. Works while this tab is open.</span>
-  </div>
-
-  <div class="livebox" id="livePanel"></div>
-</div>
-
-<hr class="div">
-
-<div class="page" id="tracker">
-  <div class="eyebrow">Pipeline</div>
-  <h2 class="sec">Application <em>tracker.</em></h2>
-  <p class="sub">Everything in flight. Change stages from the dropdown, click any note to edit it. Anything quiet 21+ days flags itself.</p>
-  <div class="trk-grid" id="trk"></div>
-  <div style="display:flex;gap:9px;flex-wrap:wrap">
-    <button class="btn" onclick="addApp()">+ Add application</button>
-    <button class="btn" onclick="exportICS()">📅 Export deadlines to calendar</button>
-  </div>
-</div>
-
-<hr class="div">
-
-<div class="page" id="firms">
-  <div class="eyebrow">Every target</div>
-  <h2 class="sec">The full <em>firm list.</em></h2>
-  <p class="sub">Search, sort, filter. Each row shows when its status was last verified — treat anything marked <em>unverified</em> as an assumption, not a fact.</p>
-
-  <div class="ctrl">
-    <input class="search" id="q" placeholder="Search company, role, city, or notes…">
-    <label class="hideclosed"><input type="checkbox" id="hideClosed" checked> Hide closed roles</label>
-    <select class="sortsel" id="sort">
-      <option value="default">Sort: Recommended</option>
-      <option value="odds">Sort: Best odds</option>
-      <option value="oddsasc">Sort: Longest shots</option>
-      <option value="sal">Sort: Highest salary</option>
-      <option value="deadline">Sort: Soonest deadline</option>
-      <option value="stale">Sort: Least recently verified</option>
-      <option value="name">Sort: A–Z</option>
-    </select>
-  </div>
-
-  <div class="tabs">
-    <button class="tab on" data-c="all">All</button>
-    <button class="tab" data-c="act">🔥 Actionable now</button>
-    <button class="tab" data-c="prog">🎓 New grad programs</button>
-    <button class="tab" data-c="sports">🏀 Sports</button>
-    <button class="tab" data-c="econ">📊 Econ consulting</button>
-    <button class="tab" data-c="strat">💼 Strategy</button>
-    <button class="tab" data-c="nc">🏠 NC</button>
-    <button class="tab" data-c="bank">🏦 Banking</button>
-    <button class="tab" data-c="fintech">💳 Fintech</button>
-    <button class="tab" data-c="tech">🛡 Big tech / retail</button>
-    <button class="tab" data-c="fall">🍂 Fall internships</button>
-  </div>
-
-  <div class="legend">
-    <span class="legend-l">Row color</span>
-    <span class="leg"><i style="background:var(--fall)"></i>Fall internship</span>
-    <span class="leg"><i style="background:var(--nc)"></i>NC — Charlotte / Raleigh</span>
-    <span class="leg"><i style="background:var(--sports)"></i>Sports</span>
-    <span class="leg"><i style="background:var(--econ)"></i>Econ consulting</span>
-    <span class="leg"><i style="background:var(--strat)"></i>Strategy</span>
-    <span class="leg"><i style="background:var(--bank)"></i>Banking</span>
-    <span class="leg"><i style="background:var(--fintech)"></i>Fintech</span>
-    <span class="leg"><i style="background:var(--vol)"></i>Big tech / retail</span>
-  </div>
-
-  <div class="count" id="count"></div>
-  <div class="twrap">
-    <table>
-      <thead><tr>
-        <th style="width:4px;padding:0;border-right:none"></th>
-        <th style="width:26%">Firm</th>
-        <th style="width:9%">Salary</th>
-        <th style="width:13%">Location · Office</th>
-        <th style="width:10%">WLB · Travel</th>
-        <th style="width:15%">Status / Dates</th>
-        <th style="width:8%">Odds</th>
-        <th style="width:10%">Action</th>
-      </tr></thead>
-      <tbody id="tb"></tbody>
-    </table>
-  </div>
-</div>
-
-<hr class="div">
-
-<div class="page" id="checklist">
-  <div class="eyebrow">Track your progress</div>
-  <h2 class="sec">The <em>checklist.</em></h2>
-  <p class="sub">Click to mark done. Saves automatically.</p>
-  <div class="cl-grid" id="cl"></div>
-</div>
-
-<hr class="div">
-
-<div class="page" id="data">
-  <div class="eyebrow">Your data</div>
-  <h2 class="sec">Backup &amp; <em>maintenance.</em></h2>
-  <p class="sub" id="saveStatus">Checking storage…</p>
-
-  <div class="note">
-    <div class="note-l">How to update this dashboard</div>
-    <p><strong>Company data now lives in <code>firms.json</code>, separate from the code.</strong> To change a deadline, fix a status, or add a company, edit that one file in GitHub's web editor — you never touch the HTML or JS again.</p>
-    <p><strong>Each firm has a <code>verified</code> date.</strong> When you check a portal yourself and confirm what's there, update that date and the <code>verifyNote</code>. The dashboard flags anything unchecked for 14+ days, so stale assumptions surface instead of silently rotting.</p>
-    <p><strong>Four files must be in the repo together:</strong> <code>index.html</code>, <code>style.css</code>, <code>app.js</code>, <code>firms.json</code>, <code>apps.json</code>.</p>
-    <div style="display:flex;gap:9px;flex-wrap:wrap;margin-top:12px">
-      <button class="btn primary" onclick="copyState()">Copy backup code</button>
-      <button class="btn" onclick="restoreState()">Restore from code</button>
-      <button class="btn" onclick="exportICS()">📅 Export calendar</button>
-      <button class="btn" onclick="resetState()">Reset</button>
+    <div class="notifrow">
+      <button class="btn ghost" id="notifBtn" onclick="enableNotifs()">Enable notifications</button>
+      <span class="hint">Alerts for deadlines, new postings, and applications gone quiet — while this tab's open.</span>
     </div>
-    <textarea class="state" id="stateBox" placeholder="Backup code appears here. Paste an existing code and click Restore."></textarea>
-  </div>
-</div>
 
-<footer>
-  <strong>Anshuman Gupta · Recruiting Command Center v5</strong><br>
-  Digest, countdowns, and stale flags compute live from today's date<br>
-  Status accuracy depends on the <code>verified</code> field — check portals directly and update <code>firms.json</code><br>
-  Odds are estimates based on profile fit and firm selectivity, not guarantees
-</footer>
+    <div class="livebox" id="livePanel"></div>
+  </section>
+
+  <section class="page" id="tracker">
+    <h2>Pipeline</h2>
+    <div class="trk-grid" id="trk"></div>
+    <div class="rowbtns">
+      <button class="btn" onclick="addApp()">+ Add application</button>
+      <button class="btn ghost" onclick="exportICS()">Export deadlines (.ics)</button>
+    </div>
+  </section>
+
+  <section class="page" id="firms">
+    <h2>Targets</h2>
+
+    <div class="ctrl">
+      <input class="search" id="q" placeholder="Search…">
+      <label class="hideclosed"><input type="checkbox" id="hideClosed" checked> Hide closed</label>
+      <select class="sortsel" id="sort">
+        <option value="default">Recommended</option>
+        <option value="odds">Best odds</option>
+        <option value="oddsasc">Longest shots</option>
+        <option value="sal">Highest salary</option>
+        <option value="deadline">Soonest deadline</option>
+        <option value="stale">Least recently verified</option>
+        <option value="name">A–Z</option>
+      </select>
+    </div>
+
+    <div class="tabs">
+      <button class="tab on" data-c="all">All</button>
+      <button class="tab" data-c="act">Actionable</button>
+      <button class="tab" data-c="prog">Programs</button>
+      <button class="tab" data-c="sports">Sports</button>
+      <button class="tab" data-c="econ">Econ</button>
+      <button class="tab" data-c="strat">Strategy</button>
+      <button class="tab" data-c="nc">NC</button>
+      <button class="tab" data-c="bank">Banking</button>
+      <button class="tab" data-c="fintech">Fintech</button>
+      <button class="tab" data-c="tech">Tech/Retail</button>
+      <button class="tab" data-c="fall">Fall intern</button>
+    </div>
+
+    <div class="count" id="count"></div>
+    <div class="twrap">
+      <table>
+        <thead><tr>
+          <th style="width:4px;padding:0;border-right:none"></th>
+          <th>Firm</th><th>Salary</th><th>Location</th><th>WLB</th>
+          <th>Status</th><th>Odds</th><th>Action</th>
+        </tr></thead>
+        <tbody id="tb"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="page" id="data">
+    <h2>Data</h2>
+    <p class="sub" id="saveStatus"></p>
+    <div class="datagrid">
+      <div class="btn" onclick="copyState()">Copy backup code</div>
+      <div class="btn" onclick="restoreState()">Restore from code</div>
+      <div class="btn" onclick="exportICS()">Export calendar</div>
+      <div class="btn ghost" onclick="resetState()">Reset</div>
+    </div>
+    <textarea class="state" id="stateBox" placeholder="Backup code appears here."></textarea>
+  </section>
+</main>
+
+<footer>Recomputed live · odds are estimates, not guarantees</footer>
 
 <script src="app.js"></script>
 </body>
