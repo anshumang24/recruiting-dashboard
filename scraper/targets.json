@@ -164,6 +164,44 @@
    "grad_terms": [],
    "enabled": true,
    "verified": ""
+  },
+  {
+   "id": "lowes",
+   "label": "Lowe's",
+   "type": "workday",
+   "tenant": "lowes",
+   "wd": "wd5",
+   "siteId": "LWS_External_CS",
+   "keywords": [
+    "analyst",
+    "finance",
+    "pricing",
+    "business"
+   ],
+   "grad_terms": [],
+   "enabled": true,
+   "verified": "2026-08-26",
+   "firm": "Lowe's"
+  },
+  {
+   "id": "generalmills",
+   "label": "General Mills",
+   "type": "workday",
+   "tenant": "genmills",
+   "wd": "wd1",
+   "siteId": "GMI_External_Careers",
+   "keywords": [
+    "analyst",
+    "finance",
+    "business"
+   ],
+   "grad_terms": [
+    "fldp",
+    "leadership development"
+   ],
+   "enabled": true,
+   "verified": "2026-08-26",
+   "firm": "General Mills"
   }
  ],
  "_manual_only": [
