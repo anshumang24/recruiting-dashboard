@@ -1703,5 +1703,30 @@
   "note": "⚠️ ROLLING with early-close risk: Cisco's own posting says 'may be removed earlier if sufficient applications are received... encouraged to apply as soon as possible.' 2-year Financial Analyst program, 4 six-month rotations, RALEIGH-BASED (your city). Economics degree qualifies. Apply the day you see it live — do not wait for a deadline. Note: mixed Glassdoor reviews on management; read a few before ranking it top choice.",
   "verified": "2026-08-14",
   "verifyNote": "Rolling admissions confirmed; early applicants see 1–2 week response vs 3–4 weeks later."
+ },
+ {
+  "name": "SpaceX",
+  "role": "Business Operations Analyst",
+  "track": "tech",
+  "nc": false,
+  "star": true,
+  "prog": true,
+  "sal": "$85-100k",
+  "salmin": 85,
+  "city": "Hawthorne, CA",
+  "office": "Onsite",
+  "officeNote": "5 days — relocation stipend offered",
+  "wlb": "hard",
+  "travel": "None",
+  "opens": "Rolling",
+  "deadline": "",
+  "status": "watch",
+  "statusText": "Watch — covered by auto-scraper",
+  "odds": 15,
+  "domain": "spacex.com",
+  "link": "https://www.spacex.com/careers/",
+  "note": "Business Operations track covers finance, product, and ops analyst roles. Reach given the volume of applicants, but genuinely eligible for full-time new-grad roles — internships require enrollment after the role ends, which you don't qualify for, so the scraper filters those out automatically.",
+  "verified": "",
+  "verifyNote": ""
  }
 ]
