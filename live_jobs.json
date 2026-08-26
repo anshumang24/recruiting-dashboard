@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T20:38:14.003993+00:00",
+ "generated": "2026-08-26T20:45:56.296507+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:35:45.568118+00:00",
-   "total": 390,
+   "checked": "2026-08-26T20:43:28.746830+00:00",
+   "total": 389,
    "count": 3,
    "jobs": [
     {
@@ -40,7 +40,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:35:54.601424+00:00",
+   "checked": "2026-08-26T20:43:34.613846+00:00",
    "total": 66,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:36:12.732874+00:00",
+   "checked": "2026-08-26T20:43:34.969579+00:00",
    "total": 2188,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:36:12.813443+00:00",
+   "checked": "2026-08-26T20:43:35.128184+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:36:13.128844+00:00",
+   "checked": "2026-08-26T20:43:35.232673+00:00",
    "total": 26,
    "count": 0,
    "jobs": []
@@ -84,7 +84,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:36:13.655192+00:00",
+   "checked": "2026-08-26T20:43:35.801077+00:00",
    "total": 70,
    "count": 0,
    "jobs": []
@@ -95,8 +95,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:36:52.904238+00:00",
-   "total": 502,
+   "checked": "2026-08-26T20:44:15.896986+00:00",
+   "total": 503,
    "count": 0,
    "jobs": []
   },
@@ -106,7 +106,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:37:01.852299+00:00",
+   "checked": "2026-08-26T20:44:24.839698+00:00",
    "total": 188,
    "count": 0,
    "jobs": []
@@ -117,7 +117,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:37:33.137953+00:00",
+   "checked": "2026-08-26T20:45:01.453079+00:00",
    "total": 323,
    "count": 1,
    "jobs": [
@@ -136,7 +136,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:37:52.969526+00:00",
+   "checked": "2026-08-26T20:45:24.985281+00:00",
    "total": 406,
    "count": 0,
    "jobs": []
@@ -147,10 +147,57 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-08-26T20:38:14.003973+00:00",
+   "checked": "2026-08-26T20:45:46.231745+00:00",
    "total": 212,
    "count": 0,
    "jobs": []
+  },
+  {
+   "id": "mastercard_campus",
+   "label": "Mastercard (Campus site)",
+   "firm": "Mastercard \u2014 Launch Program",
+   "ok": true,
+   "error": "",
+   "checked": "2026-08-26T20:45:56.296488+00:00",
+   "total": 51,
+   "count": 5,
+   "jobs": [
+    {
+     "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
+     "location": "Wanchai, Hong Kong",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691",
+     "posted": "Posted 5 Days Ago",
+     "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691"
+    },
+    {
+     "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
+     "location": "Wanchai, Hong Kong",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
+     "posted": "Posted 5 Days Ago",
+     "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
+    },
+    {
+     "title": "Associate Consultant, Launch Program 2027 - San Francisco, CA",
+     "location": "San Francisco, California",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609",
+     "posted": "Posted Yesterday",
+     "id": "/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609"
+    },
+    {
+     "title": "Software Engineer, Launch Program 2027 \u2013 United States",
+     "location": "6 Locations",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+     "posted": "Posted 2 Days Ago",
+     "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
+    },
+    {
+     "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
+     "location": "Wanchai, Hong Kong",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
+     "posted": "Posted 5 Days Ago",
+     "id": "/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570"
+    }
+   ]
   }
  ],
  "new_since_last_run": [],
