@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T12:57:52.647090+00:00",
+ "generated": "2026-08-31T22:37:12.737876+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:55:36.751911+00:00",
+   "checked": "2026-08-31T22:34:56.919429+00:00",
    "total": 397,
    "count": 3,
    "jobs": [
@@ -40,8 +40,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:55:42.382824+00:00",
-   "total": 53,
+   "checked": "2026-08-31T22:35:03.701548+00:00",
+   "total": 80,
    "count": 0,
    "jobs": []
   },
@@ -51,8 +51,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:55:42.628884+00:00",
-   "total": 2240,
+   "checked": "2026-08-31T22:35:03.921216+00:00",
+   "total": 2235,
    "count": 0,
    "jobs": []
   },
@@ -62,8 +62,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:55:42.702861+00:00",
-   "total": 19,
+   "checked": "2026-08-31T22:35:03.984047+00:00",
+   "total": 16,
    "count": 0,
    "jobs": []
   },
@@ -73,7 +73,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:55:42.784357+00:00",
+   "checked": "2026-08-31T22:35:04.084089+00:00",
    "total": 31,
    "count": 0,
    "jobs": []
@@ -84,7 +84,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:55:43.278014+00:00",
+   "checked": "2026-08-31T22:35:04.562434+00:00",
    "total": 73,
    "count": 0,
    "jobs": []
@@ -95,8 +95,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:56:25.206330+00:00",
-   "total": 485,
+   "checked": "2026-08-31T22:35:42.756125+00:00",
+   "total": 484,
    "count": 0,
    "jobs": []
   },
@@ -106,8 +106,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:56:35.011958+00:00",
-   "total": 185,
+   "checked": "2026-08-31T22:35:51.350727+00:00",
+   "total": 187,
    "count": 0,
    "jobs": []
   },
@@ -117,8 +117,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:57:04.590716+00:00",
-   "total": 342,
+   "checked": "2026-08-31T22:36:23.904751+00:00",
+   "total": 343,
    "count": 1,
    "jobs": [
     {
@@ -136,8 +136,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:57:22.185143+00:00",
-   "total": 407,
+   "checked": "2026-08-31T22:36:44.420312+00:00",
+   "total": 409,
    "count": 0,
    "jobs": []
   },
@@ -147,8 +147,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:57:43.063890+00:00",
-   "total": 229,
+   "checked": "2026-08-31T22:37:04.177587+00:00",
+   "total": 232,
    "count": 0,
    "jobs": []
   },
@@ -158,15 +158,15 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T12:57:52.647073+00:00",
-   "total": 47,
-   "count": 6,
+   "checked": "2026-08-31T22:37:12.737858+00:00",
+   "total": 46,
+   "count": 5,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted Today",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
     },
     {
@@ -189,13 +189,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609",
      "posted": "Posted 6 Days Ago",
      "id": "/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609"
-    },
-    {
-     "title": "Software Engineer, Launch Program 2027 \u2013 United States",
-     "location": "6 Locations",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-     "posted": "Posted 7 Days Ago",
-     "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
