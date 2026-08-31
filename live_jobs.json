@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T04:12:24.005541+00:00",
+ "generated": "2026-08-31T12:57:52.647090+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,29 +7,29 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:12.805060+00:00",
-   "total": 396,
+   "checked": "2026-08-31T12:55:36.751911+00:00",
+   "total": 397,
    "count": 3,
    "jobs": [
     {
      "title": "Investment Banking Analyst - KippsDeSanto - 2027",
      "location": "McLean, VA",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1"
     },
     {
      "title": "Investment Banking Analyst - Capital Markets, Financing - 2027",
      "location": "New York, NY",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Investment-Banking-Analyst---Capital-Markets--Financing---2027_R245929-1",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/New-York-NY/Investment-Banking-Analyst---Capital-Markets--Financing---2027_R245929-1"
     },
     {
      "title": "Associate, Strategy Analyst - New Grad 2027",
      "location": "Toronto, ON",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1",
-     "posted": "Posted 18 Days Ago",
+     "posted": "Posted 19 Days Ago",
      "id": "/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1"
     }
    ]
@@ -40,8 +40,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:17.460850+00:00",
-   "total": 52,
+   "checked": "2026-08-31T12:55:42.382824+00:00",
+   "total": 53,
    "count": 0,
    "jobs": []
   },
@@ -51,8 +51,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:17.808244+00:00",
-   "total": 2236,
+   "checked": "2026-08-31T12:55:42.628884+00:00",
+   "total": 2240,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:17.862794+00:00",
+   "checked": "2026-08-31T12:55:42.702861+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:17.932791+00:00",
+   "checked": "2026-08-31T12:55:42.784357+00:00",
    "total": 31,
    "count": 0,
    "jobs": []
@@ -84,7 +84,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:18.474201+00:00",
+   "checked": "2026-08-31T12:55:43.278014+00:00",
    "total": 73,
    "count": 0,
    "jobs": []
@@ -95,8 +95,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:10:56.014214+00:00",
-   "total": 480,
+   "checked": "2026-08-31T12:56:25.206330+00:00",
+   "total": 485,
    "count": 0,
    "jobs": []
   },
@@ -106,7 +106,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:11:08.728085+00:00",
+   "checked": "2026-08-31T12:56:35.011958+00:00",
    "total": 185,
    "count": 0,
    "jobs": []
@@ -117,15 +117,15 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:11:39.486669+00:00",
-   "total": 339,
+   "checked": "2026-08-31T12:57:04.590716+00:00",
+   "total": 342,
    "count": 1,
    "jobs": [
     {
      "title": "Financial Analyst Development Program (FADP) - Minneapolis, MN / Hybrid (2027)",
      "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
      "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572"
     }
    ]
@@ -136,7 +136,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:11:57.692277+00:00",
+   "checked": "2026-08-31T12:57:22.185143+00:00",
    "total": 407,
    "count": 0,
    "jobs": []
@@ -147,8 +147,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:12:15.550578+00:00",
-   "total": 221,
+   "checked": "2026-08-31T12:57:43.063890+00:00",
+   "total": 229,
    "count": 0,
    "jobs": []
   },
@@ -158,7 +158,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T04:12:24.005525+00:00",
+   "checked": "2026-08-31T12:57:52.647073+00:00",
    "total": 47,
    "count": 6,
    "jobs": [
@@ -166,42 +166,42 @@
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
     },
     {
      "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691"
     },
     {
      "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 - San Francisco, CA",
      "location": "San Francisco, California",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609",
-     "posted": "Posted 5 Days Ago",
+     "posted": "Posted 6 Days Ago",
      "id": "/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609"
     },
     {
      "title": "Software Engineer, Launch Program 2027 \u2013 United States",
      "location": "6 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-     "posted": "Posted 6 Days Ago",
+     "posted": "Posted 7 Days Ago",
      "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570"
     }
    ]
