@@ -223,6 +223,67 @@
    "enabled": true,
    "verified": "2026-08-26",
    "firm": "Mastercard \u2014 Launch Program"
+  },
+  {
+   "id": "usbank",
+   "label": "U.S. Bank",
+   "type": "workday",
+   "tenant": "usbank",
+   "wd": "wd1",
+   "siteId": "US_Bank_Careers",
+   "keywords": [
+    "analyst",
+    "financial",
+    "rotational",
+    "development"
+   ],
+   "grad_terms": [
+    "rotational",
+    "development program"
+   ],
+   "enabled": true,
+   "verified": "2026-08-27",
+   "firm": "U.S. Bank"
+  },
+  {
+   "id": "caterpillar",
+   "label": "Caterpillar",
+   "type": "workday",
+   "tenant": "cat",
+   "wd": "wd5",
+   "siteId": "CaterpillarCareers",
+   "keywords": [
+    "finance",
+    "analyst",
+    "business"
+   ],
+   "grad_terms": [
+    "foundation program",
+    "finance foundation"
+   ],
+   "enabled": true,
+   "verified": "2026-08-27",
+   "firm": "Caterpillar"
+  },
+  {
+   "id": "verizon",
+   "label": "Verizon",
+   "type": "workday",
+   "tenant": "verizon",
+   "wd": "wd5",
+   "siteId": "verizon-careers",
+   "keywords": [
+    "finance",
+    "analyst",
+    "leadership",
+    "business"
+   ],
+   "grad_terms": [
+    "leadership development"
+   ],
+   "enabled": true,
+   "verified": "2026-08-27",
+   "firm": "Verizon"
   }
  ],
  "_manual_only": [
@@ -275,6 +336,26 @@
    "label": "PepsiCo",
    "why": "pepsicojobs.com is a custom or Avature-based portal, doesn't match any supported platform. No public API found.",
    "url": "https://www.pepsicojobs.com/financelegal/jobs"
+  },
+  {
+   "label": "UBS",
+   "why": "jobs.ubs.com/TGnewUI/... is an Oracle Taleo pattern, not any of the 5 supported platforms. No public API.",
+   "url": "https://www.ubs.com/global/en/careers/search-jobs.html"
+  },
+  {
+   "label": "Amazon",
+   "why": "amazon.jobs is Amazon's own proprietary system, not any of the 5 supported platforms. Also: their FLDP is explicitly MBA-candidates-only, ineligible as an undergrad regardless.",
+   "url": "https://www.amazon.jobs"
+  },
+  {
+   "label": "Oracle",
+   "why": "Runs Oracle Fusion Cloud Recruiting (their own product), not a supported platform. No specific undergrad rotational program confirmed.",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/jobs"
+  },
+  {
+   "label": "Thermo Fisher Scientific",
+   "why": "Real, strong FLDP program confirmed (undergrad-eligible, $78k start, matches your profile closely) \u2014 but platform not cleanly confirmed as one of the 5 supported (job board routes through DirectEmployers aggregator).",
+   "url": "https://jobs.thermofisher.com/global/en/fldp"
   }
  ]
 }
