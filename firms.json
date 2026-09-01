@@ -1003,5 +1003,30 @@
   "note": "Confirmed real, strong fit: undergrad-eligible (explicit \"Bachelor's degree\" requirement, not MBA-only), Business Analytics/Economics/Finance majors named directly, $78k confirmed starting salary + sign-on bonus + relocation assistance. Fortune 500 ($40B+ revenue). 2-year, four 6-month rotations. Requires geographic flexibility. Not scraper-covered — platform unconfirmed, check portal directly.",
   "verified": "2026-08-27",
   "verifyNote": "Found real FLDP posting with matching eligibility language. Platform routes through DirectEmployers aggregator, not a clean match to any of the 5 supported ATSs — needs manual portal checks."
+ },
+ {
+  "name": "Lenovo",
+  "role": "Global Finance Talent Program (GFTP)",
+  "track": "tech",
+  "nc": true,
+  "star": true,
+  "prog": true,
+  "sal": "$70-85k",
+  "salmin": 70,
+  "city": "Morrisville, NC",
+  "office": "Hybrid",
+  "officeNote": "3 days in office",
+  "wlb": "good",
+  "travel": "Some (global rotations)",
+  "opens": "Rolling",
+  "deadline": "",
+  "status": "watch",
+  "statusText": "Watch manually — platform unconfirmed",
+  "odds": 35,
+  "domain": "lenovo.com",
+  "link": "https://jobs.lenovo.com/en_US/careers/EarlyCareer",
+  "note": "Confirmed real, strong fit: GFTP is 3x 12-month Finance rotations globally, explicitly wants 'passion for technology + strong aptitude for finance.' Also worth checking: LASR, a 2-year sales development program based at Lenovo's NA HQ in Morrisville, NC — genuinely local. Not scraper-covered — platform doesn't match any of the 5 supported systems, check portal directly.",
+  "verified": "2026-08-27",
+  "verifyNote": "Found real Early Career page listing both GFTP and LASR by name with real program descriptions. Platform unconfirmed as Workday/Greenhouse/Lever/Ashby/SmartRecruiters."
  }
 ]
