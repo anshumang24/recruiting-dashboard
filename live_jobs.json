@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T23:46:15.977857+00:00",
+ "generated": "2026-09-01T00:21:11.710604+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:42:22.842598+00:00",
-   "total": 398,
+   "checked": "2026-09-01T00:17:22.318409+00:00",
+   "total": 399,
    "count": 3,
    "jobs": [
     {
@@ -40,7 +40,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:42:29.669123+00:00",
+   "checked": "2026-09-01T00:17:30.133635+00:00",
    "total": 80,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:42:44.444962+00:00",
-   "total": 2235,
+   "checked": "2026-09-01T00:17:30.549818+00:00",
+   "total": 2236,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:42:44.618570+00:00",
+   "checked": "2026-09-01T00:17:30.726096+00:00",
    "total": 16,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:42:44.848175+00:00",
+   "checked": "2026-09-01T00:17:30.896944+00:00",
    "total": 31,
    "count": 0,
    "jobs": []
@@ -84,7 +84,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:42:45.372083+00:00",
+   "checked": "2026-09-01T00:17:31.516897+00:00",
    "total": 73,
    "count": 0,
    "jobs": []
@@ -95,7 +95,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:43:25.524665+00:00",
+   "checked": "2026-09-01T00:18:12.526923+00:00",
    "total": 484,
    "count": 0,
    "jobs": []
@@ -106,8 +106,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:43:34.934755+00:00",
-   "total": 187,
+   "checked": "2026-09-01T00:18:24.430834+00:00",
+   "total": 188,
    "count": 0,
    "jobs": []
   },
@@ -117,7 +117,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:44:08.075274+00:00",
+   "checked": "2026-09-01T00:18:57.628094+00:00",
    "total": 341,
    "count": 1,
    "jobs": [
@@ -136,7 +136,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:44:28.433120+00:00",
+   "checked": "2026-09-01T00:19:19.150753+00:00",
    "total": 410,
    "count": 0,
    "jobs": []
@@ -147,7 +147,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:44:49.715484+00:00",
+   "checked": "2026-09-01T00:19:42.711949+00:00",
    "total": 232,
    "count": 0,
    "jobs": []
@@ -158,7 +158,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:44:58.657819+00:00",
+   "checked": "2026-09-01T00:19:52.516890+00:00",
    "total": 46,
    "count": 5,
    "jobs": [
@@ -205,7 +205,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:45:30.200533+00:00",
+   "checked": "2026-09-01T00:20:26.043292+00:00",
    "total": 397,
    "count": 0,
    "jobs": []
@@ -216,8 +216,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:45:54.750041+00:00",
-   "total": 300,
+   "checked": "2026-09-01T00:20:50.590356+00:00",
+   "total": 299,
    "count": 1,
    "jobs": [
     {
@@ -235,7 +235,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-08-31T23:46:15.977838+00:00",
+   "checked": "2026-09-01T00:21:11.710585+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -313,6 +313,11 @@
    "label": "Thermo Fisher Scientific",
    "why": "Real, strong FLDP program confirmed (undergrad-eligible, $78k start, matches your profile closely) \u2014 but platform not cleanly confirmed as one of the 5 supported (job board routes through DirectEmployers aggregator).",
    "url": "https://jobs.thermofisher.com/global/en/fldp"
+  },
+  {
+   "label": "Lenovo",
+   "why": "jobs.lenovo.com doesn't match any of the 5 supported platforms. Two real programs confirmed: GFTP (finance, global rotations) and LASR (sales, NC-based).",
+   "url": "https://jobs.lenovo.com/en_US/careers/EarlyCareer"
   }
  ]
 }
