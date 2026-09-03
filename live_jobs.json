@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T15:59:35.905832+00:00",
+ "generated": "2026-09-03T20:40:51.071958+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,17 +7,10 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:55:49.234037+00:00",
-   "total": 405,
-   "count": 2,
+   "checked": "2026-09-03T20:37:02.305514+00:00",
+   "total": 403,
+   "count": 1,
    "jobs": [
-    {
-     "title": "Investment Banking Analyst - KippsDeSanto - 2027",
-     "location": "McLean, VA",
-     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1",
-     "posted": "Posted 13 Days Ago",
-     "id": "/job/McLean-VA/Investment-Banking-Analyst---KippsDeSanto---2027_R249799-1"
-    },
     {
      "title": "Associate, Strategy Analyst - New Grad 2027",
      "location": "Toronto, ON",
@@ -33,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:55:56.530716+00:00",
-   "total": 78,
+   "checked": "2026-09-03T20:37:10.472819+00:00",
+   "total": 85,
    "count": 0,
    "jobs": []
   },
@@ -44,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:55:56.800670+00:00",
-   "total": 2289,
+   "checked": "2026-09-03T20:37:10.833130+00:00",
+   "total": 2300,
    "count": 0,
    "jobs": []
   },
@@ -55,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:55:56.869930+00:00",
+   "checked": "2026-09-03T20:37:10.969153+00:00",
    "total": 15,
    "count": 0,
    "jobs": []
@@ -66,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:55:56.938648+00:00",
+   "checked": "2026-09-03T20:37:11.073801+00:00",
    "total": 31,
    "count": 0,
    "jobs": []
@@ -77,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:55:57.495461+00:00",
-   "total": 80,
+   "checked": "2026-09-03T20:37:11.605263+00:00",
+   "total": 79,
    "count": 0,
    "jobs": []
   },
@@ -88,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:56:38.611147+00:00",
-   "total": 506,
+   "checked": "2026-09-03T20:37:53.843488+00:00",
+   "total": 505,
    "count": 0,
    "jobs": []
   },
@@ -99,8 +92,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:56:47.991098+00:00",
-   "total": 190,
+   "checked": "2026-09-03T20:38:04.681779+00:00",
+   "total": 192,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +103,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:57:22.438356+00:00",
-   "total": 325,
+   "checked": "2026-09-03T20:38:38.612629+00:00",
+   "total": 327,
    "count": 1,
    "jobs": [
     {
@@ -129,8 +122,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:57:43.355380+00:00",
-   "total": 396,
+   "checked": "2026-09-03T20:38:59.151726+00:00",
+   "total": 394,
    "count": 0,
    "jobs": []
   },
@@ -140,8 +133,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:58:05.275411+00:00",
-   "total": 234,
+   "checked": "2026-09-03T20:39:21.214626+00:00",
+   "total": 232,
    "count": 0,
    "jobs": []
   },
@@ -151,7 +144,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:58:15.959005+00:00",
+   "checked": "2026-09-03T20:39:30.540363+00:00",
    "total": 56,
    "count": 7,
    "jobs": [
@@ -212,8 +205,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:58:49.046076+00:00",
-   "total": 398,
+   "checked": "2026-09-03T20:40:04.747893+00:00",
+   "total": 391,
    "count": 0,
    "jobs": []
   },
@@ -223,9 +216,9 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:59:15.024388+00:00",
-   "total": 320,
-   "count": 1,
+   "checked": "2026-09-03T20:40:29.997137+00:00",
+   "total": 323,
+   "count": 2,
    "jobs": [
     {
      "title": "2027 Finance Foundation Program",
@@ -233,6 +226,13 @@
      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Finance-Foundation-Program_R0000387806",
      "posted": "Posted 23 Days Ago",
      "id": "/job/Nashville-Tennessee/XMLNAME-2027-Finance-Foundation-Program_R0000387806"
+    },
+    {
+     "title": "2027 IT Analyst - Entry Level",
+     "location": "2 Locations",
+     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332",
+     "posted": "Posted Today",
+     "id": "/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332"
     }
    ]
   },
@@ -242,13 +242,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-03T15:59:35.905812+00:00",
+   "checked": "2026-09-03T20:40:51.071939+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Caterpillar",
+   "title": "2027 IT Analyst - Entry Level",
+   "location": "2 Locations",
+   "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332",
+   "posted": "Posted Today",
+   "id": "/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
