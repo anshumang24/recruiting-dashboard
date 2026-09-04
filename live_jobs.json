@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T03:21:21.289234+00:00",
+ "generated": "2026-09-04T10:50:46.173202+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,15 +7,15 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:17:54.534564+00:00",
-   "total": 403,
+   "checked": "2026-09-04T10:47:14.874288+00:00",
+   "total": 404,
    "count": 1,
    "jobs": [
     {
      "title": "Associate, Strategy Analyst - New Grad 2027",
      "location": "Toronto, ON",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1",
-     "posted": "Posted 22 Days Ago",
+     "posted": "Posted 23 Days Ago",
      "id": "/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1"
     }
    ]
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:00.938385+00:00",
-   "total": 85,
+   "checked": "2026-09-04T10:47:21.556258+00:00",
+   "total": 77,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:01.127546+00:00",
-   "total": 2309,
+   "checked": "2026-09-04T10:47:21.846651+00:00",
+   "total": 2310,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:01.192597+00:00",
+   "checked": "2026-09-04T10:47:22.007060+00:00",
    "total": 15,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:01.260965+00:00",
+   "checked": "2026-09-04T10:47:22.063188+00:00",
    "total": 31,
    "count": 0,
    "jobs": []
@@ -70,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:01.712843+00:00",
-   "total": 80,
+   "checked": "2026-09-04T10:47:22.596158+00:00",
+   "total": 78,
    "count": 0,
    "jobs": []
   },
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:39.710605+00:00",
-   "total": 506,
+   "checked": "2026-09-04T10:47:59.551999+00:00",
+   "total": 505,
    "count": 0,
    "jobs": []
   },
@@ -92,8 +92,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:18:48.533538+00:00",
-   "total": 191,
+   "checked": "2026-09-04T10:48:08.409112+00:00",
+   "total": 189,
    "count": 0,
    "jobs": []
   },
@@ -103,15 +103,15 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:19:20.255983+00:00",
-   "total": 325,
+   "checked": "2026-09-04T10:48:41.402556+00:00",
+   "total": 321,
    "count": 1,
    "jobs": [
     {
      "title": "Financial Analyst Development Program (FADP) - Minneapolis, MN / Hybrid (2027)",
      "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
      "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572"
     }
    ]
@@ -122,8 +122,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:19:39.322009+00:00",
-   "total": 396,
+   "checked": "2026-09-04T10:49:03.258750+00:00",
+   "total": 395,
    "count": 0,
    "jobs": []
   },
@@ -133,7 +133,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:19:59.192977+00:00",
+   "checked": "2026-09-04T10:49:22.753862+00:00",
    "total": 232,
    "count": 0,
    "jobs": []
@@ -144,57 +144,57 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:20:08.052303+00:00",
-   "total": 56,
+   "checked": "2026-09-04T10:49:31.349780+00:00",
+   "total": 61,
    "count": 7,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
     },
     {
      "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691"
     },
     {
      "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 - Malaysia",
      "location": "Kuala Lumpur, Malaysia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571"
     },
     {
      "title": "Software Engineer, Launch Program 2027 \u2013 United States",
      "location": "6 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 - San Francisco, CA",
      "location": "San Francisco, California",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570"
     }
    ]
@@ -205,8 +205,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:20:38.315819+00:00",
-   "total": 392,
+   "checked": "2026-09-04T10:50:01.864536+00:00",
+   "total": 381,
    "count": 0,
    "jobs": []
   },
@@ -216,22 +216,22 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:21:00.841248+00:00",
-   "total": 320,
+   "checked": "2026-09-04T10:50:25.778418+00:00",
+   "total": 315,
    "count": 2,
    "jobs": [
     {
      "title": "2027 Finance Foundation Program",
      "location": "Nashville, Tennessee",
      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Finance-Foundation-Program_R0000387806",
-     "posted": "Posted 23 Days Ago",
+     "posted": "Posted 24 Days Ago",
      "id": "/job/Nashville-Tennessee/XMLNAME-2027-Finance-Foundation-Program_R0000387806"
     },
     {
      "title": "2027 IT Analyst - Entry Level",
      "location": "2 Locations",
      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332"
     }
    ]
@@ -242,7 +242,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-04T03:21:21.289218+00:00",
+   "checked": "2026-09-04T10:50:46.173182+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
