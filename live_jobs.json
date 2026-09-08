@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T10:48:44.390050+00:00",
+ "generated": "2026-09-08T16:13:03.322128+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:45:06.062777+00:00",
-   "total": 408,
+   "checked": "2026-09-08T16:09:07.053553+00:00",
+   "total": 414,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:45:11.879365+00:00",
-   "total": 75,
+   "checked": "2026-09-08T16:09:15.719189+00:00",
+   "total": 82,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:45:24.177281+00:00",
-   "total": 2344,
+   "checked": "2026-09-08T16:09:15.932165+00:00",
+   "total": 2342,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:45:24.265952+00:00",
+   "checked": "2026-09-08T16:09:16.046667+00:00",
    "total": 15,
    "count": 0,
    "jobs": []
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:45:24.378856+00:00",
-   "total": 27,
+   "checked": "2026-09-08T16:09:16.151694+00:00",
+   "total": 26,
    "count": 0,
    "jobs": []
   },
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:45:24.846591+00:00",
+   "checked": "2026-09-08T16:09:16.713250+00:00",
    "total": 80,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:46:02.974752+00:00",
-   "total": 490,
+   "checked": "2026-09-08T16:10:00.106717+00:00",
+   "total": 492,
    "count": 0,
    "jobs": []
   },
@@ -92,8 +92,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:46:12.950721+00:00",
-   "total": 200,
+   "checked": "2026-09-08T16:10:12.577369+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -103,8 +103,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:46:44.436840+00:00",
-   "total": 331,
+   "checked": "2026-09-08T16:10:46.771052+00:00",
+   "total": 324,
    "count": 1,
    "jobs": [
     {
@@ -122,8 +122,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:47:03.042854+00:00",
-   "total": 411,
+   "checked": "2026-09-08T16:11:07.438216+00:00",
+   "total": 414,
    "count": 0,
    "jobs": []
   },
@@ -133,8 +133,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:47:24.153944+00:00",
-   "total": 234,
+   "checked": "2026-09-08T16:11:33.946373+00:00",
+   "total": 235,
    "count": 0,
    "jobs": []
   },
@@ -144,16 +144,23 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:47:31.601579+00:00",
-   "total": 44,
-   "count": 6,
+   "checked": "2026-09-08T16:11:43.195227+00:00",
+   "total": 45,
+   "count": 7,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted Today",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
+    },
+    {
+     "title": "Technology Risk Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
+     "location": "O'Fallon, Missouri",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644"
     },
     {
      "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
@@ -198,10 +205,53 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:48:00.707490+00:00",
-   "total": 387,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-09-08T16:12:17.955164+00:00",
+   "total": 386,
+   "count": 6,
+   "jobs": [
+    {
+     "title": "2027 Commercial Real Estate Development Program",
+     "location": "5 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
+     "posted": "Posted Today",
+     "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
+    },
+    {
+     "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Macro and Commodities",
+     "location": "3 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1"
+    },
+    {
+     "title": "2027 Engineering Rotational Program",
+     "location": "Hopkins, MN",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
+     "posted": "Posted Today",
+     "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
+    },
+    {
+     "title": "2027 Business Banking Rotational Development Program",
+     "location": "3 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881",
+     "posted": "Posted Today",
+     "id": "/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881"
+    },
+    {
+     "title": "2027 Quantitative Modeling Rotational Program",
+     "location": "Charlotte, NC",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548"
+    },
+    {
+     "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Debt Finance Banking",
+     "location": "2 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053"
+    }
+   ]
   },
   {
    "id": "caterpillar",
@@ -209,8 +259,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:48:23.935937+00:00",
-   "total": 304,
+   "checked": "2026-09-08T16:12:42.667593+00:00",
+   "total": 311,
    "count": 2,
    "jobs": [
     {
@@ -235,13 +285,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T10:48:44.390033+00:00",
+   "checked": "2026-09-08T16:13:03.322111+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Technology Risk Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
+   "location": "O'Fallon, Missouri",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644",
+   "posted": "Posted Today",
+   "id": "/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
