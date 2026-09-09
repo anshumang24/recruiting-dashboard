@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T20:53:07.896079+00:00",
+ "generated": "2026-09-09T03:34:10.553011+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:49:22.312592+00:00",
-   "total": 425,
+   "checked": "2026-09-09T03:30:26.288602+00:00",
+   "total": 413,
    "count": 2,
    "jobs": [
     {
@@ -33,7 +33,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:49:30.362128+00:00",
+   "checked": "2026-09-09T03:30:34.345758+00:00",
    "total": 83,
    "count": 0,
    "jobs": []
@@ -44,8 +44,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:49:30.591146+00:00",
-   "total": 2339,
+   "checked": "2026-09-09T03:30:34.623174+00:00",
+   "total": 2348,
    "count": 0,
    "jobs": []
   },
@@ -55,8 +55,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:49:30.703530+00:00",
-   "total": 15,
+   "checked": "2026-09-09T03:30:34.719926+00:00",
+   "total": 17,
    "count": 0,
    "jobs": []
   },
@@ -66,7 +66,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:49:30.807767+00:00",
+   "checked": "2026-09-09T03:30:34.838702+00:00",
    "total": 26,
    "count": 0,
    "jobs": []
@@ -77,8 +77,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:49:31.390674+00:00",
-   "total": 80,
+   "checked": "2026-09-09T03:30:35.429715+00:00",
+   "total": 81,
    "count": 0,
    "jobs": []
   },
@@ -88,8 +88,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:50:11.011507+00:00",
-   "total": 493,
+   "checked": "2026-09-09T03:31:18.340321+00:00",
+   "total": 492,
    "count": 0,
    "jobs": []
   },
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:50:24.042858+00:00",
-   "total": 200,
+   "checked": "2026-09-09T03:31:29.382951+00:00",
+   "total": 199,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:50:59.542132+00:00",
-   "total": 326,
+   "checked": "2026-09-09T03:32:02.870451+00:00",
+   "total": 322,
    "count": 1,
    "jobs": [
     {
@@ -129,8 +129,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:51:19.544375+00:00",
-   "total": 408,
+   "checked": "2026-09-09T03:32:21.990643+00:00",
+   "total": 411,
    "count": 0,
    "jobs": []
   },
@@ -140,7 +140,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:51:41.339482+00:00",
+   "checked": "2026-09-09T03:32:43.562367+00:00",
    "total": 233,
    "count": 0,
    "jobs": []
@@ -151,7 +151,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:51:49.405270+00:00",
+   "checked": "2026-09-09T03:32:51.965605+00:00",
    "total": 45,
    "count": 7,
    "jobs": [
@@ -212,9 +212,9 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:52:22.437000+00:00",
-   "total": 386,
-   "count": 11,
+   "checked": "2026-09-09T03:33:26.174350+00:00",
+   "total": 387,
+   "count": 10,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
@@ -236,13 +236,6 @@
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064",
      "posted": "Posted Today",
      "id": "/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064"
-    },
-    {
-     "title": "2027 Engineering Rotational Program",
-     "location": "Hopkins, MN",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
-     "posted": "Posted Today",
-     "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
     },
     {
      "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Macro and Commodities",
@@ -289,9 +282,9 @@
     {
      "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Debt Finance Banking",
      "location": "2 Locations",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053",
      "posted": "Posted Today",
-     "id": "/job/Charlotte-NC/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053"
+     "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053"
     }
    ]
   },
@@ -301,8 +294,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:52:47.279849+00:00",
-   "total": 312,
+   "checked": "2026-09-09T03:33:50.159763+00:00",
+   "total": 310,
    "count": 2,
    "jobs": [
     {
@@ -327,7 +320,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-08T20:53:07.896059+00:00",
+   "checked": "2026-09-09T03:34:10.552990+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -335,60 +328,12 @@
  ],
  "new_since_last_run": [
   {
-   "company": "Capital One",
-   "title": "Associate, Data Analyst - New Grad, 2027 Start",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-   "posted": "Posted Today",
-   "id": "/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"
-  },
-  {
    "company": "U.S. Bank",
-   "title": "2027\u00a0Portfolio and Relationship Management Development Program",
-   "location": "4 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
-   "posted": "Posted Today",
-   "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Operations Full-Time Rotational Development Program",
+   "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Debt Finance Banking",
    "location": "2 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064",
+   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053",
    "posted": "Posted Today",
-   "id": "/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Macro and Commodities",
-   "location": "3 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1",
-   "posted": "Posted Today",
-   "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Experience Design Rotational Program",
-   "location": "Minneapolis, MN",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561",
-   "posted": "Posted Today",
-   "id": "/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Finance, Treasury, & Accounting Full-time Rotational Program - Finance Track",
-   "location": "Minneapolis, MN",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Development-Program---Finance-Track_2026-0026416-1",
-   "posted": "Posted Today",
-   "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Development-Program---Finance-Track_2026-0026416-1"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Finance, Treasury, & Accounting Full-time Rotational Program - Accounting  Track",
-   "location": "Minneapolis, MN",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407",
-   "posted": "Posted Today",
-   "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407"
+   "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053"
   }
  ],
  "errors": [],
