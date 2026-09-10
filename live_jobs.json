@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T10:52:10.364908+00:00",
+ "generated": "2026-09-10T16:02:08.299605+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:48:28.277708+00:00",
-   "total": 404,
+   "checked": "2026-09-10T15:57:49.114069+00:00",
+   "total": 403,
    "count": 2,
    "jobs": [
     {
@@ -33,8 +33,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:48:36.256786+00:00",
-   "total": 81,
+   "checked": "2026-09-10T15:57:58.366410+00:00",
+   "total": 85,
    "count": 0,
    "jobs": []
   },
@@ -44,8 +44,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:48:36.470947+00:00",
-   "total": 2376,
+   "checked": "2026-09-10T15:57:58.599928+00:00",
+   "total": 2373,
    "count": 0,
    "jobs": []
   },
@@ -55,8 +55,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:48:36.573520+00:00",
-   "total": 18,
+   "checked": "2026-09-10T15:57:58.817848+00:00",
+   "total": 19,
    "count": 0,
    "jobs": []
   },
@@ -66,8 +66,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:48:36.658047+00:00",
-   "total": 27,
+   "checked": "2026-09-10T15:57:58.924344+00:00",
+   "total": 30,
    "count": 0,
    "jobs": []
   },
@@ -77,8 +77,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:48:37.223027+00:00",
-   "total": 81,
+   "checked": "2026-09-10T15:57:59.507069+00:00",
+   "total": 75,
    "count": 0,
    "jobs": []
   },
@@ -88,7 +88,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:49:19.163218+00:00",
+   "checked": "2026-09-10T15:58:45.291994+00:00",
    "total": 498,
    "count": 0,
    "jobs": []
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:49:30.066359+00:00",
-   "total": 201,
+   "checked": "2026-09-10T15:58:57.239794+00:00",
+   "total": 200,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:50:01.842975+00:00",
-   "total": 336,
+   "checked": "2026-09-10T15:59:33.407099+00:00",
+   "total": 348,
    "count": 1,
    "jobs": [
     {
@@ -129,8 +129,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:50:21.362005+00:00",
-   "total": 410,
+   "checked": "2026-09-10T15:59:56.369040+00:00",
+   "total": 401,
    "count": 0,
    "jobs": []
   },
@@ -140,7 +140,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:50:43.411762+00:00",
+   "checked": "2026-09-10T16:00:24.731338+00:00",
    "total": 237,
    "count": 0,
    "jobs": []
@@ -151,7 +151,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:50:51.878626+00:00",
+   "checked": "2026-09-10T16:00:40.321372+00:00",
    "total": 45,
    "count": 7,
    "jobs": [
@@ -212,8 +212,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:51:25.539324+00:00",
-   "total": 390,
+   "checked": "2026-09-10T16:01:19.987956+00:00",
+   "total": 392,
    "count": 10,
    "jobs": [
     {
@@ -246,9 +246,9 @@
     },
     {
      "title": "2027 Business Banking Rotational Development Program",
-     "location": "3 Locations",
+     "location": "5 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted Today",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881"
     },
     {
@@ -294,7 +294,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:51:50.163522+00:00",
+   "checked": "2026-09-10T16:01:47.603466+00:00",
    "total": 319,
    "count": 2,
    "jobs": [
@@ -320,7 +320,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T10:52:10.364891+00:00",
+   "checked": "2026-09-10T16:02:08.299591+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
