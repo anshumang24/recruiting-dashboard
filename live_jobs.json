@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T16:02:08.299605+00:00",
+ "generated": "2026-09-10T20:34:12.203265+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:57:49.114069+00:00",
-   "total": 403,
+   "checked": "2026-09-10T20:30:22.540894+00:00",
+   "total": 394,
    "count": 2,
    "jobs": [
     {
@@ -33,8 +33,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:57:58.366410+00:00",
-   "total": 85,
+   "checked": "2026-09-10T20:30:30.260764+00:00",
+   "total": 89,
    "count": 0,
    "jobs": []
   },
@@ -44,8 +44,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:57:58.599928+00:00",
-   "total": 2373,
+   "checked": "2026-09-10T20:30:30.423230+00:00",
+   "total": 2378,
    "count": 0,
    "jobs": []
   },
@@ -55,7 +55,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:57:58.817848+00:00",
+   "checked": "2026-09-10T20:30:30.557597+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -66,8 +66,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:57:58.924344+00:00",
-   "total": 30,
+   "checked": "2026-09-10T20:30:30.643970+00:00",
+   "total": 31,
    "count": 0,
    "jobs": []
   },
@@ -77,8 +77,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:57:59.507069+00:00",
-   "total": 75,
+   "checked": "2026-09-10T20:30:31.096523+00:00",
+   "total": 76,
    "count": 0,
    "jobs": []
   },
@@ -88,7 +88,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:58:45.291994+00:00",
+   "checked": "2026-09-10T20:31:11.899320+00:00",
    "total": 498,
    "count": 0,
    "jobs": []
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:58:57.239794+00:00",
-   "total": 200,
+   "checked": "2026-09-10T20:31:22.985439+00:00",
+   "total": 199,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:59:33.407099+00:00",
-   "total": 348,
+   "checked": "2026-09-10T20:31:57.779541+00:00",
+   "total": 343,
    "count": 1,
    "jobs": [
     {
@@ -129,8 +129,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T15:59:56.369040+00:00",
-   "total": 401,
+   "checked": "2026-09-10T20:32:20.991446+00:00",
+   "total": 398,
    "count": 0,
    "jobs": []
   },
@@ -140,8 +140,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T16:00:24.731338+00:00",
-   "total": 237,
+   "checked": "2026-09-10T20:32:42.598606+00:00",
+   "total": 236,
    "count": 0,
    "jobs": []
   },
@@ -151,9 +151,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T16:00:40.321372+00:00",
-   "total": 45,
-   "count": 7,
+   "checked": "2026-09-10T20:32:50.397448+00:00",
+   "total": 48,
+   "count": 8,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
@@ -184,6 +184,13 @@
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
+     "title": "Software Engineer, Launch Program 2027 \u2013 United States",
+     "location": "6 Locations",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
+    },
+    {
      "title": "Associate Consultant, Launch Program 2027 - Malaysia",
      "location": "Kuala Lumpur, Malaysia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571",
@@ -212,7 +219,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T16:01:19.987956+00:00",
+   "checked": "2026-09-10T20:33:24.145323+00:00",
    "total": 392,
    "count": 10,
    "jobs": [
@@ -294,8 +301,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T16:01:47.603466+00:00",
-   "total": 319,
+   "checked": "2026-09-10T20:33:51.446199+00:00",
+   "total": 320,
    "count": 2,
    "jobs": [
     {
@@ -320,13 +327,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-10T16:02:08.299591+00:00",
+   "checked": "2026-09-10T20:34:12.203250+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Software Engineer, Launch Program 2027 \u2013 United States",
+   "location": "6 Locations",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+   "posted": "Posted Today",
+   "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
