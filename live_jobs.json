@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T16:04:51.191350+00:00",
+ "generated": "2026-09-11T20:39:23.427385+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,9 +7,9 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:00:54.992065+00:00",
-   "total": 397,
-   "count": 1,
+   "checked": "2026-09-11T20:35:35.587076+00:00",
+   "total": 404,
+   "count": 2,
    "jobs": [
     {
      "title": "Associate, Data Analyst - New Grad, 2027 Start",
@@ -17,6 +17,13 @@
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
      "posted": "Posted 3 Days Ago",
      "id": "/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"
+    },
+    {
+     "title": "Associate, Data Scientist - New Grad, 2027 Start",
+     "location": "Toronto, ON",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+     "posted": "Posted Today",
+     "id": "/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1"
     }
    ]
   },
@@ -26,8 +33,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:01:09.036266+00:00",
-   "total": 91,
+   "checked": "2026-09-11T20:35:43.663794+00:00",
+   "total": 92,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +44,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:01:09.248646+00:00",
-   "total": 2389,
+   "checked": "2026-09-11T20:35:44.001348+00:00",
+   "total": 2395,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +55,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:01:09.342892+00:00",
+   "checked": "2026-09-11T20:35:44.396638+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -59,8 +66,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:01:09.429272+00:00",
-   "total": 31,
+   "checked": "2026-09-11T20:35:44.532150+00:00",
+   "total": 30,
    "count": 0,
    "jobs": []
   },
@@ -70,8 +77,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:01:09.917357+00:00",
-   "total": 77,
+   "checked": "2026-09-11T20:35:45.059256+00:00",
+   "total": 76,
    "count": 0,
    "jobs": []
   },
@@ -81,8 +88,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:01:52.076495+00:00",
-   "total": 507,
+   "checked": "2026-09-11T20:36:27.209297+00:00",
+   "total": 503,
    "count": 0,
    "jobs": []
   },
@@ -92,7 +99,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:02:02.769771+00:00",
+   "checked": "2026-09-11T20:36:38.614930+00:00",
    "total": 198,
    "count": 0,
    "jobs": []
@@ -103,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:02:36.780770+00:00",
-   "total": 321,
+   "checked": "2026-09-11T20:37:12.177767+00:00",
+   "total": 315,
    "count": 1,
    "jobs": [
     {
@@ -122,8 +129,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:02:57.416821+00:00",
-   "total": 399,
+   "checked": "2026-09-11T20:37:30.573862+00:00",
+   "total": 398,
    "count": 0,
    "jobs": []
   },
@@ -133,8 +140,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:03:21.294879+00:00",
-   "total": 237,
+   "checked": "2026-09-11T20:37:54.502586+00:00",
+   "total": 238,
    "count": 0,
    "jobs": []
   },
@@ -144,8 +151,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:03:29.334705+00:00",
-   "total": 47,
+   "checked": "2026-09-11T20:38:03.283385+00:00",
+   "total": 48,
    "count": 7,
    "jobs": [
     {
@@ -205,8 +212,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:04:04.570212+00:00",
-   "total": 393,
+   "checked": "2026-09-11T20:38:39.396634+00:00",
+   "total": 394,
    "count": 10,
    "jobs": [
     {
@@ -287,8 +294,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:04:30.733480+00:00",
-   "total": 315,
+   "checked": "2026-09-11T20:39:03.722468+00:00",
+   "total": 322,
    "count": 2,
    "jobs": [
     {
@@ -313,13 +320,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T16:04:51.191337+00:00",
+   "checked": "2026-09-11T20:39:23.427373+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Capital One",
+   "title": "Associate, Data Scientist - New Grad, 2027 Start",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+   "posted": "Posted Today",
+   "id": "/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
