@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T10:49:02.425648+00:00",
+ "generated": "2026-09-11T16:04:51.191350+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:45:04.323734+00:00",
-   "total": 396,
+   "checked": "2026-09-11T16:00:54.992065+00:00",
+   "total": 397,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:45:12.499153+00:00",
-   "total": 85,
+   "checked": "2026-09-11T16:01:09.036266+00:00",
+   "total": 91,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:45:12.926228+00:00",
-   "total": 2383,
+   "checked": "2026-09-11T16:01:09.248646+00:00",
+   "total": 2389,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:45:13.074721+00:00",
+   "checked": "2026-09-11T16:01:09.342892+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:45:13.153024+00:00",
+   "checked": "2026-09-11T16:01:09.429272+00:00",
    "total": 31,
    "count": 0,
    "jobs": []
@@ -70,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:45:13.731416+00:00",
-   "total": 76,
+   "checked": "2026-09-11T16:01:09.917357+00:00",
+   "total": 77,
    "count": 0,
    "jobs": []
   },
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:46:06.592723+00:00",
-   "total": 506,
+   "checked": "2026-09-11T16:01:52.076495+00:00",
+   "total": 507,
    "count": 0,
    "jobs": []
   },
@@ -92,7 +92,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:46:17.486701+00:00",
+   "checked": "2026-09-11T16:02:02.769771+00:00",
    "total": 198,
    "count": 0,
    "jobs": []
@@ -103,8 +103,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:46:48.877187+00:00",
-   "total": 328,
+   "checked": "2026-09-11T16:02:36.780770+00:00",
+   "total": 321,
    "count": 1,
    "jobs": [
     {
@@ -122,8 +122,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:47:07.226467+00:00",
-   "total": 395,
+   "checked": "2026-09-11T16:02:57.416821+00:00",
+   "total": 399,
    "count": 0,
    "jobs": []
   },
@@ -133,8 +133,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:47:30.232150+00:00",
-   "total": 236,
+   "checked": "2026-09-11T16:03:21.294879+00:00",
+   "total": 237,
    "count": 0,
    "jobs": []
   },
@@ -144,9 +144,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:47:42.201642+00:00",
-   "total": 48,
-   "count": 8,
+   "checked": "2026-09-11T16:03:29.334705+00:00",
+   "total": 47,
+   "count": 7,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
@@ -191,13 +191,6 @@
      "id": "/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571"
     },
     {
-     "title": "Associate Consultant, Launch Program 2027 - San Francisco, CA",
-     "location": "San Francisco, California",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609",
-     "posted": "Posted 17 Days Ago",
-     "id": "/job/San-Francisco-California/Associate-Consultant--Launch-Program-2027---San-Francisco--CA_R-287609"
-    },
-    {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
@@ -212,7 +205,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:48:16.984166+00:00",
+   "checked": "2026-09-11T16:04:04.570212+00:00",
    "total": 393,
    "count": 10,
    "jobs": [
@@ -294,8 +287,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:48:41.746378+00:00",
-   "total": 310,
+   "checked": "2026-09-11T16:04:30.733480+00:00",
+   "total": 315,
    "count": 2,
    "jobs": [
     {
@@ -320,7 +313,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-11T10:49:02.425631+00:00",
+   "checked": "2026-09-11T16:04:51.191337+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
