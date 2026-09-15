@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T11:19:44.938923+00:00",
+ "generated": "2026-09-15T16:31:17.695729+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:06.931093+00:00",
-   "total": 415,
+   "checked": "2026-09-15T16:27:01.313415+00:00",
+   "total": 412,
    "count": 2,
    "jobs": [
     {
@@ -33,8 +33,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:17.587737+00:00",
-   "total": 84,
+   "checked": "2026-09-15T16:27:09.332353+00:00",
+   "total": 86,
    "count": 0,
    "jobs": []
   },
@@ -44,8 +44,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:17.798892+00:00",
-   "total": 2441,
+   "checked": "2026-09-15T16:27:09.733810+00:00",
+   "total": 2448,
    "count": 0,
    "jobs": []
   },
@@ -55,7 +55,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:17.873712+00:00",
+   "checked": "2026-09-15T16:27:09.921588+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -66,7 +66,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:17.945348+00:00",
+   "checked": "2026-09-15T16:27:10.084884+00:00",
    "total": 30,
    "count": 0,
    "jobs": []
@@ -77,8 +77,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:18.464417+00:00",
-   "total": 75,
+   "checked": "2026-09-15T16:27:10.709579+00:00",
+   "total": 76,
    "count": 0,
    "jobs": []
   },
@@ -88,8 +88,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:16:58.253875+00:00",
-   "total": 505,
+   "checked": "2026-09-15T16:27:56.484630+00:00",
+   "total": 510,
    "count": 0,
    "jobs": []
   },
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:17:09.753113+00:00",
-   "total": 199,
+   "checked": "2026-09-15T16:28:09.658643+00:00",
+   "total": 200,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:17:39.068399+00:00",
-   "total": 334,
+   "checked": "2026-09-15T16:28:43.889847+00:00",
+   "total": 331,
    "count": 1,
    "jobs": [
     {
@@ -129,8 +129,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:17:56.077686+00:00",
-   "total": 394,
+   "checked": "2026-09-15T16:29:10.137001+00:00",
+   "total": 398,
    "count": 0,
    "jobs": []
   },
@@ -140,7 +140,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:18:18.006535+00:00",
+   "checked": "2026-09-15T16:29:35.309112+00:00",
    "total": 237,
    "count": 0,
    "jobs": []
@@ -151,9 +151,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:18:26.132277+00:00",
-   "total": 49,
-   "count": 7,
+   "checked": "2026-09-15T16:29:47.804786+00:00",
+   "total": 51,
+   "count": 8,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
@@ -184,6 +184,13 @@
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
+     "title": "Software Engineer, Launch Program 2027 \u2013 United States",
+     "location": "3 Locations",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
+    },
+    {
      "title": "Associate Consultant, Launch Program 2027 - Arlington, VA (Washington, DC)",
      "location": "Arlington, Virginia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Associate-Consultant--Launch-Program-2027---United-States_R-287606",
@@ -212,9 +219,9 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:19:00.213409+00:00",
-   "total": 385,
-   "count": 10,
+   "checked": "2026-09-15T16:30:28.789760+00:00",
+   "total": 390,
+   "count": 11,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
@@ -229,6 +236,13 @@
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
      "posted": "Posted 7 Days Ago",
      "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
+    },
+    {
+     "title": "2027 Engineering Rotational Program",
+     "location": "Hopkins, MN",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
+     "posted": "Posted Today",
+     "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
     },
     {
      "title": "2027 Operations Full-Time Rotational Development Program",
@@ -294,8 +308,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:19:25.441228+00:00",
-   "total": 316,
+   "checked": "2026-09-15T16:30:56.891956+00:00",
+   "total": 323,
    "count": 2,
    "jobs": [
     {
@@ -320,13 +334,30 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T11:19:44.938911+00:00",
+   "checked": "2026-09-15T16:31:17.695711+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Software Engineer, Launch Program 2027 \u2013 United States",
+   "location": "3 Locations",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
+   "posted": "Posted Today",
+   "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
+  },
+  {
+   "company": "U.S. Bank",
+   "title": "2027 Engineering Rotational Program",
+   "location": "Hopkins, MN",
+   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
+   "posted": "Posted Today",
+   "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
