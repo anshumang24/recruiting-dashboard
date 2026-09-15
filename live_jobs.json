@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T16:31:17.695729+00:00",
+ "generated": "2026-09-15T21:00:19.296930+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:01.313415+00:00",
-   "total": 412,
+   "checked": "2026-09-15T20:56:23.461379+00:00",
+   "total": 410,
    "count": 2,
    "jobs": [
     {
@@ -33,8 +33,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:09.332353+00:00",
-   "total": 86,
+   "checked": "2026-09-15T20:56:31.306251+00:00",
+   "total": 96,
    "count": 0,
    "jobs": []
   },
@@ -44,8 +44,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:09.733810+00:00",
-   "total": 2448,
+   "checked": "2026-09-15T20:56:31.515957+00:00",
+   "total": 2451,
    "count": 0,
    "jobs": []
   },
@@ -55,8 +55,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:09.921588+00:00",
-   "total": 19,
+   "checked": "2026-09-15T20:56:31.575488+00:00",
+   "total": 20,
    "count": 0,
    "jobs": []
   },
@@ -66,8 +66,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:10.084884+00:00",
-   "total": 30,
+   "checked": "2026-09-15T20:56:31.632821+00:00",
+   "total": 29,
    "count": 0,
    "jobs": []
   },
@@ -77,7 +77,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:10.709579+00:00",
+   "checked": "2026-09-15T20:56:51.750892+00:00",
    "total": 76,
    "count": 0,
    "jobs": []
@@ -88,8 +88,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:27:56.484630+00:00",
-   "total": 510,
+   "checked": "2026-09-15T20:57:30.085373+00:00",
+   "total": 507,
    "count": 0,
    "jobs": []
   },
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:28:09.658643+00:00",
-   "total": 200,
+   "checked": "2026-09-15T20:57:40.123774+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:28:43.889847+00:00",
-   "total": 331,
+   "checked": "2026-09-15T20:58:13.791685+00:00",
+   "total": 329,
    "count": 1,
    "jobs": [
     {
@@ -129,8 +129,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:29:10.137001+00:00",
-   "total": 398,
+   "checked": "2026-09-15T20:58:32.966490+00:00",
+   "total": 394,
    "count": 0,
    "jobs": []
   },
@@ -140,8 +140,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:29:35.309112+00:00",
-   "total": 237,
+   "checked": "2026-09-15T20:58:52.275573+00:00",
+   "total": 238,
    "count": 0,
    "jobs": []
   },
@@ -151,8 +151,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:29:47.804786+00:00",
-   "total": 51,
+   "checked": "2026-09-15T20:59:00.023918+00:00",
+   "total": 50,
    "count": 8,
    "jobs": [
     {
@@ -219,8 +219,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:30:28.789760+00:00",
-   "total": 390,
+   "checked": "2026-09-15T20:59:32.764160+00:00",
+   "total": 386,
    "count": 11,
    "jobs": [
     {
@@ -308,8 +308,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:30:56.891956+00:00",
-   "total": 323,
+   "checked": "2026-09-15T20:59:58.627545+00:00",
+   "total": 324,
    "count": 2,
    "jobs": [
     {
@@ -334,30 +334,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-15T16:31:17.695711+00:00",
+   "checked": "2026-09-15T21:00:19.296913+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Software Engineer, Launch Program 2027 \u2013 United States",
-   "location": "3 Locations",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-   "posted": "Posted Today",
-   "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Engineering Rotational Program",
-   "location": "Hopkins, MN",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
-   "posted": "Posted Today",
-   "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
