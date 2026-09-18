@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T03:39:13.262811+00:00",
+ "generated": "2026-09-18T10:46:13.117840+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:35:35.827983+00:00",
+   "checked": "2026-09-18T10:42:45.331315+00:00",
    "total": 393,
    "count": 1,
    "jobs": [
@@ -15,7 +15,7 @@
      "title": "Associate, Data Analyst - New Grad, 2027 Start",
      "location": "Toronto, ON",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"
     }
    ]
@@ -26,15 +26,15 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:35:45.820540+00:00",
-   "total": 93,
+   "checked": "2026-09-18T10:42:52.374039+00:00",
+   "total": 84,
    "count": 1,
    "jobs": [
     {
      "title": "Associate Cybersecurity Systems Engineering Analyst - Data Protection",
      "location": "Charlotte, NC",
      "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/Associate-Cybersecurity-Systems-Engineering-Analyst---Data-Protection_R41574",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "id": "/job/Charlotte-NC/Associate-Cybersecurity-Systems-Engineering-Analyst---Data-Protection_R41574"
     }
    ]
@@ -45,8 +45,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:35:46.603834+00:00",
-   "total": 2500,
+   "checked": "2026-09-18T10:42:52.588047+00:00",
+   "total": 2501,
    "count": 0,
    "jobs": []
   },
@@ -56,7 +56,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:35:46.685956+00:00",
+   "checked": "2026-09-18T10:42:52.671450+00:00",
    "total": 19,
    "count": 0,
    "jobs": []
@@ -67,7 +67,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:35:46.771447+00:00",
+   "checked": "2026-09-18T10:42:52.746256+00:00",
    "total": 28,
    "count": 0,
    "jobs": []
@@ -78,8 +78,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:35:47.305766+00:00",
-   "total": 75,
+   "checked": "2026-09-18T10:42:53.196932+00:00",
+   "total": 77,
    "count": 0,
    "jobs": []
   },
@@ -89,8 +89,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:36:26.266374+00:00",
-   "total": 486,
+   "checked": "2026-09-18T10:43:29.140196+00:00",
+   "total": 490,
    "count": 0,
    "jobs": []
   },
@@ -100,8 +100,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:36:36.519117+00:00",
-   "total": 200,
+   "checked": "2026-09-18T10:43:39.209514+00:00",
+   "total": 198,
    "count": 0,
    "jobs": []
   },
@@ -111,15 +111,15 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:37:07.916311+00:00",
-   "total": 325,
+   "checked": "2026-09-18T10:44:10.223055+00:00",
+   "total": 319,
    "count": 1,
    "jobs": [
     {
      "title": "Financial Analyst Development Program (FADP) - Minneapolis, MN / Hybrid (2027)",
      "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
      "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572",
-     "posted": "Posted 27 Days Ago",
+     "posted": "Posted 28 Days Ago",
      "id": "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Development-Program--FADP----Minneapolis--MN---Hybrid--2027-_R0000450572"
     }
    ]
@@ -130,8 +130,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:37:25.345687+00:00",
-   "total": 400,
+   "checked": "2026-09-18T10:44:28.024535+00:00",
+   "total": 398,
    "count": 0,
    "jobs": []
   },
@@ -141,7 +141,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:37:46.408521+00:00",
+   "checked": "2026-09-18T10:44:49.640795+00:00",
    "total": 244,
    "count": 0,
    "jobs": []
@@ -152,64 +152,64 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:37:54.631254+00:00",
-   "total": 42,
+   "checked": "2026-09-18T10:44:55.976163+00:00",
+   "total": 41,
    "count": 8,
    "jobs": [
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
     },
     {
      "title": "Technology Risk Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644"
     },
     {
      "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691",
-     "posted": "Posted 27 Days Ago",
+     "posted": "Posted 28 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691"
     },
     {
      "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
-     "posted": "Posted 27 Days Ago",
+     "posted": "Posted 28 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
      "title": "Software Engineer, Launch Program 2027 \u2013 United States",
      "location": "3 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 - Arlington, VA (Washington, DC)",
      "location": "Arlington, Virginia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Associate-Consultant--Launch-Program-2027---United-States_R-287606",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "id": "/job/Arlington-Virginia/Associate-Consultant--Launch-Program-2027---United-States_R-287606"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 - Malaysia",
      "location": "Kuala Lumpur, Malaysia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "id": "/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
-     "posted": "Posted 27 Days Ago",
+     "posted": "Posted 28 Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570"
     }
    ]
@@ -220,86 +220,72 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:38:27.192496+00:00",
-   "total": 391,
-   "count": 11,
+   "checked": "2026-09-18T10:45:28.171376+00:00",
+   "total": 389,
+   "count": 9,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
      "location": "4 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
     },
     {
      "title": "2027 Commercial Real Estate Development Program",
      "location": "5 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
     },
     {
      "title": "2027 Engineering Rotational Program",
      "location": "Hopkins, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
     },
     {
      "title": "2027 Operations Full-Time Rotational Development Program",
      "location": "2 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064"
-    },
-    {
-     "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Macro and Commodities",
-     "location": "4 Locations",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1",
-     "posted": "Posted Yesterday",
-     "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1"
     },
     {
      "title": "2027 Business Banking Rotational Development Program",
      "location": "5 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881"
     },
     {
      "title": "2027 Quantitative Modeling Rotational Program",
      "location": "Charlotte, NC",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548"
     },
     {
      "title": "2027 Experience Design Rotational Program",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561"
     },
     {
      "title": "2027 Finance, Treasury, & Accounting Full-time Rotational Program - Finance Track",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Development-Program---Finance-Track_2026-0026416-1",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Development-Program---Finance-Track_2026-0026416-1"
     },
     {
      "title": "2027 Finance, Treasury, & Accounting Full-time Rotational Program - Accounting  Track",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407"
-    },
-    {
-     "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Debt Finance Banking",
-     "location": "2 Locations",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053",
-     "posted": "Posted 9 Days Ago",
-     "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Debt-Finance-Banking_2026-0027053"
     }
    ]
   },
@@ -309,7 +295,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:38:53.178976+00:00",
+   "checked": "2026-09-18T10:45:53.028323+00:00",
    "total": 338,
    "count": 2,
    "jobs": [
@@ -324,7 +310,7 @@
      "title": "2027 IT Analyst - Entry Level",
      "location": "2 Locations",
      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "id": "/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332"
     }
    ]
@@ -335,7 +321,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-18T03:39:13.262793+00:00",
+   "checked": "2026-09-18T10:46:13.117823+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
