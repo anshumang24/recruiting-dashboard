@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T12:15:32.682518+00:00",
+ "generated": "2026-09-21T21:50:01.634776+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:11:58.168460+00:00",
-   "total": 405,
+   "checked": "2026-09-21T21:46:19.315315+00:00",
+   "total": 392,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:04.427687+00:00",
-   "total": 84,
+   "checked": "2026-09-21T21:46:27.055240+00:00",
+   "total": 92,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:04.651375+00:00",
-   "total": 2506,
+   "checked": "2026-09-21T21:46:27.350160+00:00",
+   "total": 2507,
    "count": 0,
    "jobs": []
   },
@@ -48,8 +48,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:04.740805+00:00",
-   "total": 19,
+   "checked": "2026-09-21T21:46:27.461140+00:00",
+   "total": 18,
    "count": 0,
    "jobs": []
   },
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:04.844365+00:00",
+   "checked": "2026-09-21T21:46:27.546575+00:00",
    "total": 32,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:05.366949+00:00",
+   "checked": "2026-09-21T21:46:28.125245+00:00",
    "total": 80,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:43.414963+00:00",
-   "total": 480,
+   "checked": "2026-09-21T21:47:07.355158+00:00",
+   "total": 482,
    "count": 0,
    "jobs": []
   },
@@ -92,8 +92,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:12:56.590707+00:00",
-   "total": 200,
+   "checked": "2026-09-21T21:47:17.992526+00:00",
+   "total": 196,
    "count": 0,
    "jobs": []
   },
@@ -103,8 +103,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:13:28.276325+00:00",
-   "total": 353,
+   "checked": "2026-09-21T21:47:49.928376+00:00",
+   "total": 351,
    "count": 1,
    "jobs": [
     {
@@ -122,8 +122,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:13:45.954878+00:00",
-   "total": 399,
+   "checked": "2026-09-21T21:48:08.575943+00:00",
+   "total": 396,
    "count": 0,
    "jobs": []
   },
@@ -133,8 +133,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:14:05.251623+00:00",
-   "total": 240,
+   "checked": "2026-09-21T21:48:31.277699+00:00",
+   "total": 239,
    "count": 0,
    "jobs": []
   },
@@ -144,8 +144,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:14:13.248109+00:00",
-   "total": 42,
+   "checked": "2026-09-21T21:48:39.648653+00:00",
+   "total": 44,
    "count": 8,
    "jobs": [
     {
@@ -212,7 +212,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:14:45.324384+00:00",
+   "checked": "2026-09-21T21:49:17.707354+00:00",
    "total": 383,
    "count": 9,
    "jobs": [
@@ -287,8 +287,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:15:12.284571+00:00",
-   "total": 328,
+   "checked": "2026-09-21T21:49:41.752179+00:00",
+   "total": 332,
    "count": 2,
    "jobs": [
     {
@@ -313,22 +313,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-21T12:15:32.682501+00:00",
+   "checked": "2026-09-21T21:50:01.634764+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Software Engineer, Launch Program 2027 \u2013 United States",
-   "location": "3 Locations",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-   "posted": "Posted Today",
-   "id": "/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
