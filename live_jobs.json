@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T16:31:01.592924+00:00",
+ "generated": "2026-09-22T21:02:01.678209+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:26:44.089051+00:00",
-   "total": 399,
+   "checked": "2026-09-22T20:58:12.676188+00:00",
+   "total": 397,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:26:52.489712+00:00",
-   "total": 92,
+   "checked": "2026-09-22T20:58:23.573644+00:00",
+   "total": 94,
    "count": 1,
    "jobs": [
     {
@@ -45,8 +45,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:27:12.744799+00:00",
-   "total": 2533,
+   "checked": "2026-09-22T20:58:23.783936+00:00",
+   "total": 2539,
    "count": 0,
    "jobs": []
   },
@@ -56,7 +56,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:27:12.887086+00:00",
+   "checked": "2026-09-22T20:58:23.838607+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -67,7 +67,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:27:13.092777+00:00",
+   "checked": "2026-09-22T20:58:23.894286+00:00",
    "total": 34,
    "count": 0,
    "jobs": []
@@ -78,8 +78,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:27:13.627066+00:00",
-   "total": 77,
+   "checked": "2026-09-22T20:58:24.337327+00:00",
+   "total": 78,
    "count": 0,
    "jobs": []
   },
@@ -89,8 +89,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:27:52.698475+00:00",
-   "total": 487,
+   "checked": "2026-09-22T20:59:01.276274+00:00",
+   "total": 484,
    "count": 0,
    "jobs": []
   },
@@ -100,8 +100,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:28:06.296665+00:00",
-   "total": 201,
+   "checked": "2026-09-22T20:59:10.986142+00:00",
+   "total": 202,
    "count": 0,
    "jobs": []
   },
@@ -111,8 +111,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:28:41.337873+00:00",
-   "total": 337,
+   "checked": "2026-09-22T20:59:44.416512+00:00",
+   "total": 341,
    "count": 1,
    "jobs": [
     {
@@ -130,8 +130,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:29:01.381298+00:00",
-   "total": 396,
+   "checked": "2026-09-22T21:00:07.097261+00:00",
+   "total": 399,
    "count": 0,
    "jobs": []
   },
@@ -141,8 +141,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:29:24.865607+00:00",
-   "total": 240,
+   "checked": "2026-09-22T21:00:28.716618+00:00",
+   "total": 242,
    "count": 0,
    "jobs": []
   },
@@ -152,8 +152,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:29:34.285901+00:00",
-   "total": 45,
+   "checked": "2026-09-22T21:00:41.656910+00:00",
+   "total": 46,
    "count": 9,
    "jobs": [
     {
@@ -227,8 +227,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:30:10.018541+00:00",
-   "total": 382,
+   "checked": "2026-09-22T21:01:15.212405+00:00",
+   "total": 381,
    "count": 9,
    "jobs": [
     {
@@ -302,8 +302,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:30:39.043962+00:00",
-   "total": 333,
+   "checked": "2026-09-22T21:01:41.353411+00:00",
+   "total": 329,
    "count": 2,
    "jobs": [
     {
@@ -328,22 +328,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T16:31:01.592908+00:00",
+   "checked": "2026-09-22T21:02:01.678191+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
-   "location": "Purchase, New York",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629",
-   "posted": "Posted Today",
-   "id": "/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
