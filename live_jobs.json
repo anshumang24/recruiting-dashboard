@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T11:09:52.143497+00:00",
+ "generated": "2026-09-22T16:31:01.592924+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:09.443199+00:00",
-   "total": 392,
+   "checked": "2026-09-22T16:26:44.089051+00:00",
+   "total": 399,
    "count": 1,
    "jobs": [
     {
@@ -26,10 +26,18 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:16.050600+00:00",
-   "total": 86,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-09-22T16:26:52.489712+00:00",
+   "total": 92,
+   "count": 1,
+   "jobs": [
+    {
+     "title": "Associate Cybersecurity Governance & Risk Analyst",
+     "location": "Charlotte, NC",
+     "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1"
+    }
+   ]
   },
   {
    "id": "spacex",
@@ -37,8 +45,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:16.320416+00:00",
-   "total": 2522,
+   "checked": "2026-09-22T16:27:12.744799+00:00",
+   "total": 2533,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +56,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:16.443867+00:00",
+   "checked": "2026-09-22T16:27:12.887086+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -59,8 +67,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:16.529293+00:00",
-   "total": 33,
+   "checked": "2026-09-22T16:27:13.092777+00:00",
+   "total": 34,
    "count": 0,
    "jobs": []
   },
@@ -70,8 +78,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:17.058762+00:00",
-   "total": 78,
+   "checked": "2026-09-22T16:27:13.627066+00:00",
+   "total": 77,
    "count": 0,
    "jobs": []
   },
@@ -81,8 +89,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:06:55.822091+00:00",
-   "total": 482,
+   "checked": "2026-09-22T16:27:52.698475+00:00",
+   "total": 487,
    "count": 0,
    "jobs": []
   },
@@ -92,8 +100,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:07:07.822271+00:00",
-   "total": 200,
+   "checked": "2026-09-22T16:28:06.296665+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -103,8 +111,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:07:38.419687+00:00",
-   "total": 341,
+   "checked": "2026-09-22T16:28:41.337873+00:00",
+   "total": 337,
    "count": 1,
    "jobs": [
     {
@@ -122,8 +130,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:07:56.616079+00:00",
-   "total": 397,
+   "checked": "2026-09-22T16:29:01.381298+00:00",
+   "total": 396,
    "count": 0,
    "jobs": []
   },
@@ -133,8 +141,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:08:19.113720+00:00",
-   "total": 238,
+   "checked": "2026-09-22T16:29:24.865607+00:00",
+   "total": 240,
    "count": 0,
    "jobs": []
   },
@@ -144,10 +152,17 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:08:27.630917+00:00",
-   "total": 44,
-   "count": 8,
+   "checked": "2026-09-22T16:29:34.285901+00:00",
+   "total": 45,
+   "count": 9,
    "jobs": [
+    {
+     "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
+     "location": "Purchase, New York",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629",
+     "posted": "Posted Today",
+     "id": "/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629"
+    },
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
@@ -212,8 +227,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:09:02.596878+00:00",
-   "total": 377,
+   "checked": "2026-09-22T16:30:10.018541+00:00",
+   "total": 382,
    "count": 9,
    "jobs": [
     {
@@ -287,8 +302,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:09:32.271548+00:00",
-   "total": 330,
+   "checked": "2026-09-22T16:30:39.043962+00:00",
+   "total": 333,
    "count": 2,
    "jobs": [
     {
@@ -313,13 +328,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T11:09:52.143480+00:00",
+   "checked": "2026-09-22T16:31:01.592908+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
+   "location": "Purchase, New York",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629",
+   "posted": "Posted Today",
+   "id": "/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
