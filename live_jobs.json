@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T10:59:38.964320+00:00",
+ "generated": "2026-09-23T16:20:36.814007+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:55:58.323088+00:00",
-   "total": 390,
+   "checked": "2026-09-23T16:16:33.990041+00:00",
+   "total": 389,
    "count": 1,
    "jobs": [
     {
@@ -26,18 +26,10 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:05.333274+00:00",
-   "total": 84,
-   "count": 1,
-   "jobs": [
-    {
-     "title": "Associate Cybersecurity Governance & Risk Analyst",
-     "location": "Charlotte, NC",
-     "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1",
-     "posted": "Posted Yesterday",
-     "id": "/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1"
-    }
-   ]
+   "checked": "2026-09-23T16:16:43.136408+00:00",
+   "total": 89,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "spacex",
@@ -45,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:05.652601+00:00",
-   "total": 2549,
+   "checked": "2026-09-23T16:16:43.459160+00:00",
+   "total": 2553,
    "count": 0,
    "jobs": []
   },
@@ -56,8 +48,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:05.779762+00:00",
-   "total": 18,
+   "checked": "2026-09-23T16:16:43.543266+00:00",
+   "total": 17,
    "count": 0,
    "jobs": []
   },
@@ -67,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:06.065335+00:00",
+   "checked": "2026-09-23T16:16:43.658612+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -78,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:06.684344+00:00",
-   "total": 79,
+   "checked": "2026-09-23T16:16:44.230014+00:00",
+   "total": 75,
    "count": 0,
    "jobs": []
   },
@@ -89,15 +81,15 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:46.509371+00:00",
-   "total": 490,
+   "checked": "2026-09-23T16:17:26.525118+00:00",
+   "total": 487,
    "count": 1,
    "jobs": [
     {
-     "title": "Associate Product Specialist, Launch Program 2027 - United States",
-     "location": "O'Fallon, Missouri",
+     "title": "Associate Product Specialist, Product Management, Launch Program 2027 - United States",
+     "location": "2 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623",
-     "posted": "Posted Yesterday",
+     "posted": "Posted Today",
      "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623"
     }
    ]
@@ -108,8 +100,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:56:57.451841+00:00",
-   "total": 209,
+   "checked": "2026-09-23T16:17:40.751607+00:00",
+   "total": 210,
    "count": 0,
    "jobs": []
   },
@@ -119,8 +111,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:57:29.071423+00:00",
-   "total": 337,
+   "checked": "2026-09-23T16:18:13.346883+00:00",
+   "total": 368,
    "count": 1,
    "jobs": [
     {
@@ -138,8 +130,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:57:48.031025+00:00",
-   "total": 400,
+   "checked": "2026-09-23T16:18:32.855328+00:00",
+   "total": 404,
    "count": 0,
    "jobs": []
   },
@@ -149,8 +141,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:58:10.212695+00:00",
-   "total": 245,
+   "checked": "2026-09-23T16:19:04.745788+00:00",
+   "total": 248,
    "count": 0,
    "jobs": []
   },
@@ -160,9 +152,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:58:18.363102+00:00",
-   "total": 44,
-   "count": 8,
+   "checked": "2026-09-23T16:19:13.890660+00:00",
+   "total": 39,
+   "count": 7,
    "jobs": [
     {
      "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
@@ -179,13 +171,6 @@
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
     },
     {
-     "title": "Technology Risk Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
-     "location": "O'Fallon, Missouri",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644",
-     "posted": "Posted 15 Days Ago",
-     "id": "/job/OFallon-Missouri/Technology-Risk-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-287644"
-    },
-    {
      "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691",
@@ -200,10 +185,10 @@
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
-     "title": "Associate Product Specialist, Launch Program 2027 - United States",
-     "location": "O'Fallon, Missouri",
+     "title": "Associate Product Specialist, Product Management, Launch Program 2027 - United States",
+     "location": "2 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1",
-     "posted": "Posted Yesterday",
+     "posted": "Posted Today",
      "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1"
     },
     {
@@ -228,8 +213,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:58:52.728740+00:00",
-   "total": 380,
+   "checked": "2026-09-23T16:19:50.618522+00:00",
+   "total": 384,
    "count": 9,
    "jobs": [
     {
@@ -303,7 +288,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:59:18.653001+00:00",
+   "checked": "2026-09-23T16:20:16.946989+00:00",
    "total": 334,
    "count": 2,
    "jobs": [
@@ -329,7 +314,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-23T10:59:38.964302+00:00",
+   "checked": "2026-09-23T16:20:36.813992+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
