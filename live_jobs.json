@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T21:02:01.678209+00:00",
+ "generated": "2026-09-23T03:45:28.752859+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:58:12.676188+00:00",
-   "total": 397,
+   "checked": "2026-09-23T03:41:41.841878+00:00",
+   "total": 389,
    "count": 1,
    "jobs": [
     {
@@ -26,7 +26,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:58:23.573644+00:00",
+   "checked": "2026-09-23T03:41:49.479555+00:00",
    "total": 94,
    "count": 1,
    "jobs": [
@@ -45,8 +45,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:58:23.783936+00:00",
-   "total": 2539,
+   "checked": "2026-09-23T03:41:49.968917+00:00",
+   "total": 2549,
    "count": 0,
    "jobs": []
   },
@@ -56,7 +56,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:58:23.838607+00:00",
+   "checked": "2026-09-23T03:41:50.143099+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -67,7 +67,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:58:23.894286+00:00",
+   "checked": "2026-09-23T03:41:50.335372+00:00",
    "total": 34,
    "count": 0,
    "jobs": []
@@ -78,7 +78,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:58:24.337327+00:00",
+   "checked": "2026-09-23T03:41:50.966090+00:00",
    "total": 78,
    "count": 0,
    "jobs": []
@@ -89,10 +89,18 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:59:01.276274+00:00",
-   "total": 484,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-09-23T03:42:29.897131+00:00",
+   "total": 485,
+   "count": 1,
+   "jobs": [
+    {
+     "title": "Associate Product Specialist, Launch Program 2027 - United States",
+     "location": "O'Fallon, Missouri",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623"
+    }
+   ]
   },
   {
    "id": "nike",
@@ -100,8 +108,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:59:10.986142+00:00",
-   "total": 202,
+   "checked": "2026-09-23T03:42:40.943734+00:00",
+   "total": 203,
    "count": 0,
    "jobs": []
   },
@@ -111,8 +119,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T20:59:44.416512+00:00",
-   "total": 341,
+   "checked": "2026-09-23T03:43:14.349950+00:00",
+   "total": 343,
    "count": 1,
    "jobs": [
     {
@@ -130,8 +138,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T21:00:07.097261+00:00",
-   "total": 399,
+   "checked": "2026-09-23T03:43:34.775891+00:00",
+   "total": 400,
    "count": 0,
    "jobs": []
   },
@@ -141,8 +149,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T21:00:28.716618+00:00",
-   "total": 242,
+   "checked": "2026-09-23T03:43:57.236223+00:00",
+   "total": 243,
    "count": 0,
    "jobs": []
   },
@@ -152,9 +160,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T21:00:41.656910+00:00",
-   "total": 46,
-   "count": 9,
+   "checked": "2026-09-23T03:44:05.864154+00:00",
+   "total": 47,
+   "count": 10,
    "jobs": [
     {
      "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
@@ -192,6 +200,13 @@
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
+     "title": "Associate Product Specialist, Launch Program 2027 - United States",
+     "location": "O'Fallon, Missouri",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1"
+    },
+    {
      "title": "Software Engineer, Launch Program 2027 \u2013 United States",
      "location": "3 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
@@ -227,8 +242,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T21:01:15.212405+00:00",
-   "total": 381,
+   "checked": "2026-09-23T03:44:41.163494+00:00",
+   "total": 383,
    "count": 9,
    "jobs": [
     {
@@ -302,8 +317,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T21:01:41.353411+00:00",
-   "total": 329,
+   "checked": "2026-09-23T03:45:07.433544+00:00",
+   "total": 332,
    "count": 2,
    "jobs": [
     {
@@ -328,13 +343,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-22T21:02:01.678191+00:00",
+   "checked": "2026-09-23T03:45:28.752837+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Associate Product Specialist, Launch Program 2027 - United States",
+   "location": "O'Fallon, Missouri",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1",
+   "posted": "Posted Today",
+   "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
