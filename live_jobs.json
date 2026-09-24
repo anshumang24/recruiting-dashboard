@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T16:42:39.525218+00:00",
+ "generated": "2026-09-24T21:18:50.965464+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:38:49.646319+00:00",
-   "total": 387,
+   "checked": "2026-09-24T21:14:38.023912+00:00",
+   "total": 397,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:38:57.131404+00:00",
-   "total": 89,
+   "checked": "2026-09-24T21:14:45.652497+00:00",
+   "total": 90,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:38:57.397187+00:00",
-   "total": 2564,
+   "checked": "2026-09-24T21:15:03.433395+00:00",
+   "total": 2584,
    "count": 0,
    "jobs": []
   },
@@ -48,8 +48,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:38:57.510198+00:00",
-   "total": 18,
+   "checked": "2026-09-24T21:15:03.533501+00:00",
+   "total": 20,
    "count": 0,
    "jobs": []
   },
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:38:57.606986+00:00",
+   "checked": "2026-09-24T21:15:03.651556+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -70,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:38:58.080058+00:00",
-   "total": 80,
+   "checked": "2026-09-24T21:15:04.236054+00:00",
+   "total": 81,
    "count": 0,
    "jobs": []
   },
@@ -81,7 +81,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:39:37.719650+00:00",
+   "checked": "2026-09-24T21:15:45.969433+00:00",
    "total": 474,
    "count": 3,
    "jobs": [
@@ -114,8 +114,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:39:48.815370+00:00",
-   "total": 209,
+   "checked": "2026-09-24T21:15:57.795841+00:00",
+   "total": 208,
    "count": 0,
    "jobs": []
   },
@@ -125,8 +125,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:40:25.631903+00:00",
-   "total": 344,
+   "checked": "2026-09-24T21:16:30.774448+00:00",
+   "total": 340,
    "count": 1,
    "jobs": [
     {
@@ -144,8 +144,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:40:45.296215+00:00",
-   "total": 395,
+   "checked": "2026-09-24T21:16:51.305601+00:00",
+   "total": 390,
    "count": 0,
    "jobs": []
   },
@@ -155,8 +155,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:41:08.098550+00:00",
-   "total": 249,
+   "checked": "2026-09-24T21:17:15.509931+00:00",
+   "total": 248,
    "count": 0,
    "jobs": []
   },
@@ -166,9 +166,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:41:15.890709+00:00",
-   "total": 42,
-   "count": 9,
+   "checked": "2026-09-24T21:17:24.309823+00:00",
+   "total": 43,
+   "count": 10,
    "jobs": [
     {
      "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
@@ -197,6 +197,13 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
      "posted": "Posted 30+ Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
+    },
+    {
+     "title": "Site Reliability Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
+     "location": "O'Fallon, Missouri",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Athens, Greece",
@@ -241,8 +248,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:41:48.511535+00:00",
-   "total": 381,
+   "checked": "2026-09-24T21:18:00.923253+00:00",
+   "total": 385,
    "count": 9,
    "jobs": [
     {
@@ -316,8 +323,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:42:17.940533+00:00",
-   "total": 333,
+   "checked": "2026-09-24T21:18:30.916031+00:00",
+   "total": 335,
    "count": 2,
    "jobs": [
     {
@@ -342,13 +349,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T16:42:39.525203+00:00",
+   "checked": "2026-09-24T21:18:50.965450+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Site Reliability Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
+   "location": "O'Fallon, Missouri",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
+   "posted": "Posted Today",
+   "id": "/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
