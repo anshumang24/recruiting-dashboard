@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T11:19:14.717705+00:00",
+ "generated": "2026-09-24T16:42:39.525218+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:15:21.910778+00:00",
-   "total": 393,
+   "checked": "2026-09-24T16:38:49.646319+00:00",
+   "total": 387,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:15:28.649443+00:00",
-   "total": 87,
+   "checked": "2026-09-24T16:38:57.131404+00:00",
+   "total": 89,
    "count": 0,
    "jobs": []
   },
@@ -37,7 +37,7 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:15:29.059110+00:00",
+   "checked": "2026-09-24T16:38:57.397187+00:00",
    "total": 2564,
    "count": 0,
    "jobs": []
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:15:29.223166+00:00",
+   "checked": "2026-09-24T16:38:57.510198+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:15:29.356365+00:00",
+   "checked": "2026-09-24T16:38:57.606986+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -70,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:15:29.968753+00:00",
-   "total": 78,
+   "checked": "2026-09-24T16:38:58.080058+00:00",
+   "total": 80,
    "count": 0,
    "jobs": []
   },
@@ -81,12 +81,12 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:16:13.307007+00:00",
-   "total": 479,
+   "checked": "2026-09-24T16:39:37.719650+00:00",
+   "total": 474,
    "count": 3,
    "jobs": [
     {
-     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Greece",
+     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
      "posted": "Posted Today",
@@ -114,7 +114,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:16:25.126521+00:00",
+   "checked": "2026-09-24T16:39:48.815370+00:00",
    "total": 209,
    "count": 0,
    "jobs": []
@@ -125,8 +125,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:16:59.746148+00:00",
-   "total": 347,
+   "checked": "2026-09-24T16:40:25.631903+00:00",
+   "total": 344,
    "count": 1,
    "jobs": [
     {
@@ -144,8 +144,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:17:19.415180+00:00",
-   "total": 402,
+   "checked": "2026-09-24T16:40:45.296215+00:00",
+   "total": 395,
    "count": 0,
    "jobs": []
   },
@@ -155,7 +155,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:17:42.943341+00:00",
+   "checked": "2026-09-24T16:41:08.098550+00:00",
    "total": 249,
    "count": 0,
    "jobs": []
@@ -166,8 +166,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:17:51.405324+00:00",
-   "total": 41,
+   "checked": "2026-09-24T16:41:15.890709+00:00",
+   "total": 42,
    "count": 9,
    "jobs": [
     {
@@ -199,7 +199,7 @@
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
-     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Greece",
+     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
      "posted": "Posted Today",
@@ -241,7 +241,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:18:27.767742+00:00",
+   "checked": "2026-09-24T16:41:48.511535+00:00",
    "total": 381,
    "count": 9,
    "jobs": [
@@ -316,7 +316,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:18:54.306428+00:00",
+   "checked": "2026-09-24T16:42:17.940533+00:00",
    "total": 333,
    "count": 2,
    "jobs": [
@@ -342,46 +342,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T11:19:14.717689+00:00",
+   "checked": "2026-09-24T16:42:39.525203+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard",
-   "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Greece",
-   "location": "Athens, Greece",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
-   "posted": "Posted Today",
-   "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1"
-  },
-  {
-   "company": "Mastercard",
-   "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
-   "location": "Cairo, Egypt",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585",
-   "posted": "Posted Today",
-   "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Greece",
-   "location": "Athens, Greece",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
-   "posted": "Posted Today",
-   "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
-   "location": "Cairo, Egypt",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2",
-   "posted": "Posted Today",
-   "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
