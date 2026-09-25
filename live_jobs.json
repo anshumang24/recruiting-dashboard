@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T03:53:29.337241+00:00",
+ "generated": "2026-09-25T11:23:57.986086+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:49:45.571177+00:00",
+   "checked": "2026-09-25T11:20:24.208545+00:00",
    "total": 397,
    "count": 1,
    "jobs": [
@@ -15,7 +15,7 @@
      "title": "Associate, Data Analyst - New Grad, 2027 Start",
      "location": "Toronto, ON",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"
     }
    ]
@@ -26,10 +26,18 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:49:52.859592+00:00",
-   "total": 90,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-09-25T11:20:30.237541+00:00",
+   "total": 80,
+   "count": 1,
+   "jobs": [
+    {
+     "title": "Associate Cybersecurity Governance & Risk Analyst",
+     "location": "Charlotte, NC",
+     "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1"
+    }
+   ]
   },
   {
    "id": "spacex",
@@ -37,8 +45,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:49:53.394614+00:00",
-   "total": 2586,
+   "checked": "2026-09-25T11:20:30.517667+00:00",
+   "total": 2587,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +56,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:49:53.524462+00:00",
+   "checked": "2026-09-25T11:20:30.592176+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -59,7 +67,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:49:53.646838+00:00",
+   "checked": "2026-09-25T11:20:30.662766+00:00",
    "total": 34,
    "count": 0,
    "jobs": []
@@ -70,8 +78,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:49:54.133858+00:00",
-   "total": 81,
+   "checked": "2026-09-25T11:20:31.142205+00:00",
+   "total": 79,
    "count": 0,
    "jobs": []
   },
@@ -81,29 +89,29 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:50:32.668873+00:00",
-   "total": 476,
+   "checked": "2026-09-25T11:21:07.894531+00:00",
+   "total": 473,
    "count": 3,
    "jobs": [
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585"
     },
     {
      "title": "Associate Product Specialist, Product Management, Launch Program 2027 - United States",
      "location": "2 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623"
     }
    ]
@@ -114,8 +122,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:50:43.991425+00:00",
-   "total": 208,
+   "checked": "2026-09-25T11:21:19.790901+00:00",
+   "total": 207,
    "count": 0,
    "jobs": []
   },
@@ -125,8 +133,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:51:16.554105+00:00",
-   "total": 339,
+   "checked": "2026-09-25T11:21:52.057274+00:00",
+   "total": 335,
    "count": 1,
    "jobs": [
     {
@@ -144,8 +152,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:51:35.940062+00:00",
-   "total": 393,
+   "checked": "2026-09-25T11:22:10.493503+00:00",
+   "total": 392,
    "count": 0,
    "jobs": []
   },
@@ -155,8 +163,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:51:58.984930+00:00",
-   "total": 249,
+   "checked": "2026-09-25T11:22:32.318784+00:00",
+   "total": 250,
    "count": 0,
    "jobs": []
   },
@@ -166,22 +174,22 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:52:07.154681+00:00",
-   "total": 43,
+   "checked": "2026-09-25T11:22:39.938305+00:00",
+   "total": 42,
    "count": 10,
    "jobs": [
     {
      "title": "Finance Associate Analyst, Launch Program 2027 - United States, Purchase, NY",
      "location": "Purchase, New York",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "id": "/job/Purchase-New-York/Finance-Associate-Analyst--Launch-Program-2027---United-States--Purchase--NY_R-287629"
     },
     {
      "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
     },
     {
@@ -202,35 +210,35 @@
      "title": "Site Reliability Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2"
     },
     {
      "title": "Associate Product Specialist, Product Management, Launch Program 2027 - United States",
      "location": "2 Locations",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 - Malaysia",
      "location": "Kuala Lumpur, Malaysia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571",
-     "posted": "Posted 21 Days Ago",
+     "posted": "Posted 22 Days Ago",
      "id": "/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571"
     },
     {
@@ -248,71 +256,64 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:52:43.446110+00:00",
-   "total": 384,
-   "count": 9,
+   "checked": "2026-09-25T11:23:11.547015+00:00",
+   "total": 377,
+   "count": 8,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
      "location": "4 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
     },
     {
      "title": "2027 Commercial Real Estate Development Program",
      "location": "5 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
-    },
-    {
-     "title": "2027 Engineering Rotational Program",
-     "location": "Hopkins, MN",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
-     "posted": "Posted 9 Days Ago",
-     "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
     },
     {
      "title": "2027 Operations Full-Time Rotational Development Program",
      "location": "2 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064"
     },
     {
      "title": "2027 Business Banking Rotational Development Program",
      "location": "5 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881"
     },
     {
      "title": "2027 Quantitative Modeling Rotational Program",
      "location": "Charlotte, NC",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548"
     },
     {
      "title": "2027 Experience Design Rotational Program",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561"
     },
     {
      "title": "2027 Finance, Treasury, & Accounting Full-time Rotational Program - Finance Track",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Development-Program---Finance-Track_2026-0026416-1",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Development-Program---Finance-Track_2026-0026416-1"
     },
     {
      "title": "2027 Finance, Treasury, & Accounting Full-time Rotational Program - Accounting  Track",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407"
     }
    ]
@@ -323,8 +324,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:53:08.337381+00:00",
-   "total": 329,
+   "checked": "2026-09-25T11:23:37.990426+00:00",
+   "total": 326,
    "count": 2,
    "jobs": [
     {
@@ -338,7 +339,7 @@
      "title": "2027 IT Analyst - Entry Level",
      "location": "2 Locations",
      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332",
-     "posted": "Posted 21 Days Ago",
+     "posted": "Posted 22 Days Ago",
      "id": "/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332"
     }
    ]
@@ -349,7 +350,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T03:53:29.337220+00:00",
+   "checked": "2026-09-25T11:23:57.986068+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
