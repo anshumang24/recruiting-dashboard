@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T21:18:50.965464+00:00",
+ "generated": "2026-09-25T03:53:29.337241+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:14:38.023912+00:00",
+   "checked": "2026-09-25T03:49:45.571177+00:00",
    "total": 397,
    "count": 1,
    "jobs": [
@@ -26,7 +26,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:14:45.652497+00:00",
+   "checked": "2026-09-25T03:49:52.859592+00:00",
    "total": 90,
    "count": 0,
    "jobs": []
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:15:03.433395+00:00",
-   "total": 2584,
+   "checked": "2026-09-25T03:49:53.394614+00:00",
+   "total": 2586,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:15:03.533501+00:00",
+   "checked": "2026-09-25T03:49:53.524462+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:15:03.651556+00:00",
-   "total": 35,
+   "checked": "2026-09-25T03:49:53.646838+00:00",
+   "total": 34,
    "count": 0,
    "jobs": []
   },
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:15:04.236054+00:00",
+   "checked": "2026-09-25T03:49:54.133858+00:00",
    "total": 81,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:15:45.969433+00:00",
-   "total": 474,
+   "checked": "2026-09-25T03:50:32.668873+00:00",
+   "total": 476,
    "count": 3,
    "jobs": [
     {
@@ -114,7 +114,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:15:57.795841+00:00",
+   "checked": "2026-09-25T03:50:43.991425+00:00",
    "total": 208,
    "count": 0,
    "jobs": []
@@ -125,8 +125,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:16:30.774448+00:00",
-   "total": 340,
+   "checked": "2026-09-25T03:51:16.554105+00:00",
+   "total": 339,
    "count": 1,
    "jobs": [
     {
@@ -144,8 +144,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:16:51.305601+00:00",
-   "total": 390,
+   "checked": "2026-09-25T03:51:35.940062+00:00",
+   "total": 393,
    "count": 0,
    "jobs": []
   },
@@ -155,8 +155,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:17:15.509931+00:00",
-   "total": 248,
+   "checked": "2026-09-25T03:51:58.984930+00:00",
+   "total": 249,
    "count": 0,
    "jobs": []
   },
@@ -166,7 +166,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:17:24.309823+00:00",
+   "checked": "2026-09-25T03:52:07.154681+00:00",
    "total": 43,
    "count": 10,
    "jobs": [
@@ -248,8 +248,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:18:00.923253+00:00",
-   "total": 385,
+   "checked": "2026-09-25T03:52:43.446110+00:00",
+   "total": 384,
    "count": 9,
    "jobs": [
     {
@@ -323,8 +323,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:18:30.916031+00:00",
-   "total": 335,
+   "checked": "2026-09-25T03:53:08.337381+00:00",
+   "total": 329,
    "count": 2,
    "jobs": [
     {
@@ -349,22 +349,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-24T21:18:50.965450+00:00",
+   "checked": "2026-09-25T03:53:29.337220+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Site Reliability Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
-   "location": "O'Fallon, Missouri",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-   "posted": "Posted Today",
-   "id": "/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
