@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T16:48:14.743436+00:00",
+ "generated": "2026-09-25T21:15:14.064800+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,18 +7,10 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:44:18.302480+00:00",
-   "total": 397,
-   "count": 1,
-   "jobs": [
-    {
-     "title": "Associate, Data Analyst - New Grad, 2027 Start",
-     "location": "Toronto, ON",
-     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-     "posted": "Posted 17 Days Ago",
-     "id": "/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1"
-    }
-   ]
+   "checked": "2026-09-25T21:11:23.527839+00:00",
+   "total": 403,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "dukeenergy",
@@ -26,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:44:24.386189+00:00",
-   "total": 81,
+   "checked": "2026-09-25T21:11:30.353200+00:00",
+   "total": 82,
    "count": 1,
    "jobs": [
     {
@@ -45,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:44:24.582748+00:00",
-   "total": 2589,
+   "checked": "2026-09-25T21:11:30.616929+00:00",
+   "total": 2593,
    "count": 0,
    "jobs": []
   },
@@ -56,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:44:24.660691+00:00",
+   "checked": "2026-09-25T21:11:30.703757+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -67,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:44:24.714590+00:00",
+   "checked": "2026-09-25T21:11:30.792375+00:00",
    "total": 34,
    "count": 0,
    "jobs": []
@@ -78,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:44:25.240110+00:00",
+   "checked": "2026-09-25T21:11:31.319354+00:00",
    "total": 79,
    "count": 0,
    "jobs": []
@@ -89,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:45:04.607097+00:00",
-   "total": 470,
+   "checked": "2026-09-25T21:12:13.780435+00:00",
+   "total": 465,
    "count": 4,
    "jobs": [
     {
@@ -129,7 +121,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:45:22.420053+00:00",
+   "checked": "2026-09-25T21:12:25.586075+00:00",
    "total": 208,
    "count": 0,
    "jobs": []
@@ -140,8 +132,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:45:58.540969+00:00",
-   "total": 358,
+   "checked": "2026-09-25T21:12:58.264462+00:00",
+   "total": 350,
    "count": 1,
    "jobs": [
     {
@@ -159,8 +151,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:46:18.303929+00:00",
-   "total": 398,
+   "checked": "2026-09-25T21:13:16.851299+00:00",
+   "total": 404,
    "count": 0,
    "jobs": []
   },
@@ -170,8 +162,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:46:43.230868+00:00",
-   "total": 249,
+   "checked": "2026-09-25T21:13:43.957098+00:00",
+   "total": 250,
    "count": 0,
    "jobs": []
   },
@@ -181,7 +173,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:46:51.072948+00:00",
+   "checked": "2026-09-25T21:13:52.021083+00:00",
    "total": 43,
    "count": 11,
    "jobs": [
@@ -270,9 +262,9 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:47:25.548617+00:00",
+   "checked": "2026-09-25T21:14:30.623350+00:00",
    "total": 381,
-   "count": 10,
+   "count": 9,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
@@ -301,13 +293,6 @@
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064",
      "posted": "Posted 17 Days Ago",
      "id": "/job/Saint-Paul-MN/XMLNAME-2027-Operations-Full-Time-Rotational-Development-Program_2026-0026064"
-    },
-    {
-     "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Macro and Commodities",
-     "location": "4 Locations",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1",
-     "posted": "Posted Today",
-     "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1"
     },
     {
      "title": "2027 Business Banking Rotational Development Program",
@@ -352,8 +337,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:47:54.168039+00:00",
-   "total": 329,
+   "checked": "2026-09-25T21:14:54.462638+00:00",
+   "total": 330,
    "count": 2,
    "jobs": [
     {
@@ -378,46 +363,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-25T16:48:14.743419+00:00",
+   "checked": "2026-09-25T21:15:14.064784+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard",
-   "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
-   "location": "Budapest, Hungary",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1",
-   "posted": "Posted Today",
-   "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
-   "location": "Budapest, Hungary",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695",
-   "posted": "Posted Today",
-   "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Engineering Rotational Program",
-   "location": "Hopkins, MN",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618",
-   "posted": "Posted Today",
-   "id": "/job/Hopkins-MN/XMLNAME-2027-Engineering-Rotational-Program_2026-0024618"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Fixed Income, Currencies and Commodities Full-time Development Program \u2013 Macro and Commodities",
-   "location": "4 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1",
-   "posted": "Posted Today",
-   "id": "/job/New-York-NY/XMLNAME-2027-Fixed-Income--Currencies-and-Commodities-Full-time-Development-Program---Macro-and-Commodities_2026-0027052-1"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
