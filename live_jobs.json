@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T21:03:48.433970+00:00",
+ "generated": "2026-09-28T04:10:51.274120+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:00:13.642538+00:00",
-   "total": 412,
+   "checked": "2026-09-28T04:07:19.142682+00:00",
+   "total": 414,
    "count": 0,
    "jobs": []
   },
@@ -18,18 +18,10 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:00:20.516881+00:00",
-   "total": 74,
-   "count": 1,
-   "jobs": [
-    {
-     "title": "Associate Cybersecurity Governance & Risk Analyst",
-     "location": "Charlotte, NC",
-     "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1",
-     "posted": "Posted 2 Days Ago",
-     "id": "/job/Charlotte-NC/Associate-Cybersecurity-Government---Risk-Analyst_R41659-1"
-    }
-   ]
+   "checked": "2026-09-28T04:07:25.505550+00:00",
+   "total": 67,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "spacex",
@@ -37,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:00:20.810050+00:00",
-   "total": 2595,
+   "checked": "2026-09-28T04:07:25.803290+00:00",
+   "total": 2594,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:00:20.996411+00:00",
+   "checked": "2026-09-28T04:07:25.906207+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -59,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:00:21.075436+00:00",
+   "checked": "2026-09-28T04:07:26.086742+00:00",
    "total": 34,
    "count": 0,
    "jobs": []
@@ -70,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:00:21.654165+00:00",
+   "checked": "2026-09-28T04:07:26.625510+00:00",
    "total": 79,
    "count": 0,
    "jobs": []
@@ -81,7 +73,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:01:01.533205+00:00",
+   "checked": "2026-09-28T04:08:03.573438+00:00",
    "total": 463,
    "count": 5,
    "jobs": [
@@ -128,8 +120,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:01:13.428969+00:00",
-   "total": 206,
+   "checked": "2026-09-28T04:08:14.759772+00:00",
+   "total": 204,
    "count": 0,
    "jobs": []
   },
@@ -139,8 +131,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:01:44.222231+00:00",
-   "total": 348,
+   "checked": "2026-09-28T04:08:46.092415+00:00",
+   "total": 346,
    "count": 1,
    "jobs": [
     {
@@ -158,7 +150,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:02:01.797070+00:00",
+   "checked": "2026-09-28T04:09:05.110661+00:00",
    "total": 410,
    "count": 0,
    "jobs": []
@@ -169,7 +161,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:02:23.911802+00:00",
+   "checked": "2026-09-28T04:09:26.301825+00:00",
    "total": 250,
    "count": 0,
    "jobs": []
@@ -180,8 +172,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:02:31.918293+00:00",
-   "total": 44,
+   "checked": "2026-09-28T04:09:33.945731+00:00",
+   "total": 45,
    "count": 11,
    "jobs": [
     {
@@ -269,8 +261,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:03:04.894183+00:00",
-   "total": 380,
+   "checked": "2026-09-28T04:10:07.368327+00:00",
+   "total": 379,
    "count": 9,
    "jobs": [
     {
@@ -344,7 +336,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:03:28.504936+00:00",
+   "checked": "2026-09-28T04:10:30.865296+00:00",
    "total": 316,
    "count": 2,
    "jobs": [
@@ -370,7 +362,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-27T21:03:48.433951+00:00",
+   "checked": "2026-09-28T04:10:51.274103+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
