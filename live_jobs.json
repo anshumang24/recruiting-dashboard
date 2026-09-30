@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T22:02:05.595500+00:00",
+ "generated": "2026-09-30T04:27:53.234188+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:58:17.272206+00:00",
+   "checked": "2026-09-30T04:24:12.469222+00:00",
    "total": 417,
    "count": 0,
    "jobs": []
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:58:23.693654+00:00",
-   "total": 83,
+   "checked": "2026-09-30T04:24:19.066804+00:00",
+   "total": 78,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:58:24.157105+00:00",
-   "total": 2614,
+   "checked": "2026-09-30T04:24:19.464865+00:00",
+   "total": 2610,
    "count": 0,
    "jobs": []
   },
@@ -40,8 +40,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:58:24.278420+00:00",
-   "total": 20,
+   "checked": "2026-09-30T04:24:19.618788+00:00",
+   "total": 21,
    "count": 0,
    "jobs": []
   },
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:58:24.389127+00:00",
+   "checked": "2026-09-30T04:24:19.722794+00:00",
    "total": 36,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:58:24.912545+00:00",
+   "checked": "2026-09-30T04:24:20.369294+00:00",
    "total": 84,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:59:04.010351+00:00",
-   "total": 461,
+   "checked": "2026-09-30T04:24:58.304021+00:00",
+   "total": 459,
    "count": 5,
    "jobs": [
     {
@@ -120,8 +120,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:59:16.530879+00:00",
-   "total": 199,
+   "checked": "2026-09-30T04:25:09.385390+00:00",
+   "total": 198,
    "count": 0,
    "jobs": []
   },
@@ -131,8 +131,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T21:59:48.801676+00:00",
-   "total": 336,
+   "checked": "2026-09-30T04:25:41.930633+00:00",
+   "total": 335,
    "count": 1,
    "jobs": [
     {
@@ -150,8 +150,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T22:00:07.849891+00:00",
-   "total": 389,
+   "checked": "2026-09-30T04:26:00.798263+00:00",
+   "total": 387,
    "count": 0,
    "jobs": []
   },
@@ -161,7 +161,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T22:00:32.276110+00:00",
+   "checked": "2026-09-30T04:26:22.184435+00:00",
    "total": 253,
    "count": 0,
    "jobs": []
@@ -172,7 +172,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T22:00:42.833205+00:00",
+   "checked": "2026-09-30T04:26:32.070644+00:00",
    "total": 57,
    "count": 13,
    "jobs": [
@@ -275,8 +275,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T22:01:19.611737+00:00",
-   "total": 380,
+   "checked": "2026-09-30T04:27:07.991709+00:00",
+   "total": 375,
    "count": 9,
    "jobs": [
     {
@@ -350,8 +350,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T22:01:45.673265+00:00",
-   "total": 334,
+   "checked": "2026-09-30T04:27:32.744548+00:00",
+   "total": 332,
    "count": 2,
    "jobs": [
     {
@@ -376,22 +376,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-29T22:02:05.595482+00:00",
+   "checked": "2026-09-30T04:27:53.234169+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Marketing and Communications Associate, Launch Program 2027 - United States",
-   "location": "2 Locations",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Marketing-and-Communications-Associate--Launch-Program-2027---United-States_R-287634",
-   "posted": "Posted Today",
-   "id": "/job/Purchase-New-York/Marketing-and-Communications-Associate--Launch-Program-2027---United-States_R-287634"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
