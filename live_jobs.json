@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T22:01:02.907939+00:00",
+ "generated": "2026-10-01T04:39:08.879718+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:57:03.320845+00:00",
-   "total": 407,
+   "checked": "2026-10-01T04:35:33.296407+00:00",
+   "total": 408,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:57:09.909508+00:00",
-   "total": 86,
+   "checked": "2026-10-01T04:35:39.290638+00:00",
+   "total": 78,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:57:27.968897+00:00",
-   "total": 2591,
+   "checked": "2026-10-01T04:35:39.631118+00:00",
+   "total": 2605,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:57:28.046895+00:00",
+   "checked": "2026-10-01T04:35:39.712904+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:57:28.122415+00:00",
+   "checked": "2026-10-01T04:35:40.428991+00:00",
    "total": 34,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:57:28.658309+00:00",
+   "checked": "2026-10-01T04:35:40.910030+00:00",
    "total": 89,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:58:05.516169+00:00",
+   "checked": "2026-10-01T04:36:17.810639+00:00",
    "total": 460,
    "count": 6,
    "jobs": [
@@ -127,7 +127,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:58:16.538059+00:00",
+   "checked": "2026-10-01T04:36:27.595762+00:00",
    "total": 198,
    "count": 0,
    "jobs": []
@@ -138,8 +138,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:58:49.322737+00:00",
-   "total": 324,
+   "checked": "2026-10-01T04:36:59.176654+00:00",
+   "total": 322,
    "count": 1,
    "jobs": [
     {
@@ -157,8 +157,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:59:08.495806+00:00",
-   "total": 400,
+   "checked": "2026-10-01T04:37:17.601258+00:00",
+   "total": 401,
    "count": 0,
    "jobs": []
   },
@@ -168,7 +168,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:59:30.903731+00:00",
+   "checked": "2026-10-01T04:37:41.547628+00:00",
    "total": 256,
    "count": 0,
    "jobs": []
@@ -179,7 +179,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T21:59:40.200581+00:00",
+   "checked": "2026-10-01T04:37:50.484918+00:00",
    "total": 59,
    "count": 15,
    "jobs": [
@@ -296,8 +296,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T22:00:14.750298+00:00",
-   "total": 351,
+   "checked": "2026-10-01T04:38:24.037045+00:00",
+   "total": 353,
    "count": 9,
    "jobs": [
     {
@@ -371,7 +371,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T22:00:42.171825+00:00",
+   "checked": "2026-10-01T04:38:48.645950+00:00",
    "total": 336,
    "count": 2,
    "jobs": [
@@ -397,22 +397,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-09-30T22:01:02.907922+00:00",
+   "checked": "2026-10-01T04:39:08.879702+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Data Engineer I, Launch Program 2027 \u2013 Arlington, VA, US",
-   "location": "Arlington, Virginia",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-   "posted": "Posted Today",
-   "id": "/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
