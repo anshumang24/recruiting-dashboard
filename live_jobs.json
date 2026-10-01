@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T12:40:46.315153+00:00",
+ "generated": "2026-10-01T22:28:52.783179+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:05.075004+00:00",
-   "total": 407,
+   "checked": "2026-10-01T22:25:02.139162+00:00",
+   "total": 406,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:11.632003+00:00",
-   "total": 79,
+   "checked": "2026-10-01T22:25:10.181602+00:00",
+   "total": 88,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:11.806154+00:00",
-   "total": 2606,
+   "checked": "2026-10-01T22:25:10.540325+00:00",
+   "total": 2630,
    "count": 0,
    "jobs": []
   },
@@ -40,8 +40,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:11.924649+00:00",
-   "total": 21,
+   "checked": "2026-10-01T22:25:10.677592+00:00",
+   "total": 18,
    "count": 0,
    "jobs": []
   },
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:11.994865+00:00",
+   "checked": "2026-10-01T22:25:10.776461+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:12.464831+00:00",
+   "checked": "2026-10-01T22:25:11.331666+00:00",
    "total": 88,
    "count": 0,
    "jobs": []
@@ -73,16 +73,30 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:37:51.692551+00:00",
-   "total": 461,
-   "count": 6,
+   "checked": "2026-10-01T22:25:51.781999+00:00",
+   "total": 464,
+   "count": 8,
    "jobs": [
+    {
+     "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
+     "location": "Besiktas, Istanbul Turkey",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2",
+     "posted": "Posted Today",
+     "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2"
+    },
     {
      "title": "Global Markets, Graduate Launch Program 2027 - Cairo, Egypt",
      "location": "",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2",
      "posted": "Posted 4 Days Ago",
      "id": "/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2"
+    },
+    {
+     "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
+     "location": "Besiktas, Istanbul Turkey",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
+     "posted": "Posted Today",
+     "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2"
     },
     {
      "title": "Associate Product Specialist, Graduate Launch Program, Cairo - Egypt",
@@ -127,8 +141,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:38:02.740089+00:00",
-   "total": 201,
+   "checked": "2026-10-01T22:26:03.516117+00:00",
+   "total": 200,
    "count": 0,
    "jobs": []
   },
@@ -138,7 +152,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:38:34.231975+00:00",
+   "checked": "2026-10-01T22:26:37.836238+00:00",
    "total": 321,
    "count": 1,
    "jobs": [
@@ -157,8 +171,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:38:53.219123+00:00",
-   "total": 402,
+   "checked": "2026-10-01T22:26:57.858051+00:00",
+   "total": 411,
    "count": 0,
    "jobs": []
   },
@@ -168,8 +182,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:39:15.054025+00:00",
-   "total": 256,
+   "checked": "2026-10-01T22:27:20.661257+00:00",
+   "total": 258,
    "count": 0,
    "jobs": []
   },
@@ -179,10 +193,17 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:39:24.835787+00:00",
-   "total": 60,
-   "count": 15,
+   "checked": "2026-10-01T22:27:31.347695+00:00",
+   "total": 63,
+   "count": 17,
    "jobs": [
+    {
+     "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
+     "location": "Besiktas, Istanbul Turkey",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1",
+     "posted": "Posted Today",
+     "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1"
+    },
     {
      "title": "Marketing and Communications Associate, Launch Program 2027 - United States",
      "location": "2 Locations",
@@ -224,6 +245,13 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
      "posted": "Posted 30+ Days Ago",
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
+    },
+    {
+     "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
+     "location": "Besiktas, Istanbul Turkey",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1",
+     "posted": "Posted Today",
+     "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1"
     },
     {
      "title": "Data Engineer I, Launch Program 2027 \u2013 Arlington, VA, US",
@@ -296,8 +324,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:39:59.253164+00:00",
-   "total": 356,
+   "checked": "2026-10-01T22:28:05.814748+00:00",
+   "total": 354,
    "count": 9,
    "jobs": [
     {
@@ -371,8 +399,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:40:25.402078+00:00",
-   "total": 332,
+   "checked": "2026-10-01T22:28:31.996849+00:00",
+   "total": 340,
    "count": 2,
    "jobs": [
     {
@@ -397,13 +425,46 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T12:40:46.315135+00:00",
+   "checked": "2026-10-01T22:28:52.783158+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard",
+   "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
+   "location": "Besiktas, Istanbul Turkey",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2",
+   "posted": "Posted Today",
+   "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2"
+  },
+  {
+   "company": "Mastercard",
+   "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
+   "location": "Besiktas, Istanbul Turkey",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
+   "posted": "Posted Today",
+   "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2"
+  },
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
+   "location": "Besiktas, Istanbul Turkey",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1",
+   "posted": "Posted Today",
+   "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1"
+  },
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
+   "location": "Besiktas, Istanbul Turkey",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1",
+   "posted": "Posted Today",
+   "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
