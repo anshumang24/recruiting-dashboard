@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T12:04:29.636224+00:00",
+ "generated": "2026-10-02T21:58:28.683365+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:00:35.176459+00:00",
-   "total": 409,
+   "checked": "2026-10-02T21:54:49.866836+00:00",
+   "total": 410,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:00:42.192980+00:00",
-   "total": 71,
+   "checked": "2026-10-02T21:54:55.842412+00:00",
+   "total": 82,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:00:42.457343+00:00",
-   "total": 2635,
+   "checked": "2026-10-02T21:54:55.996010+00:00",
+   "total": 2644,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:00:42.644647+00:00",
+   "checked": "2026-10-02T21:54:56.050572+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:00:42.720731+00:00",
+   "checked": "2026-10-02T21:54:56.108588+00:00",
    "total": 33,
    "count": 0,
    "jobs": []
@@ -62,8 +62,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:00:43.381612+00:00",
-   "total": 87,
+   "checked": "2026-10-02T21:54:56.648586+00:00",
+   "total": 93,
    "count": 0,
    "jobs": []
   },
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:01:24.725101+00:00",
-   "total": 464,
+   "checked": "2026-10-02T21:55:35.195592+00:00",
+   "total": 460,
    "count": 8,
    "jobs": [
     {
@@ -141,7 +141,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:01:35.652674+00:00",
+   "checked": "2026-10-02T21:55:45.026032+00:00",
    "total": 201,
    "count": 0,
    "jobs": []
@@ -152,8 +152,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:02:10.459131+00:00",
-   "total": 325,
+   "checked": "2026-10-02T21:56:18.450582+00:00",
+   "total": 313,
    "count": 1,
    "jobs": [
     {
@@ -171,8 +171,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:02:31.142633+00:00",
-   "total": 414,
+   "checked": "2026-10-02T21:56:37.534474+00:00",
+   "total": 413,
    "count": 0,
    "jobs": []
   },
@@ -182,8 +182,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:02:54.883660+00:00",
-   "total": 258,
+   "checked": "2026-10-02T21:57:02.132625+00:00",
+   "total": 261,
    "count": 0,
    "jobs": []
   },
@@ -193,9 +193,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:03:05.622617+00:00",
-   "total": 61,
-   "count": 16,
+   "checked": "2026-10-02T21:57:11.109010+00:00",
+   "total": 59,
+   "count": 15,
    "jobs": [
     {
      "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
@@ -296,13 +296,6 @@
      "id": "/job/OFallon-Missouri/Associate-Product-Specialist--Launch-Program-2027---United-States_R-287623-1"
     },
     {
-     "title": "Associate Consultant, Launch Program 2027 - Malaysia",
-     "location": "Kuala Lumpur, Malaysia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571",
-     "posted": "Posted 29 Days Ago",
-     "id": "/job/Kuala-Lumpur-Malaysia/Associate-Consultant--Launch-Program-2027---Malaysia_R-287571"
-    },
-    {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
      "location": "Wanchai, Hong Kong",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
@@ -317,9 +310,9 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:03:38.671268+00:00",
-   "total": 355,
-   "count": 6,
+   "checked": "2026-10-02T21:57:41.917203+00:00",
+   "total": 354,
+   "count": 8,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
@@ -327,6 +320,13 @@
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
      "posted": "Posted 24 Days Ago",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
+    },
+    {
+     "title": "2027 Commercial Real Estate Development Program",
+     "location": "5 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
+     "posted": "Posted Today",
+     "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
     },
     {
      "title": "2027 Operations Full-Time Rotational Development Program",
@@ -362,6 +362,13 @@
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407",
      "posted": "Posted 24 Days Ago",
      "id": "/job/Minneapolis-MN/XMLNAME-2027-Finance--Treasury----Accounting-Rotational-Program---Accounting--Track_2026-0026407"
+    },
+    {
+     "title": "Leadership Development Facilitator",
+     "location": "2 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857"
     }
    ]
   },
@@ -371,8 +378,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:04:08.548498+00:00",
-   "total": 334,
+   "checked": "2026-10-02T21:58:08.042792+00:00",
+   "total": 338,
    "count": 2,
    "jobs": [
     {
@@ -397,13 +404,30 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T12:04:29.636206+00:00",
+   "checked": "2026-10-02T21:58:28.683348+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "U.S. Bank",
+   "title": "2027 Commercial Real Estate Development Program",
+   "location": "5 Locations",
+   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
+   "posted": "Posted Today",
+   "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
+  },
+  {
+   "company": "U.S. Bank",
+   "title": "Leadership Development Facilitator",
+   "location": "2 Locations",
+   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857",
+   "posted": "Posted Today",
+   "id": "/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
