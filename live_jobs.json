@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T22:28:52.783179+00:00",
+ "generated": "2026-10-02T04:31:29.694848+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:02.139162+00:00",
-   "total": 406,
+   "checked": "2026-10-02T04:27:49.562369+00:00",
+   "total": 409,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:10.181602+00:00",
-   "total": 88,
+   "checked": "2026-10-02T04:27:56.101924+00:00",
+   "total": 71,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:10.540325+00:00",
-   "total": 2630,
+   "checked": "2026-10-02T04:27:56.400854+00:00",
+   "total": 2635,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:10.677592+00:00",
+   "checked": "2026-10-02T04:27:56.464843+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:10.776461+00:00",
-   "total": 35,
+   "checked": "2026-10-02T04:27:56.592244+00:00",
+   "total": 33,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:11.331666+00:00",
+   "checked": "2026-10-02T04:27:57.140206+00:00",
    "total": 88,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:25:51.781999+00:00",
-   "total": 464,
+   "checked": "2026-10-02T04:28:37.829759+00:00",
+   "total": 463,
    "count": 8,
    "jobs": [
     {
@@ -141,8 +141,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:26:03.516117+00:00",
-   "total": 200,
+   "checked": "2026-10-02T04:28:48.549009+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -152,8 +152,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:26:37.836238+00:00",
-   "total": 321,
+   "checked": "2026-10-02T04:29:20.300322+00:00",
+   "total": 323,
    "count": 1,
    "jobs": [
     {
@@ -171,8 +171,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:26:57.858051+00:00",
-   "total": 411,
+   "checked": "2026-10-02T04:29:38.569729+00:00",
+   "total": 413,
    "count": 0,
    "jobs": []
   },
@@ -182,7 +182,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:27:20.661257+00:00",
+   "checked": "2026-10-02T04:29:58.910438+00:00",
    "total": 258,
    "count": 0,
    "jobs": []
@@ -193,7 +193,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:27:31.347695+00:00",
+   "checked": "2026-10-02T04:30:09.964941+00:00",
    "total": 63,
    "count": 17,
    "jobs": [
@@ -324,9 +324,9 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:28:05.814748+00:00",
-   "total": 354,
-   "count": 9,
+   "checked": "2026-10-02T04:30:42.688401+00:00",
+   "total": 355,
+   "count": 8,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
@@ -364,13 +364,6 @@
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Business-Banking-Rotational-Development-Program_2026-0024881"
     },
     {
-     "title": "2027 Quantitative Modeling Rotational Program",
-     "location": "Charlotte, NC",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548",
-     "posted": "Posted 23 Days Ago",
-     "id": "/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Rotational-Program_2026-0027548"
-    },
-    {
      "title": "2027 Experience Design Rotational Program",
      "location": "Minneapolis, MN",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Experience-Design-Rotational-Program_2026-0026561",
@@ -399,8 +392,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:28:31.996849+00:00",
-   "total": 340,
+   "checked": "2026-10-02T04:31:09.306200+00:00",
+   "total": 337,
    "count": 2,
    "jobs": [
     {
@@ -425,46 +418,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-01T22:28:52.783158+00:00",
+   "checked": "2026-10-02T04:31:29.694831+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard",
-   "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
-   "location": "Besiktas, Istanbul Turkey",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2",
-   "posted": "Posted Today",
-   "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2"
-  },
-  {
-   "company": "Mastercard",
-   "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
-   "location": "Besiktas, Istanbul Turkey",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
-   "posted": "Posted Today",
-   "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
-   "location": "Besiktas, Istanbul Turkey",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1",
-   "posted": "Posted Today",
-   "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
-   "location": "Besiktas, Istanbul Turkey",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1",
-   "posted": "Posted Today",
-   "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
