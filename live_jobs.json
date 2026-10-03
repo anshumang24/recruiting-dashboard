@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T11:17:12.985660+00:00",
+ "generated": "2026-10-03T15:54:09.234895+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:13:39.528197+00:00",
+   "checked": "2026-10-03T15:50:44.470972+00:00",
    "total": 410,
    "count": 0,
    "jobs": []
@@ -18,7 +18,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:13:48.150928+00:00",
+   "checked": "2026-10-03T15:50:50.346617+00:00",
    "total": 77,
    "count": 0,
    "jobs": []
@@ -29,7 +29,7 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:13:48.570138+00:00",
+   "checked": "2026-10-03T15:50:50.531218+00:00",
    "total": 2645,
    "count": 0,
    "jobs": []
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:13:48.680594+00:00",
+   "checked": "2026-10-03T15:50:50.614324+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:13:48.818368+00:00",
+   "checked": "2026-10-03T15:50:50.690585+00:00",
    "total": 33,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:13:49.320828+00:00",
+   "checked": "2026-10-03T15:50:51.257702+00:00",
    "total": 93,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:14:25.806388+00:00",
+   "checked": "2026-10-03T15:51:27.519567+00:00",
    "total": 461,
    "count": 8,
    "jobs": [
@@ -141,7 +141,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:14:35.901774+00:00",
+   "checked": "2026-10-03T15:51:36.798345+00:00",
    "total": 201,
    "count": 0,
    "jobs": []
@@ -152,7 +152,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:15:07.029704+00:00",
+   "checked": "2026-10-03T15:52:07.856590+00:00",
    "total": 311,
    "count": 1,
    "jobs": [
@@ -171,7 +171,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:15:26.789216+00:00",
+   "checked": "2026-10-03T15:52:25.841660+00:00",
    "total": 410,
    "count": 0,
    "jobs": []
@@ -182,7 +182,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:15:48.281547+00:00",
+   "checked": "2026-10-03T15:52:46.441047+00:00",
    "total": 261,
    "count": 0,
    "jobs": []
@@ -193,7 +193,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:15:57.289750+00:00",
+   "checked": "2026-10-03T15:52:54.896666+00:00",
    "total": 59,
    "count": 15,
    "jobs": [
@@ -310,9 +310,9 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:16:28.017474+00:00",
-   "total": 358,
-   "count": 8,
+   "checked": "2026-10-03T15:53:25.870508+00:00",
+   "total": 360,
+   "count": 7,
    "jobs": [
     {
      "title": "2027\u00a0Portfolio and Relationship Management Development Program",
@@ -320,13 +320,6 @@
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
      "posted": "Posted 25 Days Ago",
      "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
-    },
-    {
-     "title": "2027 Commercial Real Estate Development Program",
-     "location": "5 Locations",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
-     "posted": "Posted Yesterday",
-     "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
     },
     {
      "title": "2027 Operations Full-Time Rotational Development Program",
@@ -378,7 +371,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:16:52.684416+00:00",
+   "checked": "2026-10-03T15:53:49.062394+00:00",
    "total": 333,
    "count": 2,
    "jobs": [
@@ -404,7 +397,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T11:17:12.985645+00:00",
+   "checked": "2026-10-03T15:54:09.234877+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
