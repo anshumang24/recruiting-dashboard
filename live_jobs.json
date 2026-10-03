@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T21:58:28.683365+00:00",
+ "generated": "2026-10-03T04:14:06.708814+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:54:49.866836+00:00",
+   "checked": "2026-10-03T04:10:20.364101+00:00",
    "total": 410,
    "count": 0,
    "jobs": []
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:54:55.842412+00:00",
-   "total": 82,
+   "checked": "2026-10-03T04:10:26.964887+00:00",
+   "total": 77,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:54:55.996010+00:00",
-   "total": 2644,
+   "checked": "2026-10-03T04:10:27.442079+00:00",
+   "total": 2646,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:54:56.050572+00:00",
+   "checked": "2026-10-03T04:10:27.591888+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:54:56.108588+00:00",
+   "checked": "2026-10-03T04:10:27.722656+00:00",
    "total": 33,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:54:56.648586+00:00",
+   "checked": "2026-10-03T04:10:28.413111+00:00",
    "total": 93,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:55:35.195592+00:00",
-   "total": 460,
+   "checked": "2026-10-03T04:11:09.492399+00:00",
+   "total": 461,
    "count": 8,
    "jobs": [
     {
@@ -141,7 +141,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:55:45.026032+00:00",
+   "checked": "2026-10-03T04:11:20.440525+00:00",
    "total": 201,
    "count": 0,
    "jobs": []
@@ -152,8 +152,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:56:18.450582+00:00",
-   "total": 313,
+   "checked": "2026-10-03T04:11:52.201210+00:00",
+   "total": 312,
    "count": 1,
    "jobs": [
     {
@@ -171,8 +171,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:56:37.534474+00:00",
-   "total": 413,
+   "checked": "2026-10-03T04:12:12.831318+00:00",
+   "total": 412,
    "count": 0,
    "jobs": []
   },
@@ -182,7 +182,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:57:02.132625+00:00",
+   "checked": "2026-10-03T04:12:36.233202+00:00",
    "total": 261,
    "count": 0,
    "jobs": []
@@ -193,7 +193,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:57:11.109010+00:00",
+   "checked": "2026-10-03T04:12:46.373310+00:00",
    "total": 59,
    "count": 15,
    "jobs": [
@@ -310,8 +310,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:57:41.917203+00:00",
-   "total": 354,
+   "checked": "2026-10-03T04:13:19.830122+00:00",
+   "total": 357,
    "count": 8,
    "jobs": [
     {
@@ -378,8 +378,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:58:08.042792+00:00",
-   "total": 338,
+   "checked": "2026-10-03T04:13:46.074854+00:00",
+   "total": 335,
    "count": 2,
    "jobs": [
     {
@@ -404,30 +404,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-02T21:58:28.683348+00:00",
+   "checked": "2026-10-03T04:14:06.708795+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "U.S. Bank",
-   "title": "2027 Commercial Real Estate Development Program",
-   "location": "5 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
-   "posted": "Posted Today",
-   "id": "/job/Denver-CO/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
-  },
-  {
-   "company": "U.S. Bank",
-   "title": "Leadership Development Facilitator",
-   "location": "2 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857",
-   "posted": "Posted Today",
-   "id": "/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
