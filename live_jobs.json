@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T20:44:48.446903+00:00",
+ "generated": "2026-10-04T04:45:56.502419+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:41:23.520205+00:00",
-   "total": 410,
+   "checked": "2026-10-04T04:42:17.557881+00:00",
+   "total": 411,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:41:29.521618+00:00",
-   "total": 77,
+   "checked": "2026-10-04T04:42:23.279286+00:00",
+   "total": 76,
    "count": 0,
    "jobs": []
   },
@@ -29,7 +29,7 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:41:29.686777+00:00",
+   "checked": "2026-10-04T04:42:23.561501+00:00",
    "total": 2643,
    "count": 0,
    "jobs": []
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:41:29.761423+00:00",
+   "checked": "2026-10-04T04:42:23.634905+00:00",
    "total": 18,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:41:29.831876+00:00",
+   "checked": "2026-10-04T04:42:23.704293+00:00",
    "total": 33,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:41:30.339895+00:00",
+   "checked": "2026-10-04T04:42:24.182810+00:00",
    "total": 93,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:42:07.895176+00:00",
-   "total": 460,
+   "checked": "2026-10-04T04:43:00.705883+00:00",
+   "total": 459,
    "count": 8,
    "jobs": [
     {
@@ -141,7 +141,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:42:17.723275+00:00",
+   "checked": "2026-10-04T04:43:10.280528+00:00",
    "total": 201,
    "count": 0,
    "jobs": []
@@ -152,7 +152,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:42:48.389307+00:00",
+   "checked": "2026-10-04T04:43:42.600611+00:00",
    "total": 313,
    "count": 1,
    "jobs": [
@@ -171,7 +171,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:43:05.323681+00:00",
+   "checked": "2026-10-04T04:44:00.692512+00:00",
    "total": 409,
    "count": 0,
    "jobs": []
@@ -182,7 +182,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:43:26.543581+00:00",
+   "checked": "2026-10-04T04:44:21.019273+00:00",
    "total": 261,
    "count": 0,
    "jobs": []
@@ -193,7 +193,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:43:35.486518+00:00",
+   "checked": "2026-10-04T04:44:29.706378+00:00",
    "total": 59,
    "count": 15,
    "jobs": [
@@ -310,8 +310,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:44:07.063324+00:00",
-   "total": 360,
+   "checked": "2026-10-04T04:45:11.244652+00:00",
+   "total": 359,
    "count": 7,
    "jobs": [
     {
@@ -371,7 +371,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:44:28.975522+00:00",
+   "checked": "2026-10-04T04:45:36.396341+00:00",
    "total": 332,
    "count": 2,
    "jobs": [
@@ -397,7 +397,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-03T20:44:48.446887+00:00",
+   "checked": "2026-10-04T04:45:56.502406+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
