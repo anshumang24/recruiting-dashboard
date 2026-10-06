@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T12:57:58.702425+00:00",
+ "generated": "2026-10-06T22:29:35.183599+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:12.494324+00:00",
-   "total": 407,
+   "checked": "2026-10-06T22:25:37.429954+00:00",
+   "total": 406,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:18.721968+00:00",
-   "total": 69,
+   "checked": "2026-10-06T22:25:44.016687+00:00",
+   "total": 81,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:18.926539+00:00",
-   "total": 2665,
+   "checked": "2026-10-06T22:25:44.314485+00:00",
+   "total": 2673,
    "count": 0,
    "jobs": []
   },
@@ -40,8 +40,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:19.000161+00:00",
-   "total": 17,
+   "checked": "2026-10-06T22:25:44.398872+00:00",
+   "total": 20,
    "count": 0,
    "jobs": []
   },
@@ -51,8 +51,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:19.057412+00:00",
-   "total": 34,
+   "checked": "2026-10-06T22:25:44.481477+00:00",
+   "total": 35,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:19.603990+00:00",
+   "checked": "2026-10-06T22:25:45.037490+00:00",
    "total": 95,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:54:58.502833+00:00",
-   "total": 455,
+   "checked": "2026-10-06T22:26:28.802767+00:00",
+   "total": 461,
    "count": 8,
    "jobs": [
     {
@@ -90,6 +90,13 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2",
      "posted": "Posted 9 Days Ago",
      "id": "/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2"
+    },
+    {
+     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
+     "location": "Budapest, Hungary",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1",
+     "posted": "Posted Today",
+     "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
@@ -113,13 +120,6 @@
      "id": "/job/Cairo-Egypt/Associate-Product-Specialist--Product-Management--Cairo---Egypt_R-285384-2"
     },
     {
-     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
-     "location": "Budapest, Hungary",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1",
-     "posted": "Posted 11 Days Ago",
-     "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1"
-    },
-    {
      "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
@@ -141,8 +141,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:55:09.129252+00:00",
-   "total": 200,
+   "checked": "2026-10-06T22:26:41.321680+00:00",
+   "total": 202,
    "count": 0,
    "jobs": []
   },
@@ -152,8 +152,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:55:43.885047+00:00",
-   "total": 311,
+   "checked": "2026-10-06T22:27:13.476271+00:00",
+   "total": 319,
    "count": 1,
    "jobs": [
     {
@@ -171,8 +171,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:56:03.335039+00:00",
-   "total": 395,
+   "checked": "2026-10-06T22:27:32.484940+00:00",
+   "total": 419,
    "count": 0,
    "jobs": []
   },
@@ -182,8 +182,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:56:26.541959+00:00",
-   "total": 263,
+   "checked": "2026-10-06T22:27:56.800308+00:00",
+   "total": 262,
    "count": 0,
    "jobs": []
   },
@@ -193,8 +193,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:56:38.225987+00:00",
-   "total": 63,
+   "checked": "2026-10-06T22:28:09.972712+00:00",
+   "total": 64,
    "count": 15,
    "jobs": [
     {
@@ -247,6 +247,13 @@
      "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
+     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
+     "location": "Budapest, Hungary",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695",
+     "posted": "Posted Today",
+     "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695"
+    },
+    {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1",
@@ -266,13 +273,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
      "posted": "Posted 6 Days Ago",
      "id": "/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
-    },
-    {
-     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
-     "location": "Budapest, Hungary",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695",
-     "posted": "Posted 11 Days Ago",
-     "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695"
     },
     {
      "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
@@ -310,8 +310,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:57:10.666234+00:00",
-   "total": 353,
+   "checked": "2026-10-06T22:28:48.582190+00:00",
+   "total": 360,
    "count": 8,
    "jobs": [
     {
@@ -378,8 +378,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:57:38.193473+00:00",
-   "total": 330,
+   "checked": "2026-10-06T22:29:14.568668+00:00",
+   "total": 329,
    "count": 2,
    "jobs": [
     {
@@ -404,30 +404,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-06T12:57:58.702408+00:00",
+   "checked": "2026-10-06T22:29:35.183582+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard",
-   "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
-   "location": "Riyadh, Saudi Arabia",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2",
-   "posted": "Posted Today",
-   "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
-   "location": "Riyadh, Saudi Arabia",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1",
-   "posted": "Posted Today",
-   "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
