@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T22:26:04.099722+00:00",
+ "generated": "2026-10-10T04:47:38.763852+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:10.131235+00:00",
-   "total": 401,
+   "checked": "2026-10-10T04:43:52.318664+00:00",
+   "total": 402,
    "count": 0,
    "jobs": []
   },
@@ -18,7 +18,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:16.556941+00:00",
+   "checked": "2026-10-10T04:43:58.298051+00:00",
    "total": 82,
    "count": 0,
    "jobs": []
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:16.862273+00:00",
-   "total": 2723,
+   "checked": "2026-10-10T04:43:58.777708+00:00",
+   "total": 2725,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:16.980943+00:00",
+   "checked": "2026-10-10T04:43:58.877323+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:17.073127+00:00",
+   "checked": "2026-10-10T04:43:58.975169+00:00",
    "total": 30,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:17.679303+00:00",
+   "checked": "2026-10-10T04:43:59.555351+00:00",
    "total": 96,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:22:58.750104+00:00",
+   "checked": "2026-10-10T04:44:40.554692+00:00",
    "total": 474,
    "count": 9,
    "jobs": [
@@ -148,7 +148,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:23:11.795149+00:00",
+   "checked": "2026-10-10T04:44:51.599696+00:00",
    "total": 203,
    "count": 0,
    "jobs": []
@@ -159,8 +159,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:23:44.984290+00:00",
-   "total": 299,
+   "checked": "2026-10-10T04:45:24.156694+00:00",
+   "total": 302,
    "count": 0,
    "jobs": []
   },
@@ -170,7 +170,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:24:04.414818+00:00",
+   "checked": "2026-10-10T04:45:42.556884+00:00",
    "total": 422,
    "count": 0,
    "jobs": []
@@ -181,7 +181,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:24:28.177171+00:00",
+   "checked": "2026-10-10T04:46:05.305755+00:00",
    "total": 271,
    "count": 0,
    "jobs": []
@@ -192,7 +192,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:24:40.561011+00:00",
+   "checked": "2026-10-10T04:46:16.927300+00:00",
    "total": 70,
    "count": 17,
    "jobs": [
@@ -323,8 +323,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:25:14.166588+00:00",
-   "total": 383,
+   "checked": "2026-10-10T04:46:50.869696+00:00",
+   "total": 382,
    "count": 2,
    "jobs": [
     {
@@ -349,8 +349,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:25:43.539275+00:00",
-   "total": 329,
+   "checked": "2026-10-10T04:47:18.581962+00:00",
+   "total": 328,
    "count": 1,
    "jobs": [
     {
@@ -368,22 +368,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-09T22:26:04.099702+00:00",
+   "checked": "2026-10-10T04:47:38.763833+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Analyst, Identity Access Management, Launch Program 2027 \u2013 St. Louis, MO, US",
-   "location": "O'Fallon, Missouri",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Analyst--Identity-Access-Management--Launch-Program-2027---St-Louis--MO--US_R-284864",
-   "posted": "Posted Today",
-   "id": "/job/OFallon-Missouri/Associate-Analyst--Identity-Access-Management--Launch-Program-2027---St-Louis--MO--US_R-284864"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
