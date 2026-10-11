@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T12:18:40.512086+00:00",
+ "generated": "2026-10-11T21:39:26.163097+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:14:59.454217+00:00",
-   "total": 402,
+   "checked": "2026-10-11T21:35:45.596894+00:00",
+   "total": 405,
    "count": 0,
    "jobs": []
   },
@@ -18,7 +18,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:06.229120+00:00",
+   "checked": "2026-10-11T21:35:52.247268+00:00",
    "total": 81,
    "count": 0,
    "jobs": []
@@ -29,7 +29,7 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:06.512965+00:00",
+   "checked": "2026-10-11T21:35:52.586569+00:00",
    "total": 2725,
    "count": 0,
    "jobs": []
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:06.602485+00:00",
+   "checked": "2026-10-11T21:35:52.759197+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:06.690809+00:00",
+   "checked": "2026-10-11T21:35:52.845972+00:00",
    "total": 30,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:07.264175+00:00",
+   "checked": "2026-10-11T21:35:53.373136+00:00",
    "total": 96,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:47.263908+00:00",
-   "total": 468,
+   "checked": "2026-10-11T21:36:35.610987+00:00",
+   "total": 464,
    "count": 9,
    "jobs": [
     {
@@ -148,7 +148,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:15:59.013678+00:00",
+   "checked": "2026-10-11T21:36:50.493223+00:00",
    "total": 201,
    "count": 0,
    "jobs": []
@@ -159,8 +159,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:16:28.815649+00:00",
-   "total": 301,
+   "checked": "2026-10-11T21:37:20.124948+00:00",
+   "total": 303,
    "count": 0,
    "jobs": []
   },
@@ -170,8 +170,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:16:47.920933+00:00",
-   "total": 421,
+   "checked": "2026-10-11T21:37:38.221366+00:00",
+   "total": 420,
    "count": 0,
    "jobs": []
   },
@@ -181,7 +181,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:17:11.507575+00:00",
+   "checked": "2026-10-11T21:38:02.237362+00:00",
    "total": 269,
    "count": 0,
    "jobs": []
@@ -192,9 +192,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:17:23.490746+00:00",
-   "total": 62,
-   "count": 16,
+   "checked": "2026-10-11T21:38:09.399667+00:00",
+   "total": 49,
+   "count": 13,
    "jobs": [
     {
      "title": "Associate Analyst, Identity Access Management, Launch Program 2027 \u2013 St. Louis, MO, US",
@@ -230,20 +230,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
      "posted": "Posted 30+ Days Ago",
      "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
-    },
-    {
-     "title": "Associate Analyst, Business Development, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
-     "location": "Wanchai, Hong Kong",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Business-Development--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288691"
-    },
-    {
-     "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 \u2013 Hong Kong SAR",
-     "location": "Wanchai, Hong Kong",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Wanchai-Hong-Kong/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-288689"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Almaty, Kazakhstan",
@@ -300,13 +286,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2",
      "posted": "Posted 17 Days Ago",
      "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2"
-    },
-    {
-     "title": "Associate Consultant, Launch Graduate Program 2027 - Hong Kong SAR",
-     "location": "Wanchai, Hong Kong",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Wanchai-Hong-Kong/Associate-Consultant--Launch-Graduate-Program-2027---Hong-Kong-SAR_R-287570"
     }
    ]
   },
@@ -316,8 +295,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:17:56.442972+00:00",
-   "total": 379,
+   "checked": "2026-10-11T21:38:42.084011+00:00",
+   "total": 378,
    "count": 2,
    "jobs": [
     {
@@ -342,8 +321,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:18:19.730954+00:00",
-   "total": 332,
+   "checked": "2026-10-11T21:39:05.985831+00:00",
+   "total": 333,
    "count": 1,
    "jobs": [
     {
@@ -361,7 +340,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-11T12:18:40.512067+00:00",
+   "checked": "2026-10-11T21:39:26.163082+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
