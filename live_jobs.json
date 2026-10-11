@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T21:19:41.250448+00:00",
+ "generated": "2026-10-11T04:32:11.332534+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:15.672545+00:00",
+   "checked": "2026-10-11T04:28:43.132837+00:00",
    "total": 402,
    "count": 0,
    "jobs": []
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:21.317580+00:00",
-   "total": 83,
+   "checked": "2026-10-11T04:28:49.270346+00:00",
+   "total": 80,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:21.474357+00:00",
-   "total": 2726,
+   "checked": "2026-10-11T04:28:49.484811+00:00",
+   "total": 2725,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:21.553350+00:00",
+   "checked": "2026-10-11T04:28:49.553690+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:21.608917+00:00",
+   "checked": "2026-10-11T04:28:49.623511+00:00",
    "total": 30,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:22.118437+00:00",
+   "checked": "2026-10-11T04:28:50.142813+00:00",
    "total": 96,
    "count": 0,
    "jobs": []
@@ -73,8 +73,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:16:58.095999+00:00",
-   "total": 467,
+   "checked": "2026-10-11T04:29:28.221558+00:00",
+   "total": 468,
    "count": 9,
    "jobs": [
     {
@@ -148,8 +148,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:17:07.645420+00:00",
-   "total": 203,
+   "checked": "2026-10-11T04:29:38.557495+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -159,8 +159,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:17:37.654084+00:00",
-   "total": 300,
+   "checked": "2026-10-11T04:30:07.072003+00:00",
+   "total": 298,
    "count": 0,
    "jobs": []
   },
@@ -170,8 +170,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:17:56.590193+00:00",
-   "total": 424,
+   "checked": "2026-10-11T04:30:24.383550+00:00",
+   "total": 421,
    "count": 0,
    "jobs": []
   },
@@ -181,7 +181,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:18:17.092253+00:00",
+   "checked": "2026-10-11T04:30:46.017711+00:00",
    "total": 270,
    "count": 0,
    "jobs": []
@@ -192,9 +192,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:18:27.676073+00:00",
-   "total": 64,
-   "count": 17,
+   "checked": "2026-10-11T04:30:58.007861+00:00",
+   "total": 62,
+   "count": 16,
    "jobs": [
     {
      "title": "Associate Analyst, Identity Access Management, Launch Program 2027 \u2013 St. Louis, MO, US",
@@ -216,13 +216,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Marketing-and-Communications-Associate--Launch-Program-2027---United-States_R-287634",
      "posted": "Posted 11 Days Ago",
      "id": "/job/Purchase-New-York/Marketing-and-Communications-Associate--Launch-Program-2027---United-States_R-287634"
-    },
-    {
-     "title": "Corporate Functions Associate Analyst, Launch Program 2027 - United States",
-     "location": "2 Locations",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Corporate-Functions-Associate-Analyst--Launch-Program-2027---United-States_R-287636",
-     "posted": "Posted 12 Days Ago",
-     "id": "/job/Purchase-New-York/Corporate-Functions-Associate-Analyst--Launch-Program-2027---United-States_R-287636"
     },
     {
      "title": "Global Markets, Graduate Launch Program 2027 - Cairo, Egypt",
@@ -323,8 +316,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:18:57.224522+00:00",
-   "total": 381,
+   "checked": "2026-10-11T04:31:28.713121+00:00",
+   "total": 380,
    "count": 2,
    "jobs": [
     {
@@ -349,7 +342,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:19:20.765073+00:00",
+   "checked": "2026-10-11T04:31:51.645017+00:00",
    "total": 332,
    "count": 1,
    "jobs": [
@@ -368,7 +361,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-10T21:19:41.250431+00:00",
+   "checked": "2026-10-11T04:32:11.332522+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
