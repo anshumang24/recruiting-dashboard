@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T13:47:01.898831+00:00",
+ "generated": "2026-10-13T22:26:22.000453+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,10 +7,18 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:03.165642+00:00",
-   "total": 402,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-10-13T22:22:25.474589+00:00",
+   "total": 396,
+   "count": 1,
+   "jobs": [
+    {
+     "title": "Investment Banking Analyst - TripleTree - 2027",
+     "location": "Bloomington, MN",
+     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bloomington-MN/Investment-Banking-Analyst---TripleTree---2027_R245935-1",
+     "posted": "Posted Today",
+     "id": "/job/Bloomington-MN/Investment-Banking-Analyst---TripleTree---2027_R245935-1"
+    }
+   ]
   },
   {
    "id": "dukeenergy",
@@ -18,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:11.305963+00:00",
-   "total": 71,
+   "checked": "2026-10-13T22:22:32.574597+00:00",
+   "total": 76,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:11.532291+00:00",
-   "total": 2741,
+   "checked": "2026-10-13T22:22:32.979878+00:00",
+   "total": 2738,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:11.615361+00:00",
+   "checked": "2026-10-13T22:22:33.157159+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -51,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:11.718932+00:00",
-   "total": 29,
+   "checked": "2026-10-13T22:22:33.289324+00:00",
+   "total": 32,
    "count": 0,
    "jobs": []
   },
@@ -62,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:12.331829+00:00",
-   "total": 93,
+   "checked": "2026-10-13T22:22:33.917612+00:00",
+   "total": 98,
    "count": 0,
    "jobs": []
   },
@@ -73,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:43:57.465365+00:00",
-   "total": 472,
+   "checked": "2026-10-13T22:23:15.749499+00:00",
+   "total": 469,
    "count": 10,
    "jobs": [
     {
@@ -155,8 +163,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:44:09.687483+00:00",
-   "total": 202,
+   "checked": "2026-10-13T22:23:27.749640+00:00",
+   "total": 204,
    "count": 0,
    "jobs": []
   },
@@ -166,8 +174,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:44:43.806700+00:00",
-   "total": 312,
+   "checked": "2026-10-13T22:24:00.468477+00:00",
+   "total": 314,
    "count": 0,
    "jobs": []
   },
@@ -177,8 +185,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:45:03.931026+00:00",
-   "total": 416,
+   "checked": "2026-10-13T22:24:20.594722+00:00",
+   "total": 413,
    "count": 0,
    "jobs": []
   },
@@ -188,8 +196,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:45:30.977204+00:00",
-   "total": 271,
+   "checked": "2026-10-13T22:24:47.832195+00:00",
+   "total": 272,
    "count": 0,
    "jobs": []
   },
@@ -199,7 +207,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:45:39.255159+00:00",
+   "checked": "2026-10-13T22:25:01.536524+00:00",
    "total": 47,
    "count": 12,
    "jobs": [
@@ -295,8 +303,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:46:15.350759+00:00",
-   "total": 374,
+   "checked": "2026-10-13T22:25:34.928779+00:00",
+   "total": 381,
    "count": 1,
    "jobs": [
     {
@@ -314,8 +322,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:46:41.220989+00:00",
-   "total": 320,
+   "checked": "2026-10-13T22:26:00.099201+00:00",
+   "total": 331,
    "count": 1,
    "jobs": [
     {
@@ -333,30 +341,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-13T13:47:01.898815+00:00",
+   "checked": "2026-10-13T22:26:22.000435+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard",
-   "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
-   "location": "Riyadh, Saudi Arabia",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-2",
-   "posted": "Posted Today",
-   "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-2"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
-   "location": "Riyadh, Saudi Arabia",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-1",
-   "posted": "Posted Today",
-   "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-1"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
