@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T14:43:17.241370+00:00",
+ "generated": "2026-10-13T00:18:16.168823+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:38:28.189922+00:00",
-   "total": 403,
+   "checked": "2026-10-13T00:14:39.503108+00:00",
+   "total": 405,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:38:46.351391+00:00",
-   "total": 78,
+   "checked": "2026-10-13T00:14:45.904017+00:00",
+   "total": 80,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:38:49.886168+00:00",
-   "total": 2728,
+   "checked": "2026-10-13T00:14:46.199551+00:00",
+   "total": 2737,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:38:54.123293+00:00",
+   "checked": "2026-10-13T00:14:46.296878+00:00",
    "total": 20,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:38:57.625428+00:00",
-   "total": 30,
+   "checked": "2026-10-13T00:14:46.408926+00:00",
+   "total": 29,
    "count": 0,
    "jobs": []
   },
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:38:58.305423+00:00",
+   "checked": "2026-10-13T00:14:46.983615+00:00",
    "total": 96,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:39:44.909074+00:00",
+   "checked": "2026-10-13T00:15:25.400218+00:00",
    "total": 469,
    "count": 9,
    "jobs": [
@@ -148,8 +148,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:39:57.659737+00:00",
-   "total": 199,
+   "checked": "2026-10-13T00:15:35.712881+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -159,8 +159,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:40:30.089268+00:00",
-   "total": 309,
+   "checked": "2026-10-13T00:16:07.884566+00:00",
+   "total": 317,
    "count": 0,
    "jobs": []
   },
@@ -170,8 +170,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:40:52.539727+00:00",
-   "total": 421,
+   "checked": "2026-10-13T00:16:26.812977+00:00",
+   "total": 417,
    "count": 0,
    "jobs": []
   },
@@ -181,8 +181,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:41:19.921273+00:00",
-   "total": 269,
+   "checked": "2026-10-13T00:16:50.320853+00:00",
+   "total": 270,
    "count": 0,
    "jobs": []
   },
@@ -192,9 +192,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:41:31.843821+00:00",
-   "total": 49,
-   "count": 13,
+   "checked": "2026-10-13T00:16:57.437368+00:00",
+   "total": 46,
+   "count": 11,
    "jobs": [
     {
      "title": "Associate Analyst, Identity Access Management, Launch Program 2027 \u2013 St. Louis, MO, US",
@@ -260,25 +260,11 @@
      "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1"
     },
     {
-     "title": "Data Engineer I, Launch Program 2027 \u2013 Arlington, VA, US",
-     "location": "Arlington, Virginia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-     "posted": "Posted 12 Days Ago",
-     "id": "/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985"
-    },
-    {
      "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
      "posted": "Posted 17 Days Ago",
      "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693"
-    },
-    {
-     "title": "Site Reliability Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
-     "location": "O'Fallon, Missouri",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642",
-     "posted": "Posted 18 Days Ago",
-     "id": "/job/OFallon-Missouri/Site-Reliability-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-287642"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
@@ -295,8 +281,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:42:27.265720+00:00",
-   "total": 374,
+   "checked": "2026-10-13T00:17:29.288225+00:00",
+   "total": 376,
    "count": 1,
    "jobs": [
     {
@@ -314,8 +300,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:42:56.129254+00:00",
-   "total": 326,
+   "checked": "2026-10-13T00:17:53.776271+00:00",
+   "total": 325,
    "count": 1,
    "jobs": [
     {
@@ -333,22 +319,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-12T14:43:17.241351+00:00",
+   "checked": "2026-10-13T00:18:16.168809+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan",
-   "location": "Taipei, Taiwan",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569",
-   "posted": "Posted Today",
-   "id": "/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
