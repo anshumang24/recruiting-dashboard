@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T03:37:37.291780+00:00",
+ "generated": "2026-10-15T11:02:28.576231+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,15 +7,15 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:33:56.429674+00:00",
-   "total": 387,
+   "checked": "2026-10-15T10:58:44.222094+00:00",
+   "total": 385,
    "count": 1,
    "jobs": [
     {
      "title": "Investment Banking Analyst - TripleTree - 2027",
      "location": "Bloomington, MN",
      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bloomington-MN/Investment-Banking-Analyst---TripleTree---2027_R245935-1",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Bloomington-MN/Investment-Banking-Analyst---TripleTree---2027_R245935-1"
     }
    ]
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:02.870782+00:00",
-   "total": 74,
+   "checked": "2026-10-15T10:58:50.607815+00:00",
+   "total": 69,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:03.124527+00:00",
-   "total": 2745,
+   "checked": "2026-10-15T10:58:50.901655+00:00",
+   "total": 2744,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:03.226362+00:00",
+   "checked": "2026-10-15T10:58:51.042534+00:00",
    "total": 21,
    "count": 0,
    "jobs": []
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:03.332799+00:00",
-   "total": 35,
+   "checked": "2026-10-15T10:58:51.152326+00:00",
+   "total": 34,
    "count": 0,
    "jobs": []
   },
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:03.813827+00:00",
+   "checked": "2026-10-15T10:58:51.700333+00:00",
    "total": 99,
    "count": 0,
    "jobs": []
@@ -81,78 +81,78 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:45.329883+00:00",
-   "total": 472,
+   "checked": "2026-10-15T10:59:31.462464+00:00",
+   "total": 471,
    "count": 10,
    "jobs": [
     {
      "title": "Global Markets, Rotational Graduate Launch Program 2027 - (Sales & Product) - Cairo, Egypt",
      "location": "",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "id": "/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-2"
     },
     {
      "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-2",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-2"
     },
     {
      "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
      "location": "Besiktas, Istanbul Turkey",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Almaty, Kazakhstan",
      "location": "Almaty, Kazakhstan",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Almaty-Kazakhstan/Associate-Consultant--Launch-Graduate-Program---2027--Almaty--Kazakhstan_R-287584",
-     "posted": "Posted 5 Days Ago",
+     "posted": "Posted 6 Days Ago",
      "id": "/job/Almaty-Kazakhstan/Associate-Consultant--Launch-Graduate-Program---2027--Almaty--Kazakhstan_R-287584"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
      "location": "Budapest, Hungary",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
      "location": "Besiktas, Istanbul Turkey",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2"
     },
     {
      "title": "Associate Product Specialist, Graduate Launch Program, Cairo - Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Product-Specialist--Product-Management--Cairo---Egypt_R-285384-2",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "id": "/job/Cairo-Egypt/Associate-Product-Specialist--Product-Management--Cairo---Egypt_R-285384-2"
     },
     {
      "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
-     "posted": "Posted 19 Days Ago",
+     "posted": "Posted 20 Days Ago",
      "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585",
-     "posted": "Posted 20 Days Ago",
+     "posted": "Posted 21 Days Ago",
      "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585"
     }
    ]
@@ -163,8 +163,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:34:56.004744+00:00",
-   "total": 218,
+   "checked": "2026-10-15T10:59:42.412163+00:00",
+   "total": 219,
    "count": 0,
    "jobs": []
   },
@@ -174,8 +174,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:35:28.722072+00:00",
-   "total": 308,
+   "checked": "2026-10-15T11:00:14.261353+00:00",
+   "total": 303,
    "count": 0,
    "jobs": []
   },
@@ -185,7 +185,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:35:47.035085+00:00",
+   "checked": "2026-10-15T11:00:34.321935+00:00",
    "total": 408,
    "count": 0,
    "jobs": []
@@ -196,8 +196,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:36:10.024433+00:00",
-   "total": 268,
+   "checked": "2026-10-15T11:00:59.089474+00:00",
+   "total": 269,
    "count": 0,
    "jobs": []
   },
@@ -207,36 +207,36 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:36:17.159951+00:00",
-   "total": 46,
+   "checked": "2026-10-15T11:01:07.344398+00:00",
+   "total": 47,
    "count": 12,
    "jobs": [
     {
      "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-1",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-1"
     },
     {
      "title": "Associate Analyst, Identity Access Management, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Analyst--Identity-Access-Management--Launch-Program-2027---St-Louis--MO--US_R-284864",
-     "posted": "Posted 5 Days Ago",
+     "posted": "Posted 6 Days Ago",
      "id": "/job/OFallon-Missouri/Associate-Analyst--Identity-Access-Management--Launch-Program-2027---St-Louis--MO--US_R-284864"
     },
     {
      "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
      "location": "Besiktas, Istanbul Turkey",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1"
     },
     {
      "title": "Global Markets, Graduate Launch Program 2027 - Cairo, Egypt",
      "location": "",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "id": "/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1"
     },
     {
@@ -250,49 +250,49 @@
      "title": "Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan",
      "location": "Taipei, Taiwan",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "id": "/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Almaty, Kazakhstan",
      "location": "Almaty, Kazakhstan",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Almaty-Kazakhstan/Associate-Consultant--Launch-Graduate-Program---2027--Almaty--Kazakhstan_R-287584-2",
-     "posted": "Posted 5 Days Ago",
+     "posted": "Posted 6 Days Ago",
      "id": "/job/Almaty-Kazakhstan/Associate-Consultant--Launch-Graduate-Program---2027--Almaty--Kazakhstan_R-287584-2"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
      "location": "Budapest, Hungary",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
      "location": "Besiktas, Istanbul Turkey",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1"
     },
     {
      "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
      "location": "Athens, Greece",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
-     "posted": "Posted 19 Days Ago",
+     "posted": "Posted 20 Days Ago",
      "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2",
-     "posted": "Posted 20 Days Ago",
+     "posted": "Posted 21 Days Ago",
      "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2"
     }
    ]
@@ -303,15 +303,15 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:36:49.627010+00:00",
-   "total": 389,
+   "checked": "2026-10-15T11:01:42.004602+00:00",
+   "total": 384,
    "count": 1,
    "jobs": [
     {
      "title": "2027 Commercial Real Estate Development Program",
      "location": "Los Angeles, CA",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "id": "/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
     }
    ]
@@ -322,8 +322,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:37:16.000476+00:00",
-   "total": 325,
+   "checked": "2026-10-15T11:02:07.887894+00:00",
+   "total": 319,
    "count": 1,
    "jobs": [
     {
@@ -341,7 +341,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T03:37:37.291764+00:00",
+   "checked": "2026-10-15T11:02:28.576216+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
