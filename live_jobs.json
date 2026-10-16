@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T16:17:22.551380+00:00",
+ "generated": "2026-10-16T20:39:59.255865+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:13:01.528436+00:00",
-   "total": 403,
+   "checked": "2026-10-16T20:35:58.080955+00:00",
+   "total": 407,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:13:08.474750+00:00",
-   "total": 70,
+   "checked": "2026-10-16T20:36:05.943590+00:00",
+   "total": 76,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:13:08.693791+00:00",
-   "total": 2757,
+   "checked": "2026-10-16T20:36:06.282871+00:00",
+   "total": 2765,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:13:08.770406+00:00",
+   "checked": "2026-10-16T20:36:06.382197+00:00",
    "total": 21,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:13:08.882011+00:00",
+   "checked": "2026-10-16T20:36:06.494448+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:13:09.350688+00:00",
+   "checked": "2026-10-16T20:36:07.065427+00:00",
    "total": 95,
    "count": 0,
    "jobs": []
@@ -81,7 +81,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:14:01.236095+00:00",
+   "checked": "2026-10-16T20:36:56.140569+00:00",
    "total": 474,
    "count": 10,
    "jobs": [
@@ -163,8 +163,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:14:31.081066+00:00",
-   "total": 222,
+   "checked": "2026-10-16T20:37:11.409688+00:00",
+   "total": 218,
    "count": 0,
    "jobs": []
   },
@@ -174,8 +174,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:15:06.325209+00:00",
-   "total": 305,
+   "checked": "2026-10-16T20:37:45.481536+00:00",
+   "total": 308,
    "count": 0,
    "jobs": []
   },
@@ -185,8 +185,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:15:25.773558+00:00",
-   "total": 409,
+   "checked": "2026-10-16T20:38:07.043945+00:00",
+   "total": 411,
    "count": 0,
    "jobs": []
   },
@@ -196,8 +196,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:15:50.687850+00:00",
-   "total": 271,
+   "checked": "2026-10-16T20:38:30.945405+00:00",
+   "total": 269,
    "count": 0,
    "jobs": []
   },
@@ -207,7 +207,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:16:00.135173+00:00",
+   "checked": "2026-10-16T20:38:38.134575+00:00",
    "total": 43,
    "count": 11,
    "jobs": [
@@ -233,11 +233,11 @@
      "id": "/job/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1"
     },
     {
-     "title": "Program Management Analyst I, Launch Program 2027 \u2013 St. Louis, MO, US",
+     "title": "AI Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
      "location": "O'Fallon, Missouri",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/OFallon-Missouri/Program-Management-Analyst-I--Launch-Program-2027---St-Louis--MO--US_R-285951"
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
+     "posted": "Posted Today",
+     "id": "/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan",
@@ -296,17 +296,10 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:16:35.577739+00:00",
-   "total": 378,
-   "count": 2,
+   "checked": "2026-10-16T20:39:12.597891+00:00",
+   "total": 379,
+   "count": 1,
    "jobs": [
-    {
-     "title": "2027\u00a0Portfolio and Relationship Management Development Program",
-     "location": "4 Locations",
-     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
-     "posted": "Posted Today",
-     "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
-    },
     {
      "title": "2027 Commercial Real Estate Development Program",
      "location": "Los Angeles, CA",
@@ -322,7 +315,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:17:01.695441+00:00",
+   "checked": "2026-10-16T20:39:38.140516+00:00",
    "total": 324,
    "count": 1,
    "jobs": [
@@ -341,7 +334,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T16:17:22.551360+00:00",
+   "checked": "2026-10-16T20:39:59.255844+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -349,12 +342,12 @@
  ],
  "new_since_last_run": [
   {
-   "company": "U.S. Bank",
-   "title": "2027\u00a0Portfolio and Relationship Management Development Program",
-   "location": "4 Locations",
-   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
+   "company": "Mastercard (Campus site)",
+   "title": "AI Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
+   "location": "O'Fallon, Missouri",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
    "posted": "Posted Today",
-   "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
+   "id": "/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852"
   }
  ],
  "errors": [],
