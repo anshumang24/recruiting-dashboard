@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T10:56:09.238389+00:00",
+ "generated": "2026-10-16T16:17:22.551380+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:52:30.506549+00:00",
-   "total": 398,
+   "checked": "2026-10-16T16:13:01.528436+00:00",
+   "total": 403,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:52:37.112624+00:00",
-   "total": 68,
+   "checked": "2026-10-16T16:13:08.474750+00:00",
+   "total": 70,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:52:37.379464+00:00",
-   "total": 2756,
+   "checked": "2026-10-16T16:13:08.693791+00:00",
+   "total": 2757,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:52:37.483763+00:00",
+   "checked": "2026-10-16T16:13:08.770406+00:00",
    "total": 21,
    "count": 0,
    "jobs": []
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:52:37.592074+00:00",
-   "total": 33,
+   "checked": "2026-10-16T16:13:08.882011+00:00",
+   "total": 35,
    "count": 0,
    "jobs": []
   },
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:52:38.112937+00:00",
+   "checked": "2026-10-16T16:13:09.350688+00:00",
    "total": 95,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:53:18.909301+00:00",
-   "total": 466,
+   "checked": "2026-10-16T16:14:01.236095+00:00",
+   "total": 474,
    "count": 10,
    "jobs": [
     {
@@ -163,8 +163,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:53:30.686859+00:00",
-   "total": 221,
+   "checked": "2026-10-16T16:14:31.081066+00:00",
+   "total": 222,
    "count": 0,
    "jobs": []
   },
@@ -174,8 +174,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:54:00.830184+00:00",
-   "total": 303,
+   "checked": "2026-10-16T16:15:06.325209+00:00",
+   "total": 305,
    "count": 0,
    "jobs": []
   },
@@ -185,8 +185,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:54:20.232164+00:00",
-   "total": 413,
+   "checked": "2026-10-16T16:15:25.773558+00:00",
+   "total": 409,
    "count": 0,
    "jobs": []
   },
@@ -196,7 +196,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:54:43.379698+00:00",
+   "checked": "2026-10-16T16:15:50.687850+00:00",
    "total": 271,
    "count": 0,
    "jobs": []
@@ -207,8 +207,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:54:50.380708+00:00",
-   "total": 42,
+   "checked": "2026-10-16T16:16:00.135173+00:00",
+   "total": 43,
    "count": 11,
    "jobs": [
     {
@@ -296,10 +296,17 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:55:23.779506+00:00",
-   "total": 375,
-   "count": 1,
+   "checked": "2026-10-16T16:16:35.577739+00:00",
+   "total": 378,
+   "count": 2,
    "jobs": [
+    {
+     "title": "2027\u00a0Portfolio and Relationship Management Development Program",
+     "location": "4 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
+     "posted": "Posted Today",
+     "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
+    },
     {
      "title": "2027 Commercial Real Estate Development Program",
      "location": "Los Angeles, CA",
@@ -315,8 +322,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:55:48.697512+00:00",
-   "total": 322,
+   "checked": "2026-10-16T16:17:01.695441+00:00",
+   "total": 324,
    "count": 1,
    "jobs": [
     {
@@ -334,13 +341,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-16T10:56:09.238369+00:00",
+   "checked": "2026-10-16T16:17:22.551360+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "U.S. Bank",
+   "title": "2027\u00a0Portfolio and Relationship Management Development Program",
+   "location": "4 Locations",
+   "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884",
+   "posted": "Posted Today",
+   "id": "/job/Cincinnati-OH/XMLNAME-2027-Portfolio-and-Relationship-Management-Development-Program_2026-0024884"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
