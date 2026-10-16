@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T21:05:15.523425+00:00",
+ "generated": "2026-10-16T03:33:43.719561+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:01:09.411702+00:00",
-   "total": 389,
+   "checked": "2026-10-16T03:29:40.259272+00:00",
+   "total": 392,
    "count": 1,
    "jobs": [
     {
@@ -26,7 +26,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:01:19.976125+00:00",
+   "checked": "2026-10-16T03:29:47.257399+00:00",
    "total": 76,
    "count": 0,
    "jobs": []
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:01:20.129238+00:00",
-   "total": 2749,
+   "checked": "2026-10-16T03:30:06.849672+00:00",
+   "total": 2758,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:01:20.204635+00:00",
+   "checked": "2026-10-16T03:30:06.970157+00:00",
    "total": 21,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:01:20.271616+00:00",
+   "checked": "2026-10-16T03:30:07.058745+00:00",
    "total": 33,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:01:20.846545+00:00",
+   "checked": "2026-10-16T03:30:07.756504+00:00",
    "total": 95,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:02:10.843499+00:00",
-   "total": 471,
+   "checked": "2026-10-16T03:30:49.425742+00:00",
+   "total": 470,
    "count": 10,
    "jobs": [
     {
@@ -163,8 +163,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:02:24.181703+00:00",
-   "total": 218,
+   "checked": "2026-10-16T03:31:02.012098+00:00",
+   "total": 217,
    "count": 0,
    "jobs": []
   },
@@ -174,8 +174,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:02:56.581422+00:00",
-   "total": 302,
+   "checked": "2026-10-16T03:31:33.229606+00:00",
+   "total": 303,
    "count": 0,
    "jobs": []
   },
@@ -185,7 +185,7 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:03:16.973014+00:00",
+   "checked": "2026-10-16T03:31:51.352089+00:00",
    "total": 416,
    "count": 0,
    "jobs": []
@@ -196,7 +196,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:03:43.577044+00:00",
+   "checked": "2026-10-16T03:32:16.207288+00:00",
    "total": 266,
    "count": 0,
    "jobs": []
@@ -207,9 +207,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:03:51.958122+00:00",
-   "total": 45,
-   "count": 12,
+   "checked": "2026-10-16T03:32:23.392530+00:00",
+   "total": 43,
+   "count": 11,
    "jobs": [
     {
      "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
@@ -217,13 +217,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-1",
      "posted": "Posted 2 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Business-Development--Launch-Program-2027---Saudi-Arabia_R-287596-1"
-    },
-    {
-     "title": "Associate Analyst, Identity Access Management, Launch Program 2027 \u2013 St. Louis, MO, US",
-     "location": "O'Fallon, Missouri",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Associate-Analyst--Identity-Access-Management--Launch-Program-2027---St-Louis--MO--US_R-284864",
-     "posted": "Posted 6 Days Ago",
-     "id": "/job/OFallon-Missouri/Associate-Analyst--Identity-Access-Management--Launch-Program-2027---St-Louis--MO--US_R-284864"
     },
     {
      "title": "Global Markets, Account Management & Product Management, Launch Program (Rotational) \u2013 2027, Istanbul, T\u00fcrkiye",
@@ -303,8 +296,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:04:28.766350+00:00",
-   "total": 381,
+   "checked": "2026-10-16T03:32:58.112135+00:00",
+   "total": 383,
    "count": 1,
    "jobs": [
     {
@@ -322,8 +315,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:04:53.726516+00:00",
-   "total": 322,
+   "checked": "2026-10-16T03:33:23.532007+00:00",
+   "total": 323,
    "count": 1,
    "jobs": [
     {
@@ -341,7 +334,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-15T21:05:15.523408+00:00",
+   "checked": "2026-10-16T03:33:43.719543+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
