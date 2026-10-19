@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T12:26:46.436557+00:00",
+ "generated": "2026-10-19T22:08:26.455680+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:22:50.523240+00:00",
-   "total": 407,
+   "checked": "2026-10-19T22:04:25.622441+00:00",
+   "total": 413,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:22:55.952712+00:00",
-   "total": 52,
+   "checked": "2026-10-19T22:04:31.443629+00:00",
+   "total": 58,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:22:56.111743+00:00",
-   "total": 2767,
+   "checked": "2026-10-19T22:04:48.166693+00:00",
+   "total": 2768,
    "count": 0,
    "jobs": []
   },
@@ -48,8 +48,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:22:56.210581+00:00",
-   "total": 21,
+   "checked": "2026-10-19T22:04:48.297134+00:00",
+   "total": 22,
    "count": 0,
    "jobs": []
   },
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:22:56.287250+00:00",
+   "checked": "2026-10-19T22:04:48.443406+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:22:56.800917+00:00",
+   "checked": "2026-10-19T22:04:48.923663+00:00",
    "total": 94,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:23:48.436490+00:00",
-   "total": 476,
+   "checked": "2026-10-19T22:05:28.160163+00:00",
+   "total": 474,
    "count": 10,
    "jobs": [
     {
@@ -163,8 +163,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:23:59.492917+00:00",
-   "total": 216,
+   "checked": "2026-10-19T22:05:39.053107+00:00",
+   "total": 220,
    "count": 0,
    "jobs": []
   },
@@ -174,8 +174,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:24:30.100865+00:00",
-   "total": 312,
+   "checked": "2026-10-19T22:06:12.343292+00:00",
+   "total": 306,
    "count": 0,
    "jobs": []
   },
@@ -185,8 +185,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:24:50.439368+00:00",
-   "total": 406,
+   "checked": "2026-10-19T22:06:33.325781+00:00",
+   "total": 411,
    "count": 0,
    "jobs": []
   },
@@ -196,8 +196,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:25:13.692671+00:00",
-   "total": 270,
+   "checked": "2026-10-19T22:06:58.886400+00:00",
+   "total": 271,
    "count": 0,
    "jobs": []
   },
@@ -207,7 +207,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:25:22.600889+00:00",
+   "checked": "2026-10-19T22:07:05.939916+00:00",
    "total": 46,
    "count": 13,
    "jobs": [
@@ -310,15 +310,15 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:25:59.531543+00:00",
-   "total": 368,
+   "checked": "2026-10-19T22:07:37.945363+00:00",
+   "total": 375,
    "count": 1,
    "jobs": [
     {
      "title": "2027 Commercial Real Estate Development Program",
-     "location": "Los Angeles, CA",
+     "location": "2 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted Today",
      "id": "/job/Los-Angeles-CA/XMLNAME-2027-Commercial-Real-Estate-Development-Program_2026-0025774"
     }
    ]
@@ -329,8 +329,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:26:25.711487+00:00",
-   "total": 314,
+   "checked": "2026-10-19T22:08:05.610831+00:00",
+   "total": 318,
    "count": 1,
    "jobs": [
     {
@@ -348,30 +348,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-19T12:26:46.436539+00:00",
+   "checked": "2026-10-19T22:08:26.455665+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 - Taipei, Taiwan",
-   "location": "Taipei, Taiwan",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286365",
-   "posted": "Posted Today",
-   "id": "/job/Taipei-Taiwan/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286365"
-  },
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Specialist, Product and Solutions, Launch Graduate Program 2027 - Taipei, Taiwan",
-   "location": "Taipei, Taiwan",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375",
-   "posted": "Posted Today",
-   "id": "/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
