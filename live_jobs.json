@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T11:22:43.363905+00:00",
+ "generated": "2026-10-21T16:50:05.065305+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:18:51.563253+00:00",
-   "total": 406,
+   "checked": "2026-10-21T16:45:10.552671+00:00",
+   "total": 402,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:18:57.324165+00:00",
-   "total": 59,
+   "checked": "2026-10-21T16:45:17.610041+00:00",
+   "total": 64,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:18:57.826571+00:00",
-   "total": 2779,
+   "checked": "2026-10-21T16:45:36.826634+00:00",
+   "total": 2777,
    "count": 0,
    "jobs": []
   },
@@ -48,8 +48,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:18:58.041782+00:00",
-   "total": 23,
+   "checked": "2026-10-21T16:45:36.910102+00:00",
+   "total": 22,
    "count": 0,
    "jobs": []
   },
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:18:58.241451+00:00",
-   "total": 35,
+   "checked": "2026-10-21T16:45:37.025506+00:00",
+   "total": 36,
    "count": 0,
    "jobs": []
   },
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:18:58.872784+00:00",
+   "checked": "2026-10-21T16:45:37.558661+00:00",
    "total": 94,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:19:41.106401+00:00",
-   "total": 485,
+   "checked": "2026-10-21T16:46:45.576067+00:00",
+   "total": 489,
    "count": 9,
    "jobs": [
     {
@@ -156,8 +156,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:19:53.997930+00:00",
-   "total": 215,
+   "checked": "2026-10-21T16:47:03.427473+00:00",
+   "total": 218,
    "count": 0,
    "jobs": []
   },
@@ -167,7 +167,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:20:26.656651+00:00",
+   "checked": "2026-10-21T16:47:37.392967+00:00",
    "total": 310,
    "count": 0,
    "jobs": []
@@ -178,8 +178,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:20:47.170804+00:00",
-   "total": 423,
+   "checked": "2026-10-21T16:47:58.294888+00:00",
+   "total": 424,
    "count": 0,
    "jobs": []
   },
@@ -189,7 +189,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:21:11.174362+00:00",
+   "checked": "2026-10-21T16:48:25.365798+00:00",
    "total": 273,
    "count": 0,
    "jobs": []
@@ -200,10 +200,17 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:21:18.565581+00:00",
-   "total": 40,
-   "count": 12,
+   "checked": "2026-10-21T16:48:35.395790+00:00",
+   "total": 41,
+   "count": 13,
    "jobs": [
+    {
+     "title": "Global Markets, Rotational Graduate Launch Program 2027 - (Sales & Product) - Cairo, Egypt",
+     "location": "Cairo, Egypt",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1",
+     "posted": "Posted Today",
+     "id": "/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1"
+    },
     {
      "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 - Taipei, Taiwan",
      "location": "Taipei, Taiwan",
@@ -296,8 +303,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:21:52.143565+00:00",
-   "total": 366,
+   "checked": "2026-10-21T16:49:15.814880+00:00",
+   "total": 374,
    "count": 1,
    "jobs": [
     {
@@ -315,8 +322,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:22:19.724416+00:00",
-   "total": 320,
+   "checked": "2026-10-21T16:49:44.240945+00:00",
+   "total": 322,
    "count": 1,
    "jobs": [
     {
@@ -334,13 +341,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T11:22:43.363889+00:00",
+   "checked": "2026-10-21T16:50:05.065287+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard (Campus site)",
+   "title": "Global Markets, Rotational Graduate Launch Program 2027 - (Sales & Product) - Cairo, Egypt",
+   "location": "Cairo, Egypt",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1",
+   "posted": "Posted Today",
+   "id": "/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
