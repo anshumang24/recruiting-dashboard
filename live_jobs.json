@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T21:24:32.856703+00:00",
+ "generated": "2026-10-22T03:41:55.151790+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:20:36.807124+00:00",
-   "total": 401,
+   "checked": "2026-10-22T03:37:58.832166+00:00",
+   "total": 402,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:20:43.035615+00:00",
-   "total": 67,
+   "checked": "2026-10-22T03:38:06.137449+00:00",
+   "total": 68,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:20:43.271723+00:00",
-   "total": 2781,
+   "checked": "2026-10-22T03:38:06.582706+00:00",
+   "total": 2790,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:20:43.357532+00:00",
+   "checked": "2026-10-22T03:38:06.784603+00:00",
    "total": 23,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:20:43.422049+00:00",
+   "checked": "2026-10-22T03:38:06.986601+00:00",
    "total": 36,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:20:43.901392+00:00",
+   "checked": "2026-10-22T03:38:07.631269+00:00",
    "total": 94,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:21:25.833022+00:00",
-   "total": 485,
+   "checked": "2026-10-22T03:38:48.369556+00:00",
+   "total": 484,
    "count": 9,
    "jobs": [
     {
@@ -156,8 +156,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:21:38.615999+00:00",
-   "total": 215,
+   "checked": "2026-10-22T03:38:59.460067+00:00",
+   "total": 214,
    "count": 0,
    "jobs": []
   },
@@ -167,8 +167,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:22:13.717320+00:00",
-   "total": 304,
+   "checked": "2026-10-22T03:39:33.067404+00:00",
+   "total": 300,
    "count": 0,
    "jobs": []
   },
@@ -178,8 +178,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:22:35.270394+00:00",
-   "total": 422,
+   "checked": "2026-10-22T03:39:54.409490+00:00",
+   "total": 420,
    "count": 0,
    "jobs": []
   },
@@ -189,7 +189,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:23:01.983390+00:00",
+   "checked": "2026-10-22T03:40:22.115863+00:00",
    "total": 273,
    "count": 0,
    "jobs": []
@@ -200,8 +200,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:23:09.020901+00:00",
-   "total": 41,
+   "checked": "2026-10-22T03:40:29.738764+00:00",
+   "total": 40,
    "count": 13,
    "jobs": [
     {
@@ -233,10 +233,10 @@
      "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1"
     },
     {
-     "title": "Associate Specialist, Product and Solutions, Launch Graduate Program 2027 - Taipei, Taiwan",
+     "title": "Associate Specialist, Products and Solutions, Launch Graduate Program 2027 - Taipei, Taiwan",
      "location": "Taipei, Taiwan",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted Today",
      "id": "/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375"
     },
     {
@@ -303,8 +303,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:23:43.798826+00:00",
-   "total": 377,
+   "checked": "2026-10-22T03:41:05.071354+00:00",
+   "total": 379,
    "count": 1,
    "jobs": [
     {
@@ -322,8 +322,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:24:11.274454+00:00",
-   "total": 320,
+   "checked": "2026-10-22T03:41:34.230514+00:00",
+   "total": 321,
    "count": 1,
    "jobs": [
     {
@@ -341,7 +341,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-21T21:24:32.856687+00:00",
+   "checked": "2026-10-22T03:41:55.151777+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
