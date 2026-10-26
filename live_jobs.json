@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T12:28:34.616932+00:00",
+ "generated": "2026-10-26T22:26:24.036147+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:24:11.650766+00:00",
-   "total": 397,
+   "checked": "2026-10-26T22:22:16.746523+00:00",
+   "total": 399,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:24:40.621081+00:00",
-   "total": 50,
+   "checked": "2026-10-26T22:22:23.109310+00:00",
+   "total": 58,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:24:40.797568+00:00",
-   "total": 2813,
+   "checked": "2026-10-26T22:22:23.545677+00:00",
+   "total": 2822,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:24:40.876270+00:00",
+   "checked": "2026-10-26T22:22:23.705900+00:00",
    "total": 24,
    "count": 0,
    "jobs": []
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:24:41.003060+00:00",
-   "total": 37,
+   "checked": "2026-10-26T22:22:23.866639+00:00",
+   "total": 35,
    "count": 0,
    "jobs": []
   },
@@ -70,8 +70,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:24:41.478162+00:00",
-   "total": 96,
+   "checked": "2026-10-26T22:22:24.477606+00:00",
+   "total": 97,
    "count": 0,
    "jobs": []
   },
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:25:39.325530+00:00",
-   "total": 492,
+   "checked": "2026-10-26T22:23:10.096152+00:00",
+   "total": 495,
    "count": 9,
    "jobs": [
     {
@@ -156,8 +156,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:25:49.221022+00:00",
-   "total": 209,
+   "checked": "2026-10-26T22:23:21.895424+00:00",
+   "total": 210,
    "count": 0,
    "jobs": []
   },
@@ -167,8 +167,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:26:22.322029+00:00",
-   "total": 315,
+   "checked": "2026-10-26T22:23:58.728658+00:00",
+   "total": 316,
    "count": 0,
    "jobs": []
   },
@@ -178,8 +178,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:26:42.510341+00:00",
-   "total": 421,
+   "checked": "2026-10-26T22:24:20.124161+00:00",
+   "total": 419,
    "count": 0,
    "jobs": []
   },
@@ -189,8 +189,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:27:03.942439+00:00",
-   "total": 277,
+   "checked": "2026-10-26T22:24:46.803959+00:00",
+   "total": 276,
    "count": 0,
    "jobs": []
   },
@@ -200,9 +200,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:27:11.155245+00:00",
-   "total": 37,
-   "count": 13,
+   "checked": "2026-10-26T22:25:01.226953+00:00",
+   "total": 35,
+   "count": 12,
    "jobs": [
     {
      "title": "Global Markets, Rotational Graduate Launch Program 2027 - (Sales & Product) - Cairo, Egypt",
@@ -238,13 +238,6 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375",
      "posted": "Posted 4 Days Ago",
      "id": "/job/Taipei-Taiwan/Associate-Specialist--Product-and-Solutions--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286375"
-    },
-    {
-     "title": "AI Engineer I, Launch Program 2027 \u2013 St. Louis, MO, US",
-     "location": "O'Fallon, Missouri",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
-     "posted": "Posted 10 Days Ago",
-     "id": "/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan",
@@ -303,7 +296,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:27:43.675404+00:00",
+   "checked": "2026-10-26T22:25:35.862302+00:00",
    "total": 377,
    "count": 0,
    "jobs": []
@@ -314,8 +307,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:28:13.128427+00:00",
-   "total": 317,
+   "checked": "2026-10-26T22:26:02.629300+00:00",
+   "total": 319,
    "count": 1,
    "jobs": [
     {
@@ -333,7 +326,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-26T12:28:34.616920+00:00",
+   "checked": "2026-10-26T22:26:24.036127+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
