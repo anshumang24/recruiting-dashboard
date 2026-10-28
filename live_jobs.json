@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T21:57:52.625491+00:00",
+ "generated": "2026-10-28T04:30:15.197463+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:53:32.133688+00:00",
-   "total": 394,
+   "checked": "2026-10-28T04:26:40.849539+00:00",
+   "total": 397,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:53:38.348403+00:00",
-   "total": 66,
+   "checked": "2026-10-28T04:26:45.920485+00:00",
+   "total": 61,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:54:06.881623+00:00",
-   "total": 2831,
+   "checked": "2026-10-28T04:26:46.139221+00:00",
+   "total": 2834,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:54:07.039080+00:00",
+   "checked": "2026-10-28T04:26:46.211892+00:00",
    "total": 24,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:54:07.165488+00:00",
+   "checked": "2026-10-28T04:26:46.264776+00:00",
    "total": 35,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:54:08.480835+00:00",
+   "checked": "2026-10-28T04:26:47.463831+00:00",
    "total": 109,
    "count": 0,
    "jobs": []
@@ -81,9 +81,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:54:52.061426+00:00",
-   "total": 494,
-   "count": 8,
+   "checked": "2026-10-28T04:27:26.357537+00:00",
+   "total": 495,
+   "count": 9,
    "jobs": [
     {
      "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
@@ -140,6 +140,13 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
      "posted": "Posted 30+ Days Ago",
      "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1"
+    },
+    {
+     "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
+     "location": "Cairo, Egypt",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585",
+     "posted": "Posted 30+ Days Ago",
+     "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585"
     }
    ]
   },
@@ -149,8 +156,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:55:03.167540+00:00",
-   "total": 212,
+   "checked": "2026-10-28T04:27:35.956580+00:00",
+   "total": 209,
    "count": 0,
    "jobs": []
   },
@@ -160,7 +167,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:55:38.853737+00:00",
+   "checked": "2026-10-28T04:28:10.313720+00:00",
    "total": 312,
    "count": 0,
    "jobs": []
@@ -171,8 +178,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:55:59.458543+00:00",
-   "total": 417,
+   "checked": "2026-10-28T04:28:30.563521+00:00",
+   "total": 416,
    "count": 0,
    "jobs": []
   },
@@ -182,7 +189,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:56:23.028796+00:00",
+   "checked": "2026-10-28T04:28:52.256511+00:00",
    "total": 277,
    "count": 0,
    "jobs": []
@@ -193,7 +200,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:56:30.344845+00:00",
+   "checked": "2026-10-28T04:28:58.646697+00:00",
    "total": 33,
    "count": 12,
    "jobs": [
@@ -289,8 +296,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:57:04.031398+00:00",
-   "total": 379,
+   "checked": "2026-10-28T04:29:29.889570+00:00",
+   "total": 380,
    "count": 0,
    "jobs": []
   },
@@ -300,8 +307,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:57:31.978355+00:00",
-   "total": 323,
+   "checked": "2026-10-28T04:29:54.914792+00:00",
+   "total": 318,
    "count": 1,
    "jobs": [
     {
@@ -319,13 +326,22 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-27T21:57:52.625469+00:00",
+   "checked": "2026-10-28T04:30:15.197446+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [],
+ "new_since_last_run": [
+  {
+   "company": "Mastercard",
+   "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
+   "location": "Cairo, Egypt",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585",
+   "posted": "Posted 30+ Days Ago",
+   "id": "/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585"
+  }
+ ],
  "errors": [],
  "manual_only": [
   {
