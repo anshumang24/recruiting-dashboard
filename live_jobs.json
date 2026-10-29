@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T12:29:48.649911+00:00",
+ "generated": "2026-10-29T22:35:42.650284+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:25:51.185238+00:00",
-   "total": 397,
+   "checked": "2026-10-29T22:30:27.118418+00:00",
+   "total": 404,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:25:56.884823+00:00",
-   "total": 68,
+   "checked": "2026-10-29T22:30:34.632206+00:00",
+   "total": 75,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:25:57.215698+00:00",
-   "total": 2847,
+   "checked": "2026-10-29T22:31:32.344116+00:00",
+   "total": 2843,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:25:57.359438+00:00",
+   "checked": "2026-10-29T22:31:32.633432+00:00",
    "total": 24,
    "count": 0,
    "jobs": []
@@ -59,8 +59,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:25:57.473539+00:00",
-   "total": 36,
+   "checked": "2026-10-29T22:31:32.802331+00:00",
+   "total": 35,
    "count": 0,
    "jobs": []
   },
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:25:58.899020+00:00",
+   "checked": "2026-10-29T22:31:34.402184+00:00",
    "total": 114,
    "count": 0,
    "jobs": []
@@ -81,8 +81,8 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:26:46.184117+00:00",
-   "total": 501,
+   "checked": "2026-10-29T22:32:21.087898+00:00",
+   "total": 492,
    "count": 9,
    "jobs": [
     {
@@ -98,6 +98,13 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2",
      "posted": "Posted 28 Days Ago",
      "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-2"
+    },
+    {
+     "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
+     "location": "Athens, Greece",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
+     "posted": "Posted Today",
+     "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1"
     },
     {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Almaty, Kazakhstan",
@@ -135,13 +142,6 @@
      "id": "/job/Cairo-Egypt/Associate-Product-Specialist--Product-Management--Cairo---Egypt_R-285384-2"
     },
     {
-     "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
-     "location": "Athens, Greece",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693-1"
-    },
-    {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585",
@@ -156,7 +156,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:26:57.489650+00:00",
+   "checked": "2026-10-29T22:32:32.600785+00:00",
    "total": 206,
    "count": 0,
    "jobs": []
@@ -167,8 +167,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:27:30.617223+00:00",
-   "total": 261,
+   "checked": "2026-10-29T22:33:09.485642+00:00",
+   "total": 319,
    "count": 0,
    "jobs": []
   },
@@ -178,8 +178,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:27:51.702698+00:00",
-   "total": 414,
+   "checked": "2026-10-29T22:33:33.326009+00:00",
+   "total": 423,
    "count": 0,
    "jobs": []
   },
@@ -189,8 +189,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:28:14.993964+00:00",
-   "total": 280,
+   "checked": "2026-10-29T22:34:06.991642+00:00",
+   "total": 282,
    "count": 0,
    "jobs": []
   },
@@ -200,7 +200,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:28:22.644968+00:00",
+   "checked": "2026-10-29T22:34:15.425082+00:00",
    "total": 36,
    "count": 13,
    "jobs": [
@@ -238,6 +238,13 @@
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1",
      "posted": "Posted 28 Days Ago",
      "id": "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Launch-Program--Rotational----2027--Istanbul--Trkiye_R-292562-1"
+    },
+    {
+     "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
+     "location": "Athens, Greece",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
+     "posted": "Posted Today",
+     "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693"
     },
     {
      "title": "Associate Specialist, Products and Solutions, Launch Graduate Program 2027 - Taipei, Taiwan",
@@ -282,13 +289,6 @@
      "id": "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1"
     },
     {
-     "title": "Associate Consultant (Marketing), Launch Graduate Program 2027 \u2013 Athens, Greece",
-     "location": "Athens, Greece",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Athens-Greece/Associate-Consultant--Launch-Graduate-Program-2027---Greece-_R-287693"
-    },
-    {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Egypt",
      "location": "Cairo, Egypt",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Associate-Consultant--Launch-Program-2027---Egypt_R-287585-2",
@@ -303,8 +303,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:28:59.280749+00:00",
-   "total": 381,
+   "checked": "2026-10-29T22:34:52.752275+00:00",
+   "total": 387,
    "count": 0,
    "jobs": []
   },
@@ -314,8 +314,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:29:27.429949+00:00",
-   "total": 316,
+   "checked": "2026-10-29T22:35:20.741594+00:00",
+   "total": 325,
    "count": 2,
    "jobs": [
     {
@@ -340,22 +340,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-29T12:29:48.649895+00:00",
+   "checked": "2026-10-29T22:35:42.650267+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Mastercard (Campus site)",
-   "title": "Associate Analyst, Product Delivery Launch Program 2027-Malaysia",
-   "location": "Kuala Lumpur, Malaysia",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Analyst--Product-Delivery-Launch-Program-2027-Malaysia_R-284629",
-   "posted": "Posted Today",
-   "id": "/job/Kuala-Lumpur-Malaysia/Associate-Analyst--Product-Delivery-Launch-Program-2027-Malaysia_R-284629"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
