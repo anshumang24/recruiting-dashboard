@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T22:21:21.387734+00:00",
+ "generated": "2026-10-29T04:48:04.882537+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:17:31.122239+00:00",
-   "total": 398,
+   "checked": "2026-10-29T04:44:27.770851+00:00",
+   "total": 396,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:17:37.412689+00:00",
-   "total": 73,
+   "checked": "2026-10-29T04:44:33.291918+00:00",
+   "total": 67,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:17:37.572509+00:00",
-   "total": 2842,
+   "checked": "2026-10-29T04:44:33.480216+00:00",
+   "total": 2847,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:17:37.631299+00:00",
+   "checked": "2026-10-29T04:44:33.540013+00:00",
    "total": 24,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:17:37.689187+00:00",
+   "checked": "2026-10-29T04:44:33.592005+00:00",
    "total": 36,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:17:39.230882+00:00",
+   "checked": "2026-10-29T04:44:34.747136+00:00",
    "total": 113,
    "count": 0,
    "jobs": []
@@ -81,7 +81,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:18:20.313815+00:00",
+   "checked": "2026-10-29T04:45:15.623664+00:00",
    "total": 495,
    "count": 9,
    "jobs": [
@@ -156,8 +156,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:18:30.574515+00:00",
-   "total": 207,
+   "checked": "2026-10-29T04:45:25.663594+00:00",
+   "total": 206,
    "count": 0,
    "jobs": []
   },
@@ -167,8 +167,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:19:05.266425+00:00",
-   "total": 223,
+   "checked": "2026-10-29T04:45:59.461197+00:00",
+   "total": 231,
    "count": 0,
    "jobs": []
   },
@@ -178,8 +178,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:19:27.944405+00:00",
-   "total": 418,
+   "checked": "2026-10-29T04:46:19.365152+00:00",
+   "total": 417,
    "count": 0,
    "jobs": []
   },
@@ -189,7 +189,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:19:54.189450+00:00",
+   "checked": "2026-10-29T04:46:40.286413+00:00",
    "total": 280,
    "count": 0,
    "jobs": []
@@ -200,7 +200,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:20:01.454110+00:00",
+   "checked": "2026-10-29T04:46:47.580418+00:00",
    "total": 35,
    "count": 12,
    "jobs": [
@@ -296,8 +296,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:20:35.052392+00:00",
-   "total": 380,
+   "checked": "2026-10-29T04:47:18.716298+00:00",
+   "total": 382,
    "count": 0,
    "jobs": []
   },
@@ -307,8 +307,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:21:00.936223+00:00",
-   "total": 324,
+   "checked": "2026-10-29T04:47:44.424863+00:00",
+   "total": 321,
    "count": 2,
    "jobs": [
     {
@@ -333,22 +333,13 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-28T22:21:21.387722+00:00",
+   "checked": "2026-10-29T04:48:04.882522+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
   }
  ],
- "new_since_last_run": [
-  {
-   "company": "Caterpillar",
-   "title": "2027 IT Analyst - Entry Level",
-   "location": "2 Locations",
-   "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332",
-   "posted": "Posted Today",
-   "id": "/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332"
-  }
- ],
+ "new_since_last_run": [],
  "errors": [],
  "manual_only": [
   {
