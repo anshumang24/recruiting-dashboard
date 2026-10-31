@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T22:03:25.462834+00:00",
+ "generated": "2026-10-31T04:32:05.377704+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T21:59:23.894329+00:00",
-   "total": 408,
+   "checked": "2026-10-31T04:28:19.214168+00:00",
+   "total": 411,
    "count": 1,
    "jobs": [
     {
@@ -26,8 +26,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T21:59:36.153820+00:00",
-   "total": 80,
+   "checked": "2026-10-31T04:28:28.821012+00:00",
+   "total": 75,
    "count": 0,
    "jobs": []
   },
@@ -37,8 +37,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T21:59:36.326885+00:00",
-   "total": 2875,
+   "checked": "2026-10-31T04:28:29.006548+00:00",
+   "total": 2873,
    "count": 0,
    "jobs": []
   },
@@ -48,7 +48,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T21:59:36.405218+00:00",
+   "checked": "2026-10-31T04:28:29.098413+00:00",
    "total": 23,
    "count": 0,
    "jobs": []
@@ -59,7 +59,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T21:59:36.509044+00:00",
+   "checked": "2026-10-31T04:28:29.184186+00:00",
    "total": 41,
    "count": 0,
    "jobs": []
@@ -70,7 +70,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T21:59:37.758924+00:00",
+   "checked": "2026-10-31T04:28:30.468741+00:00",
    "total": 113,
    "count": 0,
    "jobs": []
@@ -81,9 +81,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:00:20.044153+00:00",
-   "total": 482,
-   "count": 8,
+   "checked": "2026-10-31T04:29:10.400175+00:00",
+   "total": 481,
+   "count": 7,
    "jobs": [
     {
      "title": "Associate Analyst, Business Development, Launch Program 2027 \u2013 Saudi Arabia",
@@ -114,13 +114,6 @@
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
     },
     {
-     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
-     "location": "Budapest, Hungary",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1",
-     "posted": "Posted 24 Days Ago",
-     "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695-1"
-    },
-    {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
      "location": "Besiktas, Istanbul Turkey",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
@@ -149,7 +142,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:00:32.181901+00:00",
+   "checked": "2026-10-31T04:29:21.685822+00:00",
    "total": 202,
    "count": 0,
    "jobs": []
@@ -160,8 +153,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:01:07.801614+00:00",
-   "total": 322,
+   "checked": "2026-10-31T04:29:54.106330+00:00",
+   "total": 323,
    "count": 0,
    "jobs": []
   },
@@ -171,8 +164,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:01:30.933892+00:00",
-   "total": 425,
+   "checked": "2026-10-31T04:30:13.493500+00:00",
+   "total": 426,
    "count": 0,
    "jobs": []
   },
@@ -182,7 +175,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:01:54.882299+00:00",
+   "checked": "2026-10-31T04:30:37.836491+00:00",
    "total": 281,
    "count": 0,
    "jobs": []
@@ -193,9 +186,9 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:02:03.693102+00:00",
-   "total": 36,
-   "count": 12,
+   "checked": "2026-10-31T04:30:44.909447+00:00",
+   "total": 35,
+   "count": 11,
    "jobs": [
     {
      "title": "Associate Analyst, Product Delivery Launch Program 2027-Malaysia",
@@ -261,13 +254,6 @@
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1"
     },
     {
-     "title": "Associate Consultant, Launch Graduate Program 2027 \u2013 Hungary",
-     "location": "Budapest, Hungary",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695",
-     "posted": "Posted 24 Days Ago",
-     "id": "/job/Budapest-Hungary/Associate-Consultant--Launch-Graduate-Program-2027---Hungary_R-287695"
-    },
-    {
      "title": "Associate Consultant, Launch Graduate Program \u2013 2027, Istanbul, T\u00fcrkiye",
      "location": "Besiktas, Istanbul Turkey",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-1",
@@ -289,8 +275,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:02:38.665450+00:00",
-   "total": 376,
+   "checked": "2026-10-31T04:31:20.780987+00:00",
+   "total": 371,
    "count": 0,
    "jobs": []
   },
@@ -300,8 +286,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:03:05.076442+00:00",
-   "total": 326,
+   "checked": "2026-10-31T04:31:45.198977+00:00",
+   "total": 323,
    "count": 2,
    "jobs": [
     {
@@ -326,7 +312,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-10-30T22:03:25.462814+00:00",
+   "checked": "2026-10-31T04:32:05.377686+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
