@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T05:14:12.011915+00:00",
+ "generated": "2026-11-16T15:05:01.538346+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,7 +7,7 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:10:47.417097+00:00",
+   "checked": "2026-11-16T15:01:56.749138+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:10:50.773048+00:00",
-   "total": 38,
+   "checked": "2026-11-16T15:02:15.531603+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:10:50.956681+00:00",
-   "total": 2755,
+   "checked": "2026-11-16T15:02:15.691205+00:00",
+   "total": 2754,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:10:51.026254+00:00",
+   "checked": "2026-11-16T15:02:15.764499+00:00",
    "total": 30,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:10:51.094374+00:00",
-   "total": 44,
+   "checked": "2026-11-16T15:02:15.835083+00:00",
+   "total": 45,
    "count": 0,
    "jobs": []
   },
@@ -62,8 +62,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:10:52.365205+00:00",
-   "total": 107,
+   "checked": "2026-11-16T15:02:17.230124+00:00",
+   "total": 106,
    "count": 0,
    "jobs": []
   },
@@ -73,22 +73,22 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:11:28.981569+00:00",
-   "total": 404,
+   "checked": "2026-11-16T15:02:43.811812+00:00",
+   "total": 40,
    "count": 2,
    "jobs": [
     {
      "title": "Global Markets Rotational Launch Program2027 - Associate Analyst, Account Management - Riyadh, Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-2",
-     "posted": "Posted 6 Days Ago",
+     "posted": "Posted 7 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-2"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2",
-     "posted": "Posted 6 Days Ago",
+     "posted": "Posted 7 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
     }
    ]
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:11:39.120282+00:00",
-   "total": 198,
+   "checked": "2026-11-16T15:02:57.819604+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:12:10.407940+00:00",
-   "total": 296,
+   "checked": "2026-11-16T15:03:11.894065+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -121,8 +121,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:12:28.881016+00:00",
-   "total": 425,
+   "checked": "2026-11-16T15:03:32.800623+00:00",
+   "total": 20,
    "count": 0,
    "jobs": []
   },
@@ -132,8 +132,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:12:52.451471+00:00",
-   "total": 284,
+   "checked": "2026-11-16T15:03:46.796536+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -143,53 +143,10 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:12:56.861980+00:00",
-   "total": 21,
-   "count": 6,
-   "jobs": [
-    {
-     "title": "Global Markets Rotational Launch Program2027 - Associate Analyst, Account Management - Riyadh, Saudi Arabia",
-     "location": "Riyadh, Saudi Arabia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-1",
-     "posted": "Posted 6 Days Ago",
-     "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-1"
-    },
-    {
-     "title": "Global Markets, Rotational Graduate Launch Program 2027 - (Sales & Product) - Cairo, Egypt",
-     "location": "Cairo, Egypt",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1",
-     "posted": "Posted 25 Days Ago",
-     "id": "/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1"
-    },
-    {
-     "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 - Taipei, Taiwan",
-     "location": "Taipei, Taiwan",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286365",
-     "posted": "Posted 25 Days Ago",
-     "id": "/job/Taipei-Taiwan/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286365"
-    },
-    {
-     "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
-     "location": "Riyadh, Saudi Arabia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1",
-     "posted": "Posted 6 Days Ago",
-     "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1"
-    },
-    {
-     "title": "Associate Specialist, Implementation - Launch Graduate Program 2027",
-     "location": "Kuala Lumpur, Malaysia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Kuala-Lumpur-Malaysia/Associate-Specialist--Implementation---Launch-Graduate-Program-2027_R-284627",
-     "posted": "Posted 9 Days Ago",
-     "id": "/job/Kuala-Lumpur-Malaysia/Associate-Specialist--Implementation---Launch-Graduate-Program-2027_R-284627"
-    },
-    {
-     "title": "Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan",
-     "location": "Taipei, Taiwan",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569",
-     "posted": "Posted 30 Days Ago",
-     "id": "/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569"
-    }
-   ]
+   "checked": "2026-11-16T15:04:10.137800+00:00",
+   "total": 0,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "usbank",
@@ -197,8 +154,8 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:13:29.821992+00:00",
-   "total": 370,
+   "checked": "2026-11-16T15:04:28.823164+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -208,8 +165,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:13:52.305021+00:00",
-   "total": 306,
+   "checked": "2026-11-16T15:04:42.811822+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -219,7 +176,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T05:14:12.011901+00:00",
+   "checked": "2026-11-16T15:05:01.538328+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
