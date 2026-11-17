@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:05:01.538346+00:00",
+ "generated": "2026-11-17T01:43:31.638324+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:01:56.749138+00:00",
-   "total": 0,
+   "checked": "2026-11-17T01:40:37.163799+00:00",
+   "total": 20,
    "count": 0,
    "jobs": []
   },
@@ -18,7 +18,7 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:15.531603+00:00",
+   "checked": "2026-11-17T01:40:55.843297+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:15.691205+00:00",
-   "total": 2754,
+   "checked": "2026-11-17T01:40:55.999740+00:00",
+   "total": 2783,
    "count": 0,
    "jobs": []
   },
@@ -40,8 +40,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:15.764499+00:00",
-   "total": 30,
+   "checked": "2026-11-17T01:40:56.068877+00:00",
+   "total": 31,
    "count": 0,
    "jobs": []
   },
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:15.835083+00:00",
+   "checked": "2026-11-17T01:40:56.136316+00:00",
    "total": 45,
    "count": 0,
    "jobs": []
@@ -62,8 +62,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:17.230124+00:00",
-   "total": 106,
+   "checked": "2026-11-17T01:40:57.457197+00:00",
+   "total": 104,
    "count": 0,
    "jobs": []
   },
@@ -73,25 +73,10 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:43.811812+00:00",
-   "total": 40,
-   "count": 2,
-   "jobs": [
-    {
-     "title": "Global Markets Rotational Launch Program2027 - Associate Analyst, Account Management - Riyadh, Saudi Arabia",
-     "location": "Riyadh, Saudi Arabia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-2",
-     "posted": "Posted 7 Days Ago",
-     "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-2"
-    },
-    {
-     "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
-     "location": "Riyadh, Saudi Arabia",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2",
-     "posted": "Posted 7 Days Ago",
-     "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
-    }
-   ]
+   "checked": "2026-11-17T01:41:16.116691+00:00",
+   "total": 0,
+   "count": 0,
+   "jobs": []
   },
   {
    "id": "nike",
@@ -99,7 +84,7 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:02:57.819604+00:00",
+   "checked": "2026-11-17T01:41:30.205355+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -110,7 +95,7 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:03:11.894065+00:00",
+   "checked": "2026-11-17T01:41:44.217171+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -121,8 +106,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:03:32.800623+00:00",
-   "total": 20,
+   "checked": "2026-11-17T01:42:02.898476+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -132,7 +117,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:03:46.796536+00:00",
+   "checked": "2026-11-17T01:42:16.914195+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -143,7 +128,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:04:10.137800+00:00",
+   "checked": "2026-11-17T01:42:40.285687+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -154,7 +139,7 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:04:28.823164+00:00",
+   "checked": "2026-11-17T01:42:58.930722+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -165,7 +150,7 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:04:42.811822+00:00",
+   "checked": "2026-11-17T01:43:12.938453+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
@@ -176,7 +161,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-11-16T15:05:01.538328+00:00",
+   "checked": "2026-11-17T01:43:31.638306+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
