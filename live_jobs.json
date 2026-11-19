@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T15:18:39.631075+00:00",
+ "generated": "2026-11-19T00:01:24.637538+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:14:41.952114+00:00",
-   "total": 79,
+   "checked": "2026-11-18T23:57:51.103013+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:14:52.682049+00:00",
-   "total": 49,
+   "checked": "2026-11-18T23:58:17.848588+00:00",
+   "total": 32,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:15:24.346707+00:00",
-   "total": 2791,
+   "checked": "2026-11-18T23:58:17.971954+00:00",
+   "total": 2799,
    "count": 0,
    "jobs": []
   },
@@ -40,7 +40,7 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:15:24.396016+00:00",
+   "checked": "2026-11-18T23:58:18.018313+00:00",
    "total": 32,
    "count": 0,
    "jobs": []
@@ -51,8 +51,8 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:15:24.464445+00:00",
-   "total": 44,
+   "checked": "2026-11-18T23:58:18.098841+00:00",
+   "total": 48,
    "count": 0,
    "jobs": []
   },
@@ -62,8 +62,8 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:15:25.603315+00:00",
-   "total": 107,
+   "checked": "2026-11-18T23:58:19.212706+00:00",
+   "total": 109,
    "count": 0,
    "jobs": []
   },
@@ -73,10 +73,18 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:15:45.350630+00:00",
-   "total": 20,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-11-18T23:58:50.046540+00:00",
+   "total": 105,
+   "count": 1,
+   "jobs": [
+    {
+     "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
+     "location": "Riyadh, Saudi Arabia",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2",
+     "posted": "Posted 9 Days Ago",
+     "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
+    }
+   ]
   },
   {
    "id": "nike",
@@ -84,8 +92,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:16:07.617775+00:00",
-   "total": 56,
+   "checked": "2026-11-18T23:59:03.879738+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -95,8 +103,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:16:40.155045+00:00",
-   "total": 100,
+   "checked": "2026-11-18T23:59:30.079184+00:00",
+   "total": 171,
    "count": 0,
    "jobs": []
   },
@@ -106,8 +114,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:16:58.629095+00:00",
-   "total": 0,
+   "checked": "2026-11-18T23:59:53.876968+00:00",
+   "total": 20,
    "count": 0,
    "jobs": []
   },
@@ -117,8 +125,8 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:17:22.706456+00:00",
-   "total": 175,
+   "checked": "2026-11-19T00:00:14.990100+00:00",
+   "total": 203,
    "count": 0,
    "jobs": []
   },
@@ -128,10 +136,32 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:17:45.897845+00:00",
-   "total": 0,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-11-19T00:00:31.577944+00:00",
+   "total": 13,
+   "count": 3,
+   "jobs": [
+    {
+     "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
+     "location": "Riyadh, Saudi Arabia",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1",
+     "posted": "Posted 9 Days Ago",
+     "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1"
+    },
+    {
+     "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 - Taipei, Taiwan",
+     "location": "Taipei, Taiwan",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286365",
+     "posted": "Posted 28 Days Ago",
+     "id": "/job/Taipei-Taiwan/Associate-Analyst--Account-Management--Launch-Graduate-Program-2027---Taipei--Taiwan_R-286365"
+    },
+    {
+     "title": "Associate Consultant, Launch Graduate Program 2027 - Taipei, Taiwan",
+     "location": "Taipei, Taiwan",
+     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569",
+     "posted": "Posted 30+ Days Ago",
+     "id": "/job/Taipei-Taiwan/Associate-Consultant--Launch-Graduate-Program-2027---Taipei--Taiwan_R-287569"
+    }
+   ]
   },
   {
    "id": "usbank",
@@ -139,10 +169,18 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:18:04.442064+00:00",
-   "total": 0,
-   "count": 0,
-   "jobs": []
+   "checked": "2026-11-19T00:00:51.767883+00:00",
+   "total": 20,
+   "count": 1,
+   "jobs": [
+    {
+     "title": "Leadership Development Facilitator",
+     "location": "2 Locations",
+     "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857",
+     "posted": "Posted Today",
+     "id": "/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857"
+    }
+   ]
   },
   {
    "id": "caterpillar",
@@ -150,8 +188,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:18:21.137660+00:00",
-   "total": 20,
+   "checked": "2026-11-19T00:01:05.647854+00:00",
+   "total": 0,
    "count": 0,
    "jobs": []
   },
@@ -161,7 +199,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-11-18T15:18:39.631063+00:00",
+   "checked": "2026-11-19T00:01:24.637520+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
