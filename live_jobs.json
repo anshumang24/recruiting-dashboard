@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T06:12:29.125556+00:00",
+ "generated": "2026-11-23T23:33:26.167178+00:00",
  "companies": [
   {
    "id": "capitalone",
@@ -7,8 +7,8 @@
    "firm": "Capital One \u2014 Business Analyst ADP",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:14.680017+00:00",
-   "total": 401,
+   "checked": "2026-11-23T23:29:54.093382+00:00",
+   "total": 399,
    "count": 0,
    "jobs": []
   },
@@ -18,8 +18,8 @@
    "firm": "Duke Energy",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:19.655740+00:00",
-   "total": 49,
+   "checked": "2026-11-23T23:29:59.575426+00:00",
+   "total": 51,
    "count": 0,
    "jobs": []
   },
@@ -29,8 +29,8 @@
    "firm": "SpaceX",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:19.851499+00:00",
-   "total": 2845,
+   "checked": "2026-11-23T23:29:59.959134+00:00",
+   "total": 2857,
    "count": 0,
    "jobs": []
   },
@@ -40,8 +40,8 @@
    "firm": "Fanatics",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:19.894327+00:00",
-   "total": 33,
+   "checked": "2026-11-23T23:30:00.074061+00:00",
+   "total": 32,
    "count": 0,
    "jobs": []
   },
@@ -51,7 +51,7 @@
    "firm": "Hudl",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:19.935581+00:00",
+   "checked": "2026-11-23T23:30:00.177202+00:00",
    "total": 46,
    "count": 0,
    "jobs": []
@@ -62,7 +62,7 @@
    "firm": "Sportradar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:21.129514+00:00",
+   "checked": "2026-11-23T23:30:01.413320+00:00",
    "total": 106,
    "count": 0,
    "jobs": []
@@ -73,7 +73,7 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:49.740315+00:00",
+   "checked": "2026-11-23T23:30:33.608009+00:00",
    "total": 348,
    "count": 2,
    "jobs": [
@@ -81,14 +81,14 @@
      "title": "Global Markets Rotational Launch Program2027 - Associate Analyst, Account Management - Riyadh, Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-2",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-2"
     },
     {
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-2"
     }
    ]
@@ -99,8 +99,8 @@
    "firm": "Nike \u2014 Data Analyst 1",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:09:58.871029+00:00",
-   "total": 197,
+   "checked": "2026-11-23T23:30:44.014171+00:00",
+   "total": 201,
    "count": 0,
    "jobs": []
   },
@@ -110,8 +110,8 @@
    "firm": "Target",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:10:29.619567+00:00",
-   "total": 295,
+   "checked": "2026-11-23T23:31:18.595026+00:00",
+   "total": 293,
    "count": 0,
    "jobs": []
   },
@@ -121,8 +121,8 @@
    "firm": "Lowe's",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:10:49.352378+00:00",
-   "total": 443,
+   "checked": "2026-11-23T23:31:39.496339+00:00",
+   "total": 428,
    "count": 0,
    "jobs": []
   },
@@ -132,7 +132,7 @@
    "firm": "General Mills",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:11:09.615596+00:00",
+   "checked": "2026-11-23T23:32:01.701366+00:00",
    "total": 278,
    "count": 0,
    "jobs": []
@@ -143,23 +143,16 @@
    "firm": "Mastercard \u2014 Launch Program",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:11:14.468036+00:00",
-   "total": 17,
-   "count": 5,
+   "checked": "2026-11-23T23:32:06.593071+00:00",
+   "total": 15,
+   "count": 4,
    "jobs": [
     {
      "title": "Global Markets Rotational Launch Program2027 - Associate Analyst, Account Management - Riyadh, Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-1",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Analyst--Account-Management_R-284589-1"
-    },
-    {
-     "title": "Global Markets, Rotational Graduate Launch Program 2027 - (Sales & Product) - Cairo, Egypt",
-     "location": "Cairo, Egypt",
-     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1",
-     "posted": "Posted 30+ Days Ago",
-     "id": "/job/Cairo-Egypt/Global-Markets--Graduate-Launch-Program-2027---Cairo--Egypt_R-291972-1"
     },
     {
      "title": "Associate Analyst, Account Management, Launch Graduate Program 2027 - Taipei, Taiwan",
@@ -172,7 +165,7 @@
      "title": "Associate Consultant, Launch Program 2027 \u2013 Saudi Arabia",
      "location": "Riyadh, Saudi Arabia",
      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "id": "/job/Riyadh-Saudi-Arabia/Associate-Consultant--Launch-Program-2027---Saudi-Arabia_R-287588-1"
     },
     {
@@ -190,15 +183,15 @@
    "firm": "U.S. Bank",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:11:44.294099+00:00",
-   "total": 363,
+   "checked": "2026-11-23T23:32:38.961752+00:00",
+   "total": 380,
    "count": 1,
    "jobs": [
     {
      "title": "Leadership Development Facilitator",
      "location": "2 Locations",
      "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "id": "/job/Charlotte-NC/Leadership-Development-Facilitator_2026-0029857"
     }
    ]
@@ -209,8 +202,8 @@
    "firm": "Caterpillar",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:12:09.279248+00:00",
-   "total": 315,
+   "checked": "2026-11-23T23:33:04.678077+00:00",
+   "total": 320,
    "count": 0,
    "jobs": []
   },
@@ -220,7 +213,7 @@
    "firm": "Verizon",
    "ok": true,
    "error": "",
-   "checked": "2026-11-23T06:12:29.125540+00:00",
+   "checked": "2026-11-23T23:33:26.167161+00:00",
    "total": 0,
    "count": 0,
    "jobs": []
